@@ -1,0 +1,33 @@
+---
+title: "Mathew da Costa Marques"
+image: "mdmarques_insight.jpg"
+links:
+  - label: CV
+    url: "https://scholars.latrobe.edu.au/mmarques"
+  - label: Publications
+    url: "https://scholar.google.com/citations?user=726mySAAAAAJ&hl=en"
+  - label: twitter
+    url: "https://twitter.com/fabiovelo"
+  - label: Email
+    url: "mailto:m.marques@latrobe.edu.au"
+output:
+  postcards::trestles
+---
+ 
+## Bio
+
+Dr Mathew Marques is a Lecturer in Psychology at La Trobe University, Melbourne. He uses social psychology to understand the role of psychological mechanisms (e.g., trust, conspiracy theories, ideologies) in the formation of attitudes towards socially contentious scientific research (e.g., genetically modified foods, vaccinations), and more broadly in science communication. He is also interested in the role of epistemological processes such as anti-intellectualism in the evaluation of emerging technologies, and how these and other values shape judgments of scientific actors.
+
+## Education
+
+**Swinburne University of Technology** | Melbourne, Australia
+
+Doctor of Philosophy in Social Psychology | 2010
+
+**Swinburne University of Technology** | Melbourne, Australia
+
+Bachelor of Arts Psychology (Honours) | 2003
+
+**La Trobe Universisty** | Melbourne, Australia
+
+Bachelor of Behavioural Science | 2001
