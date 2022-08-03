@@ -89,10 +89,7 @@ awareness and belief in conspiracy theories: Motivational correlates. *Political
 
 <div style="display: flex">
 
-Williams, M.N., **Marques, M.D.**, Hill, S.R., Kerr, J.R., & Ling, M. (2022). Why are beliefs in
-different conspiracy theories positively correlated across individuals? Testing monologicalnetwork
-vs. unidimensional factor model explanations. Registered report. *British Journal of
-Social Psychology, 61*(3), 1011-1031. [https://doi.org/10.1111/bjso.12518](https://bpspsychub.onlinelibrary.wiley.com/doi/10.1111/bjso.12518) [[PDF]](https://psyarxiv.com/xyf46/) *Impact Factor = 4.691*
+Williams, M.N., **Marques, M.D.**, Hill, S.R., Kerr, J.R., & Ling, M. (2022). Why are beliefs in different conspiracy theories positively correlated across individuals? Testing monological network vs. unidimensional factor model explanations. Registered report. *British Journal of Social Psychology, 61*(3), 1011-1031. [https://doi.org/10.1111/bjso.12518](https://bpspsychub.onlinelibrary.wiley.com/doi/10.1111/bjso.12518) [[PDF]](https://psyarxiv.com/xyf46/) *Impact Factor = 4.691*
 
 <div data-badge-popover="right" data-badge-type="donut" data-doi="10.1111/bjso.12518" data-hide-no-mentions="true" class="altmetric-embed"></div>
 <span class="__dimensions_badge_embed__" data-doi="10.1111/bjso.12518" data-legend="hover-right" data-style="small_circle" data-hide-zero-citations="true"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
