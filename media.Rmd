@@ -3,6 +3,7 @@ title: Media
 site: distill::distill_website
 output:
   distill::distill_article
+  
 ---
 I feel it is important as an academic to translate research and engage with the public through various mediums. Below are a selected set of my recent media engagements. Feel free to [contact me](mailto:m.marques@latrobe.edu.au) if you would like to chat about my work or social psychology, including conspiracy theories
 
