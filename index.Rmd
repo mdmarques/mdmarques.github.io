@@ -1,5 +1,5 @@
 ---
-title: Mathew da Costa Marques
+title: Mathew Marques
 site: distill::distill_website
 image: "mmarques.jpg"
 links:
@@ -13,7 +13,7 @@ links:
     url: "mailto:m.marques@latrobe.edu.au"
 output:
   postcards::trestles
-
+  
 ---
 
 ## Bio

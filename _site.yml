@@ -14,5 +14,3 @@ navbar:
     - icon: fab fa-github
       href: https://github.com/rstudio/distill
 output: distill::distill_article
-
-<link rel="stylesheet" href="path/to/fontawesome.min.css">
