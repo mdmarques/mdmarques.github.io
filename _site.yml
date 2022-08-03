@@ -13,4 +13,4 @@ navbar:
       href: publications.html
     - text: "Media"
       href: media.html
-output: distill::distill_article
+output: distill::distill_article 
