@@ -2,7 +2,9 @@ name: "Mathew da Costa Marques"
 title: "Mathew da Costa Marques"
 description: |
   My Mathew da Costa Marques
-output_dir: "_site"
+output_dir: "."
+include: ["import.R"]
+exclude: ["docs.txt", "*.csv"]
 navbar:
   right:
     - text: "Home"
