@@ -11,6 +11,8 @@ navbar:
       href: about.html
     - text: "Selected Publications"
       href: publications.html
-    - icon: fab fa-github 
+    - icon: fab fa-github
       href: https://github.com/rstudio/distill
 output: distill::distill_article
+
+<link rel="stylesheet" href="path/to/fontawesome.min.css">
