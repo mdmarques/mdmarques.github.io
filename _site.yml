@@ -1,22 +1,14 @@
 name: "Mathew da Costa Marques"
 title: "Mathew da Costa Marques"
-theme: theme.css
 description: |
   My Mathew da Costa Marques
 output_dir: "."
 navbar:
-  left:
-    - text: "Home"
-      href: index.html
-      icon: fa-home
   right:
     - text: "About"
       href: about.html
-      icon: fa-book-open
     - text: "Selected Publications"
       href: publications.html
     - text: "Media"
       href: media.html
-    - href: https://twitter.com/fabiovelo
-      icon: fa-square-twitter
 output: distill::distill_article 
