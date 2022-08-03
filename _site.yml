@@ -1,5 +1,6 @@
 name: "Mathew da Costa Marques"
 title: "Mathew da Costa Marques"
+theme: theme.css
 description: |
   My Mathew da Costa Marques
 output_dir: "."
