@@ -1,0 +1,65 @@
+---
+title: Media
+site: distill::distill_website
+output:
+  distill::distill_article
+---
+I feel it is important as an academic to translate research and engage with the public through various mediums. Below are a selected set of my recent media engagements. Feel free to [contact me](mailto:m.marques@latrobe.edu.au) if you would like to chat about my work or social psychology, including conspiracy theories
+
+## Television
+
+[*SBS Insight*:	Conspiracy Theories?](https://www.sbs.com.au/ondemand/video/2000844355750/conspiracy-theories) | 01/03/2022
+
+[*ABC News TV*:	Qanon Conspiracy Theories](https://www.abc.net.au/news/2021-06-15/why-do-people-buy-into-conspiracy-theories-like-qanon/13388796) | 15/06/2021
+
+[*Sky News Australia*: Conspiracy theories abound amid COVID-19 as people try to make sense of the chaos](https://www.skynews.com.au/details/_6218153074001) | 24/12/2020
+
+[*The Latest, Seven News*: Area 51: Storm the base](https://www.facebook.com/7NewsAustralia/posts/area-51-has-long-been-the-focus-of-conspiracy-theories-and-is-believed-to-be-the/2976169199059920/) | 19/07/2019
+
+## Print/digital
+
+[*NZ Herald*:	Study out on politics of New Zealand conspiracy theorists](https://www.nzherald.co.nz/nz/study-out-on-politics-of-new-zealand-conspiracy-theorists/QWT3OCA6A2FLRFOFSWZDPT6QYA/) | 26/6/2022
+
+[*The Guardian*:	In a pandemic of medical misinformation, how do you deal with conspiracy believers?](https://www.theguardian.com/science/2022/apr/19/in-a-pandemic-of-medical-misinformation-how-do-you-deal-with-conspiracy-believers) | 19/4/2022 
+
+[*SBS Insight*:	I feel duped': How an 'ex-conspiracy theorist' changed her mind on vaccination](https://www.sbs.com.au/news/insight/article/i-feel-duped-how-an-ex-conspiracy-theorist-changed-her-mind-on-vaccination/mtxbxp0pn) | 28/02/2022
+
+[*Sydney Morning Herald*: Dying of COVID or with it? Pathologists take on conspiracy theorists](https://www.smh.com.au/national/dying-of-covid-or-with-it-pathologists-take-on-conspiracy-theorists-20211111-p5982e.html) | 11/11/2021
+
+[*Sydney Morning Herald*: Is there any point in arguing with people?](https://www.smh.com.au/national/is-there-any-point-in-arguing-with-people-20211012-p58z7v.html) | 12/10/2021
+
+[*The Saturday Paper*:	The political forces inside the anti-lockdown movement](https://www.thesaturdaypaper.com.au/news/politics/2021/07/31/the-political-forces-inside-the-anti-lockdown-movement/162765360012176) | 31/07/2021
+
+[*Cosmos*:	Cherry-picked COVID-19 statistics](https://cosmosmagazine.com/cherry-picked-covid-19-statistics/) | 30/06/2021
+
+[*Sydney Morning Herald*: Are we ignoring the hard truths about the most likely cause of COVID-19?](https://www.smh.com.au/national/are-we-ignoring-the-hard-truths-about-the-most-likely-cause-of-covid-19-20210601-p57x4r.html) | 01/06/2021
+
+[*The Good Weekend*:	The thrill of the game: Why are people drawn into conspiracy theories?](https://www.theage.com.au/national/the-thrill-of-the-game-why-are-people-drawn-into-conspiracy-theories-20210304-p577tv.html) | 17/04/2021
+
+[*The Conversation*: Was Phar Lap Killed by Gangsters?](https://theconversation.com/was-phar-lap-killed-by-gangsters-new-research-shows-which-conspiracies-people-believe-in-and-why-158610) | 27/04/2021
+
+[*Agence France-Presse*:	Australian wellness celeb fuels 'infodemic'](https://www.scmp.com/news/asia/australasia/article/3104652/how-australian-celebrity-chef-pete-evans-became-advocate) | 08/10/20210
+
+[*The New Daily*:	Sovereign citizens: The anti-masker conspiracy theorists ‘baiting police’](https://thenewdaily.com.au/news/2020/08/05/sovereign-citizens-mask-conspiracy-theorists-baiting-police/) | 05/08/2020
+
+[*Canberra Times*: We've seen this conspiracy theory movie before](https://www.canberratimes.com.au/story/6768348/weve-seen-such-conspiracy-theories-before/) | 18/05/2020
+
+[*The Saturday Paper*:	How Covid-19 energised conspiracy theorists](https://www.thesaturdaypaper.com.au/news/media/2020/05/16/how-covid-19-energised-conspiracy-theorists/15895512009831) | 24/12/2020
+
+[*The Conversation*:	Sport is full of conspiracy theories – Chris Froome’s horrific cycling crash is just the latest example](https://theconversation.com/sport-is-full-of-conspiracy-theories-chris-froomes-horrific-cycling-crash-is-just-the-latest-example-118918) | 19/06/2020
+
+## Audio
+
+[*3AW*:	Young Australians most likely group to believe in conspiracy theories](https://www.3aw.com.au/young-australians-most-likely-group-to-believe-in-conspiracy-theories/) | 07/03/2022
+
+[*ABC Rear Vision podcast*:	Medical conspiracy theories](https://www.abc.net.au/radionational/programs/rearvision/medical-conspiracy-theories-through-the-ages/13649988) | 27/11/2021
+
+[*ABC Triple J Hack*:	No, the vaccine doesn’t give you swollen balls](https://www.abc.net.au/triplej/programs/hack/hack/13535808) | 15/09/2021
+
+[*ABC Radio Melbourne and ABC Victoria Breakfast with Ali Moore*: Conspiracy theories](https://www.abc.net.au/radio/melbourne/programs/breakfast/breakfast/13025156) | 07/01/2020
+
+[*ABC Radio National Science Show*:	Revisiting the great Carlos hoax](https://www.abc.net.au/radionational/programs/scienceshow/revisiting-the-great-carlos-hoax-of-1988/12875836) | 14/11/2020
+
+## Public talks
+
+[*La Trobe University*: COVID-19 and the Pandemic of Denial](https://www.abc.net.au/radionational/programs/bigideas/covid-19-and-the-pandemic-of-denial/12935664) | 01/12/2020
