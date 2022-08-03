@@ -1,48 +1,21 @@
 ---
 title: "Mathew da Costa Marques"
 image: "mdmarques_insight.jpg"
+site: distill::distill_website
 links:
-  - label: Selected Publications
-    url: "publications.html"
   - label: CV
     url: "docs/mmarques_cv.pdf"
   - label: Google Scholar
     url: "https://scholar.google.com/citations?user=726mySAAAAAJ&hl=en"
-  - label: twitter
-    url: "https://twitter.com/fabiovelo"
   - label: Email
     url: "mailto:m.marques@latrobe.edu.au"
 output:
   postcards::trestles
 ---
-## Bio
+## Homepage
 
 Dr Mathew Marques is a Lecturer in Psychology at La Trobe University, Melbourne.
 
 He uses social psychology to understand the role of psychological mechanisms (e.g., trust, conspiracy theories, ideologies) in the formation of attitudes towards socially contentious scientific research (e.g., genetically modified foods, vaccinations), and more broadly in science communication.
 
 Mathew is also interested in the role of epistemological processes such as anti-intellectualism in the evaluation of emerging technologies, and how these and other values shape judgments of scientific actors.
-
-## Education
-
-Swinburne University of Technology | Doctor of Philosophy in Social Psychology | 2010
-
-Swinburne University of Technology | Bachelor of Arts Psychology (Honours) | 2003
-
-La Trobe University | Bachelor of Behavioural Science | 2001
-
-## Memberships
-
-Member of the [Society of Australasian Social Psychologists](https://sasp.org.au) | 2004 - present
-
-Member of the [Society for Personality and Social Psychology](https://spsp.org) | 2016 - present
-
-The [Society of Australasian Social Psychologists](https://sasp.org.au) executive: Communication officer | 2016 - present
-
-Member of the [International Society of Political Psychology](https://ispp.org) | 2020 - present
-
-Member of [National Centre for Immunisation Research and Surveillance](https://ncirs.org.au) Social Science Advisory Group | 2020 - present
-
-Member of [Australasian Society of Behavioural Health and Medicine](https://www.asbhm.com) | 2021 - present
-
-Editorial board of [The Journal of Social Psychology](https://www.tandfonline.com/journals/vsoc20) | 2022 – present
