@@ -19,6 +19,8 @@ knitr::opts_chunk$set(echo = FALSE)
 A., & Sibley, C.G. (accepted 2 June 2022). Democracy and belief in conspiracy theories in
 New Zealand. *Australian Journal of Political Science*. [[PDF]](https://psyarxiv.com/s8qf4/)
 
+<div data-badge-popover="right" data-badge-type="donut" data-doi="10.31234/osf.io/s8qf4" data-hide-no-mentions="true" class="altmetric-embed"></div>
+<span class="__dimensions_badge_embed__" data-doi="10.31234/osf.io/s8qf4" data-legend="hover-right" data-style="small_circle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 </div>
 
 <details>
