@@ -13,9 +13,13 @@ output:
 **Marques, M.D.**, Hill, S.R., Clarke, E.J.R., Williams, M.N., Ling, M., Kerr, J.R., Douglas, K.M., Cichocka,
 A., & Sibley, C.G. (accepted 2 June 2022). Democracy and belief in conspiracy theories in
 New Zealand. *Australian Journal of Political Science*. [[PDF]](https://psyarxiv.com/s8qf4/)
+</div>
+<div style="display: flex; justify-content: space-between; width: 140px;">
 
 <div data-badge-popover="right" data-badge-type="donut" data-doi="10.31234/osf.io/s8qf4" data-hide-no-mentions="true" class="altmetric-embed"></div>
+
 <span class="__dimensions_badge_embed__" data-doi="10.31234/osf.io/s8qf4" data-legend="hover-right" data-style="small_circle" data-hide-zero-citations="true"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+
 </div>
 
 <details>
@@ -31,12 +35,16 @@ New Zealand. *Australian Journal of Political Science*. [[PDF]](https://psyarxiv
 <div style="display: flex">
 
 Jolley, D., **Marques, M.D.**, Cookson, D. (2022). Shining a spotlight on the dangerous consequences of
-conspiracy theories. Special issue in *Current Opinion in Psychology, 47*, 101363. [https://doi.org/10.1016/j.copsyc.2022.101363](https://www.sciencedirect.com/science/article/pii/S2352250X22000823) [[PDF]](https://www.sciencedirect.com/science/article/pii/S2352250X22000823/pdfft?md5=dfc9f1758690aabb2b0a34f5690c5723&pid=1-s2.0-S2352250X22000823-main.pdf) *Impact Factor = 6.813*
+conspiracy theories. Special issue in *Current Opinion in Psychology, 47*, 101363. [https://doi.org/10.1016/j.copsyc.2022.101363](https://www.sciencedirect.com/science/article/pii/S2352250X22000823) [[PDF]](https://www.sciencedirect.com/science/article/pii/S2352250X22000823/pdfft?md5=dfc9f1758690aabb2b0a34f5690c5723&pid=1-s2.0-S2352250X22000823-main.pdf)<br>
+*Impact Factor = 6.813*
+</div>
+<div style="display: flex; justify-content: space-between; width: 140px;">
 
 <div data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.copsyc.2022.101363" data-hide-no-mentions="true" class="altmetric-embed"></div>
-<span class="__dimensions_badge_embed__" data-doi="10.1016/j.copsyc.2022.101363" data-legend="hover-right" data-style="small_circle" data-hide-zero-citations="true"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
-</div>
 
+<span class="__dimensions_badge_embed__" data-doi="10.1016/j.copsyc.2022.101363" data-legend="hover-right" data-style="small_circle" data-hide-zero-citations="true"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+
+</div>
 <details>
   <summary>
   <font size="3">Abstract</font>
@@ -51,10 +59,15 @@ conspiracy theories. Special issue in *Current Opinion in Psychology, 47*, 10136
 
 **Marques, M.D.**, Douglas, K.M., & Jolley, D. (2022). Practical recommendations to communicate with
 patients about health-related conspiracy theories. *The Medical Journal of Australia, 216*(8),
-381-384. [https://doi.org/10.5694/mja2.51475](https://onlinelibrary.wiley.com/doi/10.5694/mja2.51475) [[PDF]](https://onlinelibrary.wiley.com/doi/pdf/10.5694/mja2.51475) *Impact Factor = 7.738*
+381-384. [https://doi.org/10.5694/mja2.51475](https://onlinelibrary.wiley.com/doi/10.5694/mja2.51475) [[PDF]](https://onlinelibrary.wiley.com/doi/pdf/10.5694/mja2.51475)<br>
+*Impact Factor = 7.738*
+</div>
+<div style="display: flex; justify-content: space-between; width: 140px;">
 
 <div data-badge-popover="right" data-badge-type="donut" data-doi="10.5694/mja2.51475" data-hide-no-mentions="true" class="altmetric-embed"></div>
+
 <span class="__dimensions_badge_embed__" data-doi="10.5694/mja2.51475" data-legend="hover-right" data-style="small_circle" data-hide-zero-citations="true"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+
 </div>
 
 <details>
@@ -71,9 +84,13 @@ patients about health-related conspiracy theories. *The Medical Journal of Austr
 
 **Marques, M.D.**, Ling, M., Williams, M.N., Kerr, J.R., & McLennan, J. (2022). Australasian public
 awareness and belief in conspiracy theories: Motivational correlates. *Political Psychology,
-43*(1), 177-198. [https://doi.org/10.1111/pops.12746](https://onlinelibrary.wiley.com/doi/10.1111/pops.12746) [[PDF]](https://psyarxiv.com/vr896/) *Impact Factor = 4.333*
+43*(1), 177-198. [https://doi.org/10.1111/pops.12746](https://onlinelibrary.wiley.com/doi/10.1111/pops.12746) [[PDF]](https://psyarxiv.com/vr896/)<br>
+*Impact Factor = 4.333*
+</div>
+<div style="display: flex; justify-content: space-between; width: 140px;">
 
 <div data-badge-popover="right" data-badge-type="donut" data-doi="10.1111/pops.12746" data-hide-no-mentions="true" class="altmetric-embed"></div>
+
 <span class="__dimensions_badge_embed__" data-doi="10.1111/pops.12746" data-legend="hover-right" data-style="small_circle" data-hide-zero-citations="true"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 </div>
 
@@ -89,7 +106,10 @@ awareness and belief in conspiracy theories: Motivational correlates. *Political
 
 <div style="display: flex">
 
-Williams, M.N., **Marques, M.D.**, Hill, S.R., Kerr, J.R., & Ling, M. (2022). Why are beliefs in different conspiracy theories positively correlated across individuals? Testing monological network vs. unidimensional factor model explanations. Registered report. *British Journal of Social Psychology, 61*(3), 1011-1031. [https://doi.org/10.1111/bjso.12518](https://bpspsychub.onlinelibrary.wiley.com/doi/10.1111/bjso.12518) [[PDF]](https://psyarxiv.com/xyf46/) *Impact Factor = 4.691*
+Williams, M.N., **Marques, M.D.**, Hill, S.R., Kerr, J.R., & Ling, M. (2022). Why are beliefs in different conspiracy theories positively correlated across individuals? Testing monological network vs. unidimensional factor model explanations. Registered report. *British Journal of Social Psychology, 61*(3), 1011-1031. [https://doi.org/10.1111/bjso.12518](https://bpspsychub.onlinelibrary.wiley.com/doi/10.1111/bjso.12518) [[PDF]](https://psyarxiv.com/xyf46/)<br>
+*Impact Factor = 4.691*
+</div>
+<div style="display: flex; justify-content: space-between; width: 140px;">
 
 <div data-badge-popover="right" data-badge-type="donut" data-doi="10.1111/bjso.12518" data-hide-no-mentions="true" class="altmetric-embed"></div>
 <span class="__dimensions_badge_embed__" data-doi="10.1111/bjso.12518" data-legend="hover-right" data-style="small_circle" data-hide-zero-citations="true"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
@@ -108,7 +128,10 @@ Williams, M.N., **Marques, M.D.**, Hill, S.R., Kerr, J.R., & Ling, M. (2022). Wh
 <div style="display: flex">
 
 **Marques, M.D.**, Kerr, J.R., Williams, M.N., Ling, M., & McLennan, J. (2021). Associations between
-conspiracism and the rejection of scientific innovations. *Public Understanding of Science, 30*(7), 854-867. [https://doi.org/10.1177/09636625211007013](https://journals.sagepub.com/doi/10.1177/09636625211007013) [[PDF]](https://psyarxiv.com/y9mnb/) *Impact Factor = 3.702*
+conspiracism and the rejection of scientific innovations. *Public Understanding of Science, 30*(7), 854-867. [https://doi.org/10.1177/09636625211007013](https://journals.sagepub.com/doi/10.1177/09636625211007013) [[PDF]](https://psyarxiv.com/y9mnb/)<br>
+*Impact Factor = 3.702*
+</div>
+<div style="display: flex; justify-content: space-between; width: 140px;">
 
 <div data-badge-popover="right" data-badge-type="donut" data-doi="10.1177/09636625211007013" data-hide-no-mentions="true" class="altmetric-embed"></div>
 <span class="__dimensions_badge_embed__" data-doi="10.1177/09636625211007013" data-legend="hover-right" data-style="small_circle" data-hide-zero-citations="true"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
@@ -126,7 +149,10 @@ conspiracism and the rejection of scientific innovations. *Public Understanding 
 
 <div style="display: flex">
 
-Natoli, E.E., & **Marques, M.D.** (2021). The antidepressant hoax: Conspiracy theories decrease health-seeking intentions. *British Journal of Social Psychology, 60*(3), pp. 902-923. [https://doi.org/10.1111/bjso.12426](https://bpspsychub.onlinelibrary.wiley.com/doi/10.1111/bjso.12426) [[PDF]](https://psyarxiv.com/8aedm/) *Impact Factor = 4.691*
+Natoli, E.E., & **Marques, M.D.** (2021). The antidepressant hoax: Conspiracy theories decrease health-seeking intentions. *British Journal of Social Psychology, 60*(3), 902-923. [https://doi.org/10.1111/bjso.12426](https://bpspsychub.onlinelibrary.wiley.com/doi/10.1111/bjso.12426) [[PDF]](https://psyarxiv.com/8aedm/)<br>
+*Impact Factor = 4.691*
+</div>
+<div style="display: flex; justify-content: space-between; width: 140px;">
 
 <div data-badge-popover="right" data-badge-type="donut" data-doi="10.1111/bjso.12426" data-hide-no-mentions="true" class="altmetric-embed"></div>
 <span class="__dimensions_badge_embed__" data-doi="10.1111/bjso.12426" data-legend="hover-right" data-style="small_circle" data-hide-zero-citations="true"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
@@ -145,6 +171,8 @@ Natoli, E.E., & **Marques, M.D.** (2021). The antidepressant hoax: Conspiracy th
 <div style="display: flex">
 
 **Marques, M.D.**, Sibley, C.G., Wilson, M.S., Bulbulia, J., Osborne, D., Yogeeswaran, K., Lee, C.H.J., Duck, I.M., Douglas, K.M., & Cichocka, A. (2022). Psychological predictors of COVID-19 vaccination in New Zealand. *New Zealand Journal of Psychology, 51*(1), 10-27. [[PDF]](https://psyarxiv.com/zkj7u/)
+</div>
+<div style="display: flex; justify-content: space-between; width: 140px;">
 
 <div data-badge-popover="right" data-badge-type="donut" data-doi="10.31234/osf.io/zkj7u" data-hide-no-mentions="true" class="altmetric-embed"></div>
 <span class="__dimensions_badge_embed__" data-doi="10.31234/osf.io/zkj7u" data-legend="hover-right" data-style="small_circle" data-hide-zero-citations="true"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
@@ -162,7 +190,10 @@ Natoli, E.E., & **Marques, M.D.** (2021). The antidepressant hoax: Conspiracy th
 
 <div style="display: flex">
 
-**Marques, M.D.**, Feather, N.T., Austin, D.E.J., & Sibley, C.G. (accepted 2 June 2021). Attitudes towards favouring the fall of Tall Poppies: The role of social dominance orientation, authoritarianism, political ideologies, and self-esteem. *The Journal of Social Psychology*. [https://doi.org/10.1111/bjso.12426](https://www.tandfonline.com/doi/full/10.1080/00224545.2021.1944034) [[PDF]](https://psyarxiv.com/bzexa/) *Impact Factor = 2.712*
+**Marques, M.D.**, Feather, N.T., Austin, D.E.J., & Sibley, C.G. (accepted 2 June 2021). Attitudes towards favouring the fall of Tall Poppies: The role of social dominance orientation, authoritarianism, political ideologies, and self-esteem. *The Journal of Social Psychology*. [https://doi.org/10.1111/bjso.12426](https://www.tandfonline.com/doi/full/10.1080/00224545.2021.1944034) [[PDF]](https://psyarxiv.com/bzexa/)<br>
+*Impact Factor = 2.712*
+</div>
+<div style="display: flex; justify-content: space-between; width: 140px;">
 
 <div data-badge-popover="right" data-badge-type="donut" data-doi="10.1080/00224545.2021.1944034" data-hide-no-mentions="true" class="altmetric-embed"></div>
 <span class="__dimensions_badge_embed__" data-doi="10.1080/00224545.2021.1944034" data-legend="hover-right" data-style="small_circle" data-hide-zero-citations="true"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
@@ -180,7 +211,10 @@ Natoli, E.E., & **Marques, M.D.** (2021). The antidepressant hoax: Conspiracy th
 
 <div style="display: flex">
 
-**Marques, M.D.**, Wright, B.J., Lee, C.H.J., & Sibley, C.G. (2021). Increased sleep predicts annual decreases in psychological distress: Results from a six-year longitudinal panel sample. *Sleep Health, 78(3), 368-374. [https://doi.org/10.1016/j.sleh.2020.12.005](https://www.sciencedirect.com/science/article/abs/pii/S2352721820303259?via%3Dihub) [[PDF]](https://psyarxiv.com/brmyp/) *Impact Factor = 4.450*
+**Marques, M.D.**, Wright, B.J., Lee, C.H.J., & Sibley, C.G. (2021). Increased sleep predicts annual decreases in psychological distress: Results from a six-year longitudinal panel sample. *Sleep Health, 78*(3), 368-374. [https://doi.org/10.1016/j.sleh.2020.12.005](https://www.sciencedirect.com/science/article/abs/pii/S2352721820303259?via%3Dihub) [[PDF]](https://psyarxiv.com/brmyp/)<br>
+*Impact Factor = 4.450*
+</div>
+<div style="display: flex; justify-content: space-between; width: 140px;">
 
 <div data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.sleh.2020.12.005" data-hide-no-mentions="true" class="altmetric-embed"></div>
 <span class="__dimensions_badge_embed__" data-doi="10.1016/j.sleh.2020.12.005" data-legend="hover-right" data-style="small_circle" data-hide-zero-citations="true"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
@@ -202,7 +236,10 @@ Natoli, E.E., & **Marques, M.D.** (2021). The antidepressant hoax: Conspiracy th
 
 <div style="display: flex">
 
-Steffens, M.S., Dunn, A.G., **Marques, M.D.**, Danchin, M., Witteman, H.O., & Leask, J. (2021). Addressing Myths and Vaccine Hesitancy: A Randomized Trial. *Pediatrics*, e2020049304.[https://doi.org/10.1542/peds.2020-049304](https://publications.aap.org/pediatrics/article/148/5/e2020049304/181668/Addressing-Myths-and-Vaccine-Hesitancy-A) [[PDF]](https://publications.aap.org/pediatrics/article-pdf/148/5/e2020049304/1228271/peds_2020049304.pdf) *Impact Factor = 5.417*
+Steffens, M.S., Dunn, A.G., **Marques, M.D.**, Danchin, M., Witteman, H.O., & Leask, J. (2021). Addressing Myths and Vaccine Hesitancy: A Randomized Trial. *Pediatrics*, e2020049304. [https://doi.org/10.1542/peds.2020-049304](https://publications.aap.org/pediatrics/article/148/5/e2020049304/181668/Addressing-Myths-and-Vaccine-Hesitancy-A) [[PDF]](https://publications.aap.org/pediatrics/article-pdf/148/5/e2020049304/1228271/peds_2020049304.pdf)<br>
+*Impact Factor = 5.417*
+</div>
+<div style="display: flex; justify-content: space-between; width: 140px;">
 
 <div data-badge-popover="right" data-badge-type="donut" data-doi="10.1542/peds.2020-049304" data-hide-no-mentions="true" class="altmetric-embed"></div>
 <span class="__dimensions_badge_embed__" data-doi="10.1542/peds.2020-049304" data-legend="hover-right" data-style="small_circle" data-hide-zero-citations="true"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
@@ -223,7 +260,10 @@ Steffens, M.S., Dunn, A.G., **Marques, M.D.**, Danchin, M., Witteman, H.O., & Le
 
 <div style="display: flex">
 
-**Marques, M.D.**, Elphinstone B., Critchley C.R., & Eigenberger, M.E. (2017). A brief scale for measuring Anti-Intellectualism. *Personality and Individual Differences, 114*, 167-174. [https://doi.org/10.1016/j.paid.2017.04.001](https://www.sciencedirect.com/science/article/abs/pii/S0191886917302507?via%3Dihub)  *Impact Factor = 3.004*
+**Marques, M.D.**, Elphinstone B., Critchley C.R., & Eigenberger, M.E. (2017). A brief scale for measuring Anti-Intellectualism. *Personality and Individual Differences, 114*, 167-174. [https://doi.org/10.1016/j.paid.2017.04.001](https://www.sciencedirect.com/science/article/abs/pii/S0191886917302507?via%3Dihub) [[PDF]](https://opal.latrobe.edu.au/ndownloader/files/27374003)<br>
+*Impact Factor = 3.004*
+</div>
+<div style="display: flex; justify-content: space-between; width: 140px;">
 
 <div data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.paid.2017.04.001" data-hide-no-mentions="true" class="altmetric-embed"></div>
 <span class="__dimensions_badge_embed__" data-doi="10.1016/j.paid.2017.04.001" data-legend="hover-right" data-style="small_circle" data-hide-zero-citations="true"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
@@ -241,7 +281,10 @@ Steffens, M.S., Dunn, A.G., **Marques, M.D.**, Danchin, M., Witteman, H.O., & Le
 
 <div style="display: flex">
 
-Honeyman K.L., Stukas A.A., & **Marques M.D.** (2016). Human trafficking: factors that influence willingness to combat the issue. *Journal of Applied Social Psychology, 46*,529-543. [https://doi.org/10.1111/jasp.12381](https://onlinelibrary.wiley.com/doi/10.1111/jasp.12381) [[PDF]](https://publications.aap.org/pediatrics/article-pdf/148/5/e2020049304/1228271/peds_2020049304.pdf) *Impact Factor = 2.122*
+Honeyman K.L., Stukas A.A., & **Marques M.D.** (2016). Human trafficking: factors that influence willingness to combat the issue. *Journal of Applied Social Psychology, 46*, 529-543. [https://doi.org/10.1111/jasp.12381](https://onlinelibrary.wiley.com/doi/10.1111/jasp.12381) [[PDF]](https://opal.latrobe.edu.au/ndownloader/files/27389102)<br>
+*Impact Factor = 2.122*
+</div>
+<div style="display: flex; justify-content: space-between; width: 140px;">
 
 <div data-badge-popover="right" data-badge-type="donut" data-doi="10.1111/jasp.12381" data-hide-no-mentions="true" class="altmetric-embed"></div>
 <span class="__dimensions_badge_embed__" data-doi="10.1111/jasp.12381" data-legend="hover-right" data-style="small_circle" data-hide-zero-citations="true"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
@@ -258,7 +301,10 @@ Honeyman K.L., Stukas A.A., & **Marques M.D.** (2016). Human trafficking: factor
 <br>
 
 <div style="display: flex">
-**Marques, M.D.**, Critchley, C.R., & Walshe, J. (2015). Attitudes to genetically modified food over time: how trust in organizations and the media cycle predict support. *Public Understanding of Science, 24*, 601-618. [https://doi.org/10.1177/0963662514542372](https://journals.sagepub.com/doi/10.1177/0963662514542372) *Impact Factor = 3.702*
+**Marques, M.D.**, Critchley, C.R., & Walshe, J. (2015). Attitudes to genetically modified food over time: how trust in organizations and the media cycle predict support. *Public Understanding of Science, 24*, 601-618. [https://doi.org/10.1177/0963662514542372](https://journals.sagepub.com/doi/10.1177/0963662514542372) [[PDF]](https://opal.latrobe.edu.au/ndownloader/files/27388706)<br>
+*Impact Factor = 3.702*
+</div>
+<div style="display: flex; justify-content: space-between; width: 140px;">
 
 <div data-badge-popover="right" data-badge-type="donut" data-doi="10.1177/0963662514542372" data-hide-no-mentions="true" class="altmetric-embed"></div>
 <span class="__dimensions_badge_embed__" data-doi="10.1177/0963662514542372" data-legend="hover-right" data-style="small_circle" data-hide-zero-citations="true"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
