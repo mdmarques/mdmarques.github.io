@@ -1,5 +1,5 @@
 ---
-title: Selected publcations
+title: Selected publications
 output:
   distill::distill_article
   
