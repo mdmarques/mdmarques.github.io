@@ -4,8 +4,10 @@ image: "mdmarques_insight.jpg"
 links:
   - label: CV
     url: "docs/mmarques_cv.pdf"
-  - label: Publications
+  - label: Google Scholar
     url: "https://scholar.google.com/citations?user=726mySAAAAAJ&hl=en"
+  - label: Selected Publications
+    url: "publications.html"
   - label: twitter
     url: "https://twitter.com/fabiovelo"
   - label: Email

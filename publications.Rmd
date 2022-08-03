@@ -1,0 +1,137 @@
+---
+title: "Selected Publications"
+description: |
+output: 
+  distill::distill_article:
+  toc: true
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+### Conspiracy Theories
+
+<div style="display: flex">
+
+**Marques, M.D.**, Hill, S.R., Clarke, E.J.R., Williams, M.N., Ling, M., Kerr, J.R., Douglas, K.M., Cichocka,
+A., & Sibley, C.G. (accepted 2 June 2022). Democracy and belief in conspiracy theories in
+New Zealand. *Australian Journal of Political Science*. [[PDF]](https://https://psyarxiv.com/s8qf4/)
+
+</div>
+
+<details>
+  <summary>
+  <font size="3">Abstract</font>
+  </summary>
+  
+  <font size="3">The COVID-19 pandemic supercharged the spread of fake news, misinformation, and conspiracy theories worldwide. Using a national probability sample of adults fromthe New Zealand Attitudes and Values Study during 2020 (17–99 years old; M=48.59, SD=13.86; 63% women, 37% men; N=41,487), we examined the associations between agreement with general conspiracy beliefs and political indicators of intention to vote and satisfaction with government, alongside political factors includingtrust in politicians, political efficacy, identity centrality, and political ideology. Left-wing political ideology, trust in politicians, and political efficacy accounted for most of the explained variance in satisfaction with the government. General conspiracy belief was also a unique contributor to lower satisfaction with the government. We also found a curvilinear relationship between political ideology with heightened belief in conspiracies at both ideological extremes and the centre. Findings are discussed in terms of the consequences of conspiracy belief on democratic engagement.</font>
+</details>
+
+<br>
+
+<div style="display: flex">
+
+Jolley, D., **Marques, M.D.**, Cookson, D. (2022). Shining a spotlight on the dangerous consequences of
+conspiracy theories. Special issue in *Current Opinion in Psychology, 47*, 101363. [https://doi.org/10.1016/j.copsyc.2022.101363](https://https://www.sciencedirect.com/science/article/pii/S2352250X22000823) [[PDF]](https://www.sciencedirect.com/science/article/pii/S2352250X22000823/pdfft?md5=dfc9f1758690aabb2b0a34f5690c5723&pid=1-s2.0-S2352250X22000823-main.pdf)
+
+</div>
+
+<details>
+  <summary>
+  <font size="3">Abstract</font>
+  </summary>
+  
+  <font size="3">The COVID-19 pandemic has illuminated how conspiracy beliefs–that explain important events as the secret actions of the powerful–can severely impact health choices (such as reduced infection-prevention behaviours). However, the consequences of conspiracy beliefs span far beyond the topic of COVID-19. This review shines a spotlight on how conspiracy beliefs could impact public and personal health (e.g., vaccine uptake), democratic citizenship (e.g., political engagement), intergroup relations (e.g., prejudice and discrimination), and may inspire violence and extremism. We argue that conspiracy beliefs are likely to have the power to mobilise citizens in ways detrimental to a smooth-running society. We conclude the review by offering a range of fruitful avenues for future investigation.</font>
+</details>
+
+<br>
+
+<div style="display: flex">
+
+**Marques, M.D.**, Douglas, K.M., & Jolley, D. (2022). Practical recommendations to communicate with
+patients about health-related conspiracy theories. *The Medical Journal of Australia, 216*(8),
+381-384. [https://doi.org/10.5694/mja2.51475](https://onlinelibrary.wiley.com/doi/10.5694/mja2.51475) [[PDF]](https://onlinelibrary.wiley.com/doi/pdf/10.5694/mja2.51475)
+
+</div>
+
+<details>
+  <summary>
+  <font size="3">Abstract</font>
+  </summary>
+  
+  <font size="3">Health-related conspiracy theories often advance the argument that information is being kept secret from the public by powerful individuals or groups within the government or health industry. They are widespread and are associated with important health attitudes, intentions, and behaviours. Recent research suggests that individuals are attracted to conspiracy theories to satisfy three important and fundamental psychological needs: epistemic, existential, and social needs. Understanding these underlying motivations associated with health-related conspiracy theories can help address patients’ beliefs. Debunking and inoculation are discussed as approaches that can be used to address patients’ belief in health-related conspiracy theories.</font>
+</details>
+
+<br>
+
+<div style="display: flex">
+
+**Marques, M.D.**, Ling, M., Williams, M.N., Kerr, J.R., & McLennan, J. (2022). Australasian public
+awareness and belief in conspiracy theories: Motivational correlates. *Political Psychology,
+43*(1), 177-198. [https://doi.org/10.1111/pops.12746](https://onlinelibrary.wiley.com/doi/10.1111/pops.12746) [[PDF]](https://psyarxiv.com/vr896/)
+
+</div>
+
+<details>
+  <summary>
+  <font size="3">Abstract</font>
+  </summary>
+  
+  <font size="3">Belief in conspiracies is not restricted to the fringe dwellers of society. International research suggests that such beliefs are quite common and that conspiracy theories may serve three basic psychological motives (i.e., epistemic, existential, and relational) for individuals. Yet, little is known about conspiracy theory awareness or belief in Australasia. We report the first large systematic investigation of system justifying motives using twonationally representative samples of Australians (*n*= 1,011) and New Zealanders (*n*= 754). Our findings show that almost all are aware of local and international conspiracies, the majority endorse one or more, and that all three psychological motives consistently relate to conspiracy belief, but not to awareness. In a series of hierarchical multiple regressions, we find that relational (i.e., increased anomie and disillusionment with the government) and existential motives (i.e., less trust in others and increased religiosity) are uniquely and relatively more important than epistemic needs (i.e., decreased analytic thinking) as predictors of increased local and international conspiracy belief. Findings are discussed in terms of the importance of understanding conspiracy theories as an ideological belief system that may function to serve underlying psychological motives.</font>
+</details>
+
+<br>
+
+<div style="display: flex">
+
+Williams, M.N., **Marques, M.D.**, Hill, S.R., Kerr, J.R., & Ling, M. (2022). Why are beliefs in
+different conspiracy theories positively correlated across individuals? Testing monologicalnetwork
+vs. unidimensional factor model explanations. Registered report. *British Journal of
+Social Psychology, 61*(3), 1011-1031. [https://doi.org/10.1111/bjso.12518](https://bpspsychub.onlinelibrary.wiley.com/doi/10.1111/bjso.12518) [[PDF]](https://psyarxiv.com/xyf46/)
+
+</div>
+
+<details>
+  <summary>
+  <font size="3">Abstract</font>
+  </summary>
+  
+  <font size="3">A substantial minority of the public express belief in conspiracy theories. A robust phenomenon in this area is that people who believe one conspiracy theory are more likely to believe in others. But the reason for this “positive manifold” of belief in conspiracy theories is unclear. One possibility is that a single underlying latent factor (e.g., “conspiracism”) causes variation in belief in specific conspiracy theories. Another possibility is that beliefs in various conspiracy theories support one another in a mutually reinforcing network of beliefs (the “monological belief system” theory). While the monological theory has been influential in the literature, the fact that it can be operationalised as a statistical network model has not previously been recognised . In this study, we therefore tested both the unidimensional factor model and the monological/network model. Participants were 1553 American adults recruited via Prolific. Belief in conspiracies was measured using an adapted version of the Belief in Conspiracy Theories Inventory. The fit of the two competing models was evaluated both by using van Bork et al.’s (2018, 2019) method for testing network vs. unidimensional factor models, as well as by evaluating goodness of fit to the sample covariance matrix. In both cases, evaluation of fit according to our preregistered inferential criteria favoured the network model. This finding is consistent with the monological belief system theory, and inconsistent with a unidimensional factor model explanation.</font>
+</details>
+
+<br>
+
+<div style="display: flex">
+
+**Marques, M.D.**, Kerr, J.R., Williams, M.N., Ling, M., & McLennan, J. (2021). Associations between
+conspiracism and the rejection of scientific innovations. *Public Understanding of Science, 30*(7), 854-867. [https://doi.org/10.1177/09636625211007013](https://journals.sagepub.com/doi/10.1177/09636625211007013) [[PDF]](https://psyarxiv.com/y9mnb/)
+
+</div>
+
+<details>
+  <summary>
+  <font size="3">Abstract</font>
+  </summary>
+  
+  <font size="3">Public opinion regarding scientific developments such as genetically modified (GM) food canbe mixed. We suggest such science-based technological innovations are rejected by some because they are perceived to be advanced as part of a conspiracy. In nationally representative samples (Australia *n*=1,011; New Zealand *n*=754) we report the associations between five conspiracism facets and anti-science attitudes. Results indicate broad public opposition to GM food and use of nuclear power, but more acceptance of renewable power, potable recycled water, 5G networks, and childhood vaccinations. There were small to moderate associations between the rejection of scientific innovations and conspiracism. Multivariate models estimating unique associations of conspiracism facets with anti-science attitudes suggested several novel and important relationships, particularly for childhood vaccination, GM food, and 5G networks. We discuss the importance of examining factors such as conspiracism in understanding what may motivate and sustain rejection of scientific evidence-based claims about socially contentious technological innovations.</font>
+</details>
+
+<br>
+
+<div style="display: flex">
+
+Natoli, E.E., & **Marques, M.D.** (2021). The antidepressant hoax: Conspiracy theories decrease health-seeking intentions. *British Journal of Social Psychology, 60*(3), pp. 902-923. [https://doi.org/10.1111/bjso.12426](https://bpspsychub.onlinelibrary.wiley.com/doi/10.1111/bjso.12426) [[PDF]](https://psyarxiv.com/8aedm/)
+
+</div>
+
+<details>
+  <summary>
+  <font size="3">Abstract</font>
+  </summary>
+  
+  <font size="3">Health-related conspiracy theories can undermine the trustworthiness of actors and institutions and may impact an individual’s intention to seek help. Across 3 experimental studies we investigated the consequences of exposure to an antidepressant conspiracy theory on general intentions to seek medical and psychological help. Study 1 participants (*N* = 299) were randomly allocated to read one of three articles (pro-conspiracy, anti-conspiracy, control) after which they completed measures of conspiracy endorsement, trust, powerlessness and health-seeking intentions. Results suggested that exposure to antidepressant conspiracy theories significantly reduced individual’s intention to seek help indirectly through decreased trust in health authorities, but not health-industry related powerlessness. In two additional pre-registered studies we found some support for these findings. While Study 2 (*N* = 244) found no support for a direct or indirect relationship between conspiracy exposure and health-seeking intentions, an exploratory analysis highlighted the importance of gender differences when investigating conspiracy exposure on intentions. Study 3 (*N* = 247) replicated Study 1 findings, highlighting that antidepressant conspiracy theories decrease health-seeking intentions indirectly through decreased trust and increased powerlessness. Mere exposure to antidepressant conspiracy theories had significant indirect consequences on general health-seeking intentions.</font>
+</details>
+
+
+
