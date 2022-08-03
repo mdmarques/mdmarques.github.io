@@ -17,7 +17,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 **Marques, M.D.**, Hill, S.R., Clarke, E.J.R., Williams, M.N., Ling, M., Kerr, J.R., Douglas, K.M., Cichocka,
 A., & Sibley, C.G. (accepted 2 June 2022). Democracy and belief in conspiracy theories in
-New Zealand. *Australian Journal of Political Science*. [[PDF]](https://https://psyarxiv.com/s8qf4/)
+New Zealand. *Australian Journal of Political Science*. [[PDF]](https://psyarxiv.com/s8qf4/)
 
 </div>
 
@@ -34,7 +34,7 @@ New Zealand. *Australian Journal of Political Science*. [[PDF]](https://https://
 <div style="display: flex">
 
 Jolley, D., **Marques, M.D.**, Cookson, D. (2022). Shining a spotlight on the dangerous consequences of
-conspiracy theories. Special issue in *Current Opinion in Psychology, 47*, 101363. [https://doi.org/10.1016/j.copsyc.2022.101363](https://https://www.sciencedirect.com/science/article/pii/S2352250X22000823) [[PDF]](https://www.sciencedirect.com/science/article/pii/S2352250X22000823/pdfft?md5=dfc9f1758690aabb2b0a34f5690c5723&pid=1-s2.0-S2352250X22000823-main.pdf)
+conspiracy theories. Special issue in *Current Opinion in Psychology, 47*, 101363. [https://doi.org/10.1016/j.copsyc.2022.101363](https://www.sciencedirect.com/science/article/pii/S2352250X22000823) [[PDF]](https://www.sciencedirect.com/science/article/pii/S2352250X22000823/pdfft?md5=dfc9f1758690aabb2b0a34f5690c5723&pid=1-s2.0-S2352250X22000823-main.pdf)
 
 <div data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.copsyc.2022.101363" data-hide-no-mentions="true" class="altmetric-embed"></div>
 <span class="__dimensions_badge_embed__" data-doi="10.1016/j.copsyc.2022.101363" data-legend="hover-right" data-style="small_circle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
