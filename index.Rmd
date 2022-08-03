@@ -7,6 +7,8 @@ links:
     url: "docs/mmarques_cv.pdf"
   - label: Google Scholar
     url: "https://scholar.google.com/citations?user=726mySAAAAAJ&hl=en"
+  - label: OSF
+    url: "https://osf.io/74hnj/"
   - label: Email
     url: "mailto:m.marques@latrobe.edu.au"
 output:
