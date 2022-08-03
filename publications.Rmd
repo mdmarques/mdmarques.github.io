@@ -6,7 +6,7 @@ output:
 
 <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
 
-### Conspiracy Theories
+## Conspiracy Theories
 
 <div style="display: flex">
 
@@ -166,7 +166,7 @@ Natoli, E.E., & **Marques, M.D.** (2021). The antidepressant hoax: Conspiracy th
   <font size="3">Health-related conspiracy theories can undermine the trustworthiness of actors and institutions and may impact an individual’s intention to seek help. Across 3 experimental studies we investigated the consequences of exposure to an antidepressant conspiracy theory on general intentions to seek medical and psychological help. Study 1 participants (*N* = 299) were randomly allocated to read one of three articles (pro-conspiracy, anti-conspiracy, control) after which they completed measures of conspiracy endorsement, trust, powerlessness and health-seeking intentions. Results suggested that exposure to antidepressant conspiracy theories significantly reduced individual’s intention to seek help indirectly through decreased trust in health authorities, but not health-industry related powerlessness. In two additional pre-registered studies we found some support for these findings. While Study 2 (*N* = 244) found no support for a direct or indirect relationship between conspiracy exposure and health-seeking intentions, an exploratory analysis highlighted the importance of gender differences when investigating conspiracy exposure on intentions. Study 3 (*N* = 247) replicated Study 1 findings, highlighting that antidepressant conspiracy theories decrease health-seeking intentions indirectly through decreased trust and increased powerlessness. Mere exposure to antidepressant conspiracy theories had significant indirect consequences on general health-seeking intentions.</font>
 </details>
 
-### Other publications
+## Other publications
 
 <div style="display: flex">
 
