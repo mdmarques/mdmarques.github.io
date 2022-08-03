@@ -8,8 +8,6 @@ links:
     url: "docs/mmarques_cv.pdf"
   - label: Google Scholar
     url: "https://scholar.google.com/citations?user=726mySAAAAAJ&hl=en"
-  - label: ORCID
-    url: "https://orcid.org/0000-0002-5486-650X"
   - label: twitter
     url: "https://twitter.com/fabiovelo"
   - label: Email
