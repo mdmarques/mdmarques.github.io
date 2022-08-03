@@ -11,7 +11,7 @@ links:
     url: "mailto:m.marques@latrobe.edu.au"
 output:
   postcards::trestles
-  
+
 ---
 
 ## Bio
