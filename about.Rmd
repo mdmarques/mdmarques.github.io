@@ -1,21 +1,9 @@
 ---
-title: "Mathew da Costa Marques"
-image: "mdmarques_insight.jpg"
+title: About
+site: distill::distill_website
 output:
-  postcards::trestles
+  distill::distill_article
 ---
-
-```{r, echo = FALSE, fig.align = 'center', out.width = '60%', results = 'markup'} 
-knitr::include_graphics("mdmarques_insight.jpg")  
-```
-
-## Bio
-
-Dr Mathew Marques is a Lecturer in Psychology at La Trobe University, Melbourne.
-
-He uses social psychology to understand the role of psychological mechanisms (e.g., trust, conspiracy theories, ideologies) in the formation of attitudes towards socially contentious scientific research (e.g., genetically modified foods, vaccinations), and more broadly in science communication.
-
-Mathew is also interested in the role of epistemological processes such as anti-intellectualism in the evaluation of emerging technologies, and how these and other values shape judgments of scientific actors.
 
 ## Education
 
@@ -24,6 +12,12 @@ Swinburne University of Technology | Doctor of Philosophy in Social Psychology |
 Swinburne University of Technology | Bachelor of Arts Psychology (Honours) | 2003
 
 La Trobe University | Bachelor of Behavioural Science | 2001
+
+## Media
+
+I provide media comment on research and stories relating to conspiracy theories. Selected media engagements include [newspaper stories](https://www.theguardian.com/science/2022/apr/19/in-a-pandemic-of-medical-misinformation-how-do-you-deal-with-conspiracy-believers), [podcasts](https://www.abc.net.au/radionational/programs/rearvision/medical-conspiracy-theories-through-the-ages/13649988), [television appearances](https://www.abc.net.au/news/2021-06-15/why-do-people-buy-into-conspiracy-theories-like-qanon/13388796), and [radio spots](https://www.abc.net.au/triplej/programs/hack/hack/13535808).
+
+My colleagues and I have also written for [The Conversation](https://theconversation.com/was-phar-lap-killed-by-gangsters-new-research-shows-which-conspiracies-people-believe-in-and-why-158610).
 
 ## Memberships
 

@@ -1,13 +1,13 @@
 ---
-title: "Mathew da Costa Marques"
-image: "mdmarques_insight.jpg"
+title: Selected publcations
 output:
-  postcards::trestles
+  distill::distill_article
+  
 ---
-
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
+
 <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
 
 ### Conspiracy Theories
