@@ -143,5 +143,134 @@ Natoli, E.E., & **Marques, M.D.** (2021). The antidepressant hoax: Conspiracy th
   <font size="3">Health-related conspiracy theories can undermine the trustworthiness of actors and institutions and may impact an individual’s intention to seek help. Across 3 experimental studies we investigated the consequences of exposure to an antidepressant conspiracy theory on general intentions to seek medical and psychological help. Study 1 participants (*N* = 299) were randomly allocated to read one of three articles (pro-conspiracy, anti-conspiracy, control) after which they completed measures of conspiracy endorsement, trust, powerlessness and health-seeking intentions. Results suggested that exposure to antidepressant conspiracy theories significantly reduced individual’s intention to seek help indirectly through decreased trust in health authorities, but not health-industry related powerlessness. In two additional pre-registered studies we found some support for these findings. While Study 2 (*N* = 244) found no support for a direct or indirect relationship between conspiracy exposure and health-seeking intentions, an exploratory analysis highlighted the importance of gender differences when investigating conspiracy exposure on intentions. Study 3 (*N* = 247) replicated Study 1 findings, highlighting that antidepressant conspiracy theories decrease health-seeking intentions indirectly through decreased trust and increased powerlessness. Mere exposure to antidepressant conspiracy theories had significant indirect consequences on general health-seeking intentions.</font>
 </details>
 
+### Other publications
 
+<div style="display: flex">
 
+**Marques, M.D.**, Sibley, C.G., Wilson, M.S., Bulbulia, J., Osborne, D., Yogeeswaran, K., Lee, C.H.J., Duck, I.M., Douglas, K.M., & Cichocka, A. (2022). Psychological predictors of COVID-19 vaccination in New Zealand. *New Zealand Journal of Psychology, 51*(1), 10-27. [[PDF]](https://psyarxiv.com/zkj7u/)
+
+<div data-badge-popover="right" data-badge-type="donut" data-doi="10.31234/osf.io/zkj7u" data-hide-no-mentions="true" class="altmetric-embed"></div>
+<span class="__dimensions_badge_embed__" data-doi="10.31234/osf.io/zkj7u" data-legend="hover-right" data-style="small_circle" data-hide-zero-citations="true"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+</div>
+
+<details>
+  <summary>
+  <font size="3">Abstract</font>
+  </summary>
+  
+  <font size="3">Is it possible to predict COVID-19 vaccination status prior to the existence and availability ofCOVID-19 vaccines? Here, we present a logistic model by regressing decisions to vaccinate in late 2021 on lagged sociodemographic, health, social, and political indicators from 2019 ina sample of New Zealand adults aged between 18 and 94 (*Mage* = 52.92, *SD* = 14.10; 62.21% women; *N* = 5324). We explain 31% of the variance in decision making across New Zealand. Significant predictors of being unvaccinated were being younger, more deprived, reporting less satisfaction with general practitioners, lower levels of neuroticism, greater levels of subjective health and meaning in life, higher distrust in science and in the police, lower satisfaction in the government, as well as political conservatism. Additional cross-sectional models specified using the same, and additional COVID-19-specific factors are also presented. These findings reveal that vaccination decisions are neither artefacts of context norchance, but rather can be predicted in advance of the availability of vaccines.</font>
+</details>
+
+<br>
+
+<div style="display: flex">
+
+**Marques, M.D.**, Feather, N.T., Austin, D.E.J., & Sibley, C.G. (accepted 2 June 2021). Attitudes towards favouring the fall of Tall Poppies: The role of social dominance orientation, authoritarianism, political ideologies, and self-esteem. *The Journal of Social Psychology*. [https://doi.org/10.1111/bjso.12426](https://www.tandfonline.com/doi/full/10.1080/00224545.2021.1944034) [[PDF]](https://psyarxiv.com/bzexa/) *Impact Factor = 2.712*
+
+<div data-badge-popover="right" data-badge-type="donut" data-doi="10.1080/00224545.2021.1944034" data-hide-no-mentions="true" class="altmetric-embed"></div>
+<span class="__dimensions_badge_embed__" data-doi="10.1080/00224545.2021.1944034" data-legend="hover-right" data-style="small_circle" data-hide-zero-citations="true"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+</div>
+
+<details>
+  <summary>
+  <font size="3">Abstract</font>
+  </summary>
+  
+  <font size="3">Individuals occupying high-status positions are sometimes victims of the tall poppy syndrome where people want to see them cut down to size. These attitudes reflect a tension between achievement, authority, and equality. In a pre-registered study (Study 1: *N* = 47,951), and a replication (Study 2: *N* = 5,569), of two representative New Zealand samples we investigated how social dominance orientation, right-wing authoritarianism, political ideologies and self-esteem predicted favoring the fall of the tall poppy. Novel findings showed individuals high in social dominance orientation favored the fall of the tall poppy. In both studies, high authoritarian aggression and submission, and low conventionalism (in Study 1 only) were also associated with negative tall poppy attitudes. So too were individuals with lower self-esteem and who were less conservative in their political ideology. These findings advance our understanding of how group-based hierarchy and inequality relate to attitudes toward individuals in high-status positions.</font>
+</details>
+
+<br>
+
+<div style="display: flex">
+
+**Marques, M.D.**, Wright, B.J., Lee, C.H.J., & Sibley, C.G. (2021). Increased sleep predicts annual decreases in psychological distress: Results from a six-year longitudinal panel sample. *Sleep Health, 78(3), 368-374. [https://doi.org/10.1016/j.sleh.2020.12.005](https://www.sciencedirect.com/science/article/abs/pii/S2352721820303259?via%3Dihub) [[PDF]](https://psyarxiv.com/brmyp/) *Impact Factor = 4.450*
+
+<div data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.sleh.2020.12.005" data-hide-no-mentions="true" class="altmetric-embed"></div>
+<span class="__dimensions_badge_embed__" data-doi="10.1016/j.sleh.2020.12.005" data-legend="hover-right" data-style="small_circle" data-hide-zero-citations="true"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+</div>
+
+<details>
+  <summary>
+  <font size="3">Abstract</font>
+  </summary>
+  
+  <font size="3">*Objective*: To investigate the annual temporal ordering of sleep quantity and psychological distress, separating between-person stability from within-person change.
+  *Design*: Random-intercepts cross-lagged panel model using six annual waves of longitudinal data from the New Zealand Attitudes Values Study postal questionnaire.Participants: New Zealand Attitudes Values Study respondents in 2013, 2014, 2015, 2016, 2017, and 2018 (Ns = 17,890; 15,757; 13,904; 21,849; 17,031; and 47,462).
+  *Measurements*: Participants were asked, “During the past month, on average, how many hours of actual sleep did you get per night?” and responded to the K6 psychological distress scale each year. They also reported their demographic characteristics.
+  *Results*: Identified longitudinal associations between sleep duration and psychological distress in a traditional cross-lagged panel model were mostly attributable to the stability of the between-person differences in sleep duration and psychological distress. We provide evidence to suggest that increased sleep duration as indicated over a short period of time (i.e.,one month) predicted lower within-person levels of psychological distress the following year.Psychological distress did not predict sleep duration, in contrast.
+  *Conclusions*: Our analyses suggest that sleep duration in this sample of New Zealanders precedes psychological distress. This is significant given the propensity for short sleep in this sample and issues of poor mental health and short sleep among low SES indigenous membersof this community. The promotion of adequate sleep duration may yield positive gains in psychological well-being</font>
+</details>
+
+<br>
+
+<div style="display: flex">
+
+Steffens, M.S., Dunn, A.G., **Marques, M.D.**, Danchin, M., Witteman, H.O., & Leask, J. (2021). Addressing Myths and Vaccine Hesitancy: A Randomized Trial. *Pediatrics*, e2020049304.[https://doi.org/10.1542/peds.2020-049304](https://publications.aap.org/pediatrics/article/148/5/e2020049304/181668/Addressing-Myths-and-Vaccine-Hesitancy-A) [[PDF]](https://publications.aap.org/pediatrics/article-pdf/148/5/e2020049304/1228271/peds_2020049304.pdf) *Impact Factor = 5.417*
+
+<div data-badge-popover="right" data-badge-type="donut" data-doi="10.1542/peds.2020-049304" data-hide-no-mentions="true" class="altmetric-embed"></div>
+<span class="__dimensions_badge_embed__" data-doi="10.1542/peds.2020-049304" data-legend="hover-right" data-style="small_circle" data-hide-zero-citations="true"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+</div>
+
+<details>
+  <summary>
+  <font size="3">Abstract</font>
+  </summary>
+  
+  <font size="3">*OBJECTIVES*: Evidence on repeating vaccination misinformation or "myths" in debunking text is inconclusive; repeating myths may unintentionally increase agreement with myths or help discredit myths. In this study we aimed to compare the effect of repeating vaccination myths and other text-based debunking strategies on parents’ agreement with myths and their intention to vaccinate their children.
+*METHODS*: For this online experiment we recruited 788 parents of children aged 0 to 5 years; 454 (58%) completed the study. We compared 3 text-based debunking strategies (repeating myths, posing questions, or making factual statements) and a control. We measured changes in agreement with myths and intention to vaccinate immediately after the intervention and at least 1 week later. The primary analysis compared the change in agreement with vaccination myths from baseline, between groups, at each time point after the intervention.
+*RESULTS*: There was no evidence that repeating myths increased agreement with myths compared with the other debunking strategies or the control. Posing questions significantly decreased agreement with myths immediately after the intervention compared with the control (difference: −0.30 points, 99.17% confidence interval: −0.58 to −0.02, P = .004, d = 0.39). There was no evidence of a difference between other debunking strategies or the control at either time point, or on intention to vaccinate.
+*CONCLUSIONS*: Debunking strategies that repeat vaccination myths do not appear to be inferior to strategies that do not repeat myths.</font>
+</details>
+
+<br>
+
+<div style="display: flex">
+
+**Marques, M.D.**, Elphinstone B., Critchley C.R., & Eigenberger, M.E. (2017). A brief scale for measuring Anti-Intellectualism. *Personality and Individual Differences, 114*, 167-174. [https://doi.org/10.1016/j.paid.2017.04.001](https://www.sciencedirect.com/science/article/abs/pii/S0191886917302507?via%3Dihub)  *Impact Factor = 3.004*
+
+<div data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.paid.2017.04.001" data-hide-no-mentions="true" class="altmetric-embed"></div>
+<span class="__dimensions_badge_embed__" data-doi="10.1016/j.paid.2017.04.001" data-legend="hover-right" data-style="small_circle" data-hide-zero-citations="true"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+</div>
+
+<details>
+  <summary>
+  <font size="3">Abstract</font>
+  </summary>
+  
+  <font size="3">This paper describes the development of a brief scale to measure anti-intellectualism, the degree to which one experiences either positive or negative affect while engaged in epistemic activities such as conceptual integration. Using seven samples, the study examined several psychometric components of the measure, including equivalency across community and student/convenience populations, temporal stability, and indications of different forms of validity. The scale was designed to be a brief, reliable and valid measure of individual differences in the degree to which individuals value affect-reinforced need for intellectual engagement. These results suggest that the Anti-Intellectualism Scale may provide a useful tool for the examination of differences in the desire to engage in intellectually challenging activities, and subsequent outcomes such as vocational interest, academic achievement, and democratic citizenship.</font>
+</details>
+
+<br>
+
+<div style="display: flex">
+
+Honeyman K.L., Stukas A.A., & **Marques M.D.** (2016). Human trafficking: factors that influence willingness to combat the issue. *Journal of Applied Social Psychology, 46*,529-543. [https://doi.org/10.1111/jasp.12381](https://onlinelibrary.wiley.com/doi/10.1111/jasp.12381) [[PDF]](https://publications.aap.org/pediatrics/article-pdf/148/5/e2020049304/1228271/peds_2020049304.pdf) *Impact Factor = 2.122*
+
+<div data-badge-popover="right" data-badge-type="donut" data-doi="10.1111/jasp.12381" data-hide-no-mentions="true" class="altmetric-embed"></div>
+<span class="__dimensions_badge_embed__" data-doi="10.1111/jasp.12381" data-legend="hover-right" data-style="small_circle" data-hide-zero-citations="true"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+</div>
+
+<details>
+  <summary>
+  <font size="3">Abstract</font>
+  </summary>
+  
+  <font size="3">Human trafficking involves severe violations of human rights and social action is required to combat it. Past research has identified emotional reactions to victims of trafficking, as well as the perceived cost and efficacy of actions, as significant predictors of willingness to get involved. We surveyed 216 Australians (70% female) to assess their perceptions of sex and labor trafficking and actions to reduce them. Results demonstrated that women reported greater personal distress (but not empathy) for victims than men, which was associated with greater willingness to take action. Women also perceived available actions to be more efficacious than men, which predicted willingness, while perceived cost of actions did not. Implications for promoting social action to reduce human trafficking are discussed.</font>
+</details>
+
+<br>
+
+<div style="display: flex">
+**Marques, M.D.**, Critchley, C.R., & Walshe, J. (2015). Attitudes to genetically modified food over time: how trust in organizations and the media cycle predict support. *Public Understanding of Science, 24*, 601-618. [https://doi.org/10.1177/0963662514542372](https://journals.sagepub.com/doi/10.1177/0963662514542372) *Impact Factor = 3.702*
+
+<div data-badge-popover="right" data-badge-type="donut" data-doi="10.1177/0963662514542372" data-hide-no-mentions="true" class="altmetric-embed"></div>
+<span class="__dimensions_badge_embed__" data-doi="10.1177/0963662514542372" data-legend="hover-right" data-style="small_circle" data-hide-zero-citations="true"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+</div>
+
+<details>
+  <summary>
+  <font size="3">Abstract</font>
+  </summary>
+  
+  <font size="3">This research examined public opinion toward genetically modified plants and animals for food, and how trust in organizations and media coverage explained attitudes toward these organisms. Nationally representative samples (*N8 = 8821) over 10 years showed Australians were less positive toward genetically modified animals compared to genetically modified plants for food, especially in years where media coverage was high. Structural equation modeling found that positive attitudes toward different genetically modified organisms for food were significantly associated with higher trust in scientists and regulators (e.g. governments), and with lower trust in watchdogs (e.g. environmental movement). Public trust in scientists and watchdogs was a stronger predictor of attitudes toward the use of genetically modified plants for food than animals, but only when media coverage was low. Results are discussed regarding the moral acceptability of genetically modified organisms for food, the media’s role in shaping public opinion, and the role public trust in organizations has on attitudes toward genetically modified organisms.</font>
+</details>
