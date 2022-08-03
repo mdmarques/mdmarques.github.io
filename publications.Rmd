@@ -9,6 +9,7 @@ output:
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
+<script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
 
 ### Conspiracy Theories
 
@@ -35,6 +36,8 @@ New Zealand. *Australian Journal of Political Science*. [[PDF]](https://https://
 Jolley, D., **Marques, M.D.**, Cookson, D. (2022). Shining a spotlight on the dangerous consequences of
 conspiracy theories. Special issue in *Current Opinion in Psychology, 47*, 101363. [https://doi.org/10.1016/j.copsyc.2022.101363](https://https://www.sciencedirect.com/science/article/pii/S2352250X22000823) [[PDF]](https://www.sciencedirect.com/science/article/pii/S2352250X22000823/pdfft?md5=dfc9f1758690aabb2b0a34f5690c5723&pid=1-s2.0-S2352250X22000823-main.pdf)
 
+<div data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.copsyc.2022.101363" data-hide-no-mentions="true" class="altmetric-embed"></div>
+<span class="__dimensions_badge_embed__" data-doi="10.1016/j.copsyc.2022.101363" data-legend="hover-right" data-style="small_circle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 </div>
 
 <details>
@@ -53,6 +56,8 @@ conspiracy theories. Special issue in *Current Opinion in Psychology, 47*, 10136
 patients about health-related conspiracy theories. *The Medical Journal of Australia, 216*(8),
 381-384. [https://doi.org/10.5694/mja2.51475](https://onlinelibrary.wiley.com/doi/10.5694/mja2.51475) [[PDF]](https://onlinelibrary.wiley.com/doi/pdf/10.5694/mja2.51475)
 
+<div data-badge-popover="right" data-badge-type="donut" data-doi="10.5694/mja2.51475" data-hide-no-mentions="true" class="altmetric-embed"></div>
+<span class="__dimensions_badge_embed__" data-doi="10.5694/mja2.51475" data-legend="hover-right" data-style="small_circle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 </div>
 
 <details>
@@ -71,6 +76,8 @@ patients about health-related conspiracy theories. *The Medical Journal of Austr
 awareness and belief in conspiracy theories: Motivational correlates. *Political Psychology,
 43*(1), 177-198. [https://doi.org/10.1111/pops.12746](https://onlinelibrary.wiley.com/doi/10.1111/pops.12746) [[PDF]](https://psyarxiv.com/vr896/)
 
+<div data-badge-popover="right" data-badge-type="donut" data-doi="10.1111/pops.12746" data-hide-no-mentions="true" class="altmetric-embed"></div>
+<span class="__dimensions_badge_embed__" data-doi="10.1111/pops.12746" data-legend="hover-right" data-style="small_circle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 </div>
 
 <details>
@@ -78,7 +85,7 @@ awareness and belief in conspiracy theories: Motivational correlates. *Political
   <font size="3">Abstract</font>
   </summary>
   
-  <font size="3">Belief in conspiracies is not restricted to the fringe dwellers of society. International research suggests that such beliefs are quite common and that conspiracy theories may serve three basic psychological motives (i.e., epistemic, existential, and relational) for individuals. Yet, little is known about conspiracy theory awareness or belief in Australasia. We report the first large systematic investigation of system justifying motives using twonationally representative samples of Australians (*n*= 1,011) and New Zealanders (*n*= 754). Our findings show that almost all are aware of local and international conspiracies, the majority endorse one or more, and that all three psychological motives consistently relate to conspiracy belief, but not to awareness. In a series of hierarchical multiple regressions, we find that relational (i.e., increased anomie and disillusionment with the government) and existential motives (i.e., less trust in others and increased religiosity) are uniquely and relatively more important than epistemic needs (i.e., decreased analytic thinking) as predictors of increased local and international conspiracy belief. Findings are discussed in terms of the importance of understanding conspiracy theories as an ideological belief system that may function to serve underlying psychological motives.</font>
+  <font size="3">Belief in conspiracies is not restricted to the fringe dwellers of society. International research suggests that such beliefs are quite common and that conspiracy theories may serve three basic psychological motives (i.e., epistemic, existential, and relational) for individuals. Yet, little is known about conspiracy theory awareness or belief in Australasia. We report the first large systematic investigation of system justifying motives using twonationally representative samples of Australians (*n* = 1,011) and New Zealanders (*n* = 754). Our findings show that almost all are aware of local and international conspiracies, the majority endorse one or more, and that all three psychological motives consistently relate to conspiracy belief, but not to awareness. In a series of hierarchical multiple regressions, we find that relational (i.e., increased anomie and disillusionment with the government) and existential motives (i.e., less trust in others and increased religiosity) are uniquely and relatively more important than epistemic needs (i.e., decreased analytic thinking) as predictors of increased local and international conspiracy belief. Findings are discussed in terms of the importance of understanding conspiracy theories as an ideological belief system that may function to serve underlying psychological motives.</font>
 </details>
 
 <br>
@@ -90,6 +97,8 @@ different conspiracy theories positively correlated across individuals? Testing 
 vs. unidimensional factor model explanations. Registered report. *British Journal of
 Social Psychology, 61*(3), 1011-1031. [https://doi.org/10.1111/bjso.12518](https://bpspsychub.onlinelibrary.wiley.com/doi/10.1111/bjso.12518) [[PDF]](https://psyarxiv.com/xyf46/)
 
+<div data-badge-popover="right" data-badge-type="donut" data-doi="10.1111/bjso.12518" data-hide-no-mentions="true" class="altmetric-embed"></div>
+<span class="__dimensions_badge_embed__" data-doi="10.1111/bjso.12518" data-legend="hover-right" data-style="small_circle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 </div>
 
 <details>
@@ -107,6 +116,8 @@ Social Psychology, 61*(3), 1011-1031. [https://doi.org/10.1111/bjso.12518](https
 **Marques, M.D.**, Kerr, J.R., Williams, M.N., Ling, M., & McLennan, J. (2021). Associations between
 conspiracism and the rejection of scientific innovations. *Public Understanding of Science, 30*(7), 854-867. [https://doi.org/10.1177/09636625211007013](https://journals.sagepub.com/doi/10.1177/09636625211007013) [[PDF]](https://psyarxiv.com/y9mnb/)
 
+<div data-badge-popover="right" data-badge-type="donut" data-doi="10.1177/09636625211007013" data-hide-no-mentions="true" class="altmetric-embed"></div>
+<span class="__dimensions_badge_embed__" data-doi="10.1177/09636625211007013" data-legend="hover-right" data-style="small_circle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 </div>
 
 <details>
@@ -123,6 +134,8 @@ conspiracism and the rejection of scientific innovations. *Public Understanding 
 
 Natoli, E.E., & **Marques, M.D.** (2021). The antidepressant hoax: Conspiracy theories decrease health-seeking intentions. *British Journal of Social Psychology, 60*(3), pp. 902-923. [https://doi.org/10.1111/bjso.12426](https://bpspsychub.onlinelibrary.wiley.com/doi/10.1111/bjso.12426) [[PDF]](https://psyarxiv.com/8aedm/)
 
+<div data-badge-popover="right" data-badge-type="donut" data-doi="10.1111/bjso.12426" data-hide-no-mentions="true" class="altmetric-embed"></div>
+<span class="__dimensions_badge_embed__" data-doi="10.1111/bjso.12426" data-legend="hover-right" data-style="small_circle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 </div>
 
 <details>

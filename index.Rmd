@@ -2,12 +2,14 @@
 title: "Mathew da Costa Marques"
 image: "mdmarques_insight.jpg"
 links:
+  - label: Selected Publications
+    url: "publications.html"
   - label: CV
     url: "docs/mmarques_cv.pdf"
   - label: Google Scholar
     url: "https://scholar.google.com/citations?user=726mySAAAAAJ&hl=en"
-  - label: Selected Publications
-    url: "publications.html"
+  - label: ORCID
+    url: "https://orcid.org/0000-0002-5486-650X"
   - label: twitter
     url: "https://twitter.com/fabiovelo"
   - label: Email
@@ -15,7 +17,6 @@ links:
 output:
   postcards::trestles
 ---
- 
 ## Bio
 
 Dr Mathew Marques is a Lecturer in Psychology at La Trobe University, Melbourne.
