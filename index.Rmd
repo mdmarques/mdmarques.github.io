@@ -4,7 +4,7 @@ site: distill::distill_website
 image: "mmarques.jpg"
 links:
   - label: CV
-    url: "docs/mmarques_cv.pdf"
+    url: "https://docs.google.com/document/d/11IjkejLKOG64JMy9ITMGHcFxBFH1sMvq6bHiwtEqrrI/edit?usp=sharing"
   - label: Google Scholar
     url: "https://scholar.google.com/citations?user=726mySAAAAAJ&hl=en"
   - label: OSF
