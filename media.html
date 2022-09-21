@@ -785,6 +785,7 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
   d-article table.gt_table td,
   d-article table.gt_table th {
     border-bottom: none;
+    font-size: 100%;
   }
 
   .html-widget {
@@ -1857,15 +1858,21 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 
       // hoverable references
       $('span.citation[data-cites]').each(function() {
-        if ($(this).children()[0].nodeName == "D-FOOTNOTE") {
-          var fn = $(this).children()[0]
+        const citeChild = $(this).children()[0]
+        // Do not process if @xyz has been used without escaping and without bibliography activated
+        // https://github.com/rstudio/distill/issues/466
+        if (citeChild === undefined) return true
+
+        if (citeChild.nodeName == "D-FOOTNOTE") {
+          var fn = citeChild
           $(this).html(fn.shadowRoot.querySelector("sup"))
           $(this).id = fn.id
           fn.remove()
         }
         var refs = $(this).attr('data-cites').split(" ");
         var refHtml = refs.map(function(ref) {
-          return "<p>" + $('#ref-' + ref).html() + "</p>";
+          // Could use CSS.escape too here, we insure backward compatibility in navigator
+          return "<p>" + $('div[id="ref-' + ref + '"]').html() + "</p>";
         }).join("\n");
         window.tippy(this, {
           allowHTML: true,
@@ -2115,119 +2122,40 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 
 
 <div class="d-article">
-<p>I feel it is important as an academic to translate research and
-engage with the public through various mediums. Below are a selected set
-of my recent media engagements. Feel free to <a
-href="mailto:m.marques@latrobe.edu.au">contact me</a> if you would like
-to chat about my work or social psychology, including conspiracy
-theories</p>
+<p>I feel it is important as an academic to translate research and engage with the public through various mediums. Below are a selected set of my recent media engagements. Feel free to <a href="mailto:m.marques@latrobe.edu.au">contact me</a> if you would like to chat about my work or social psychology, including conspiracy theories</p>
 <h2 id="television">Television</h2>
-<p><a
-href="https://www.sbs.com.au/ondemand/video/2000844355750/conspiracy-theories"><em>SBS
-Insight</em>: Conspiracy Theories?</a> | 01/03/2022</p>
-<p><a
-href="https://www.abc.net.au/news/2021-06-15/why-do-people-buy-into-conspiracy-theories-like-qanon/13388796"><em>ABC
-News TV</em>: Qanon Conspiracy Theories</a> | 15/06/2021</p>
-<p><a href="https://www.skynews.com.au/details/_6218153074001"><em>Sky
-News Australia</em>: Conspiracy theories abound amid COVID-19 as people
-try to make sense of the chaos</a> | 24/12/2020</p>
-<p><a
-href="https://www.facebook.com/7NewsAustralia/posts/area-51-has-long-been-the-focus-of-conspiracy-theories-and-is-believed-to-be-the/2976169199059920/"><em>The
-Latest, Seven News</em>: Area 51: Storm the base</a> | 19/07/2019</p>
+<p><a href="https://www.sbs.com.au/ondemand/video/2000844355750/conspiracy-theories"><em>SBS Insight</em>: Conspiracy Theories?</a> | 01/03/2022</p>
+<p><a href="https://www.abc.net.au/news/2021-06-15/why-do-people-buy-into-conspiracy-theories-like-qanon/13388796"><em>ABC News TV</em>: Qanon Conspiracy Theories</a> | 15/06/2021</p>
+<p><a href="https://www.skynews.com.au/details/_6218153074001"><em>Sky News Australia</em>: Conspiracy theories abound amid COVID-19 as people try to make sense of the chaos</a> | 24/12/2020</p>
+<p><a href="https://www.facebook.com/7NewsAustralia/posts/area-51-has-long-been-the-focus-of-conspiracy-theories-and-is-believed-to-be-the/2976169199059920/"><em>The Latest, Seven News</em>: Area 51: Storm the base</a> | 19/07/2019</p>
 <h2 id="printdigital">Print/digital</h2>
-<p><a
-href="https://www.nzherald.co.nz/nz/study-out-on-politics-of-new-zealand-conspiracy-theorists/QWT3OCA6A2FLRFOFSWZDPT6QYA/"><em>NZ
-Herald</em>: Study out on politics of New Zealand conspiracy
-theorists</a> | 26/6/2022</p>
-<p><a
-href="https://www.theguardian.com/science/2022/apr/19/in-a-pandemic-of-medical-misinformation-how-do-you-deal-with-conspiracy-believers"><em>The
-Guardian</em>: In a pandemic of medical misinformation, how do you deal
-with conspiracy believers?</a> | 19/4/2022</p>
-<p><a
-href="https://www.sbs.com.au/news/insight/article/i-feel-duped-how-an-ex-conspiracy-theorist-changed-her-mind-on-vaccination/mtxbxp0pn"><em>SBS
-Insight</em>: I feel duped’: How an ‘ex-conspiracy theorist’ changed her
-mind on vaccination</a> | 28/02/2022</p>
-<p><a
-href="https://www.smh.com.au/national/dying-of-covid-or-with-it-pathologists-take-on-conspiracy-theorists-20211111-p5982e.html"><em>Sydney
-Morning Herald</em>: Dying of COVID or with it? Pathologists take on
-conspiracy theorists</a> | 11/11/2021</p>
-<p><a
-href="https://www.smh.com.au/national/is-there-any-point-in-arguing-with-people-20211012-p58z7v.html"><em>Sydney
-Morning Herald</em>: Is there any point in arguing with people?</a> |
-12/10/2021</p>
-<p><a
-href="https://www.thesaturdaypaper.com.au/news/politics/2021/07/31/the-political-forces-inside-the-anti-lockdown-movement/162765360012176"><em>The
-Saturday Paper</em>: The political forces inside the anti-lockdown
-movement</a> | 31/07/2021</p>
-<p><a
-href="https://cosmosmagazine.com/cherry-picked-covid-19-statistics/"><em>Cosmos</em>:
-Cherry-picked COVID-19 statistics</a> | 30/06/2021</p>
-<p><a
-href="https://www.smh.com.au/national/are-we-ignoring-the-hard-truths-about-the-most-likely-cause-of-covid-19-20210601-p57x4r.html"><em>Sydney
-Morning Herald</em>: Are we ignoring the hard truths about the most
-likely cause of COVID-19?</a> | 01/06/2021</p>
-<p><a
-href="https://www.theage.com.au/national/the-thrill-of-the-game-why-are-people-drawn-into-conspiracy-theories-20210304-p577tv.html"><em>The
-Good Weekend</em>: The thrill of the game: Why are people drawn into
-conspiracy theories?</a> | 17/04/2021</p>
-<p><a
-href="https://theconversation.com/was-phar-lap-killed-by-gangsters-new-research-shows-which-conspiracies-people-believe-in-and-why-158610"><em>The
-Conversation</em>: Was Phar Lap Killed by Gangsters?</a> |
-27/04/2021</p>
-<p><a
-href="https://www.scmp.com/news/asia/australasia/article/3104652/how-australian-celebrity-chef-pete-evans-became-advocate"><em>Agence
-France-Presse</em>: Australian wellness celeb fuels ‘infodemic’</a> |
-08/10/20210</p>
-<p><a
-href="https://thenewdaily.com.au/news/2020/08/05/sovereign-citizens-mask-conspiracy-theorists-baiting-police/"><em>The
-New Daily</em>: Sovereign citizens: The anti-masker conspiracy theorists
-‘baiting police’</a> | 05/08/2020</p>
-<p><a
-href="https://www.canberratimes.com.au/story/6768348/weve-seen-such-conspiracy-theories-before/"><em>Canberra
-Times</em>: We’ve seen this conspiracy theory movie before</a> |
-18/05/2020</p>
-<p><a
-href="https://www.thesaturdaypaper.com.au/news/media/2020/05/16/how-covid-19-energised-conspiracy-theorists/15895512009831"><em>The
-Saturday Paper</em>: How Covid-19 energised conspiracy theorists</a> |
-24/12/2020</p>
-<p><a
-href="https://theconversation.com/sport-is-full-of-conspiracy-theories-chris-froomes-horrific-cycling-crash-is-just-the-latest-example-118918"><em>The
-Conversation</em>: Sport is full of conspiracy theories – Chris Froome’s
-horrific cycling crash is just the latest example</a> | 19/06/2020</p>
+<p><a href="https://www.nzherald.co.nz/nz/study-out-on-politics-of-new-zealand-conspiracy-theorists/QWT3OCA6A2FLRFOFSWZDPT6QYA/"><em>NZ Herald</em>: Study out on politics of New Zealand conspiracy theorists</a> | 26/6/2022</p>
+<p><a href="https://www.theguardian.com/science/2022/apr/19/in-a-pandemic-of-medical-misinformation-how-do-you-deal-with-conspiracy-believers"><em>The Guardian</em>: In a pandemic of medical misinformation, how do you deal with conspiracy believers?</a> | 19/4/2022</p>
+<p><a href="https://www.sbs.com.au/news/insight/article/i-feel-duped-how-an-ex-conspiracy-theorist-changed-her-mind-on-vaccination/mtxbxp0pn"><em>SBS Insight</em>: I feel duped’: How an ‘ex-conspiracy theorist’ changed her mind on vaccination</a> | 28/02/2022</p>
+<p><a href="https://www.smh.com.au/national/dying-of-covid-or-with-it-pathologists-take-on-conspiracy-theorists-20211111-p5982e.html"><em>Sydney Morning Herald</em>: Dying of COVID or with it? Pathologists take on conspiracy theorists</a> | 11/11/2021</p>
+<p><a href="https://www.smh.com.au/national/is-there-any-point-in-arguing-with-people-20211012-p58z7v.html"><em>Sydney Morning Herald</em>: Is there any point in arguing with people?</a> | 12/10/2021</p>
+<p><a href="https://www.thesaturdaypaper.com.au/news/politics/2021/07/31/the-political-forces-inside-the-anti-lockdown-movement/162765360012176"><em>The Saturday Paper</em>: The political forces inside the anti-lockdown movement</a> | 31/07/2021</p>
+<p><a href="https://cosmosmagazine.com/cherry-picked-covid-19-statistics/"><em>Cosmos</em>: Cherry-picked COVID-19 statistics</a> | 30/06/2021</p>
+<p><a href="https://www.smh.com.au/national/are-we-ignoring-the-hard-truths-about-the-most-likely-cause-of-covid-19-20210601-p57x4r.html"><em>Sydney Morning Herald</em>: Are we ignoring the hard truths about the most likely cause of COVID-19?</a> | 01/06/2021</p>
+<p><a href="https://www.theage.com.au/national/the-thrill-of-the-game-why-are-people-drawn-into-conspiracy-theories-20210304-p577tv.html"><em>The Good Weekend</em>: The thrill of the game: Why are people drawn into conspiracy theories?</a> | 17/04/2021</p>
+<p><a href="https://theconversation.com/was-phar-lap-killed-by-gangsters-new-research-shows-which-conspiracies-people-believe-in-and-why-158610"><em>The Conversation</em>: Was Phar Lap Killed by Gangsters?</a> | 27/04/2021</p>
+<p><a href="https://www.scmp.com/news/asia/australasia/article/3104652/how-australian-celebrity-chef-pete-evans-became-advocate"><em>Agence France-Presse</em>: Australian wellness celeb fuels ‘infodemic’</a> | 08/10/20210</p>
+<p><a href="https://thenewdaily.com.au/news/2020/08/05/sovereign-citizens-mask-conspiracy-theorists-baiting-police/"><em>The New Daily</em>: Sovereign citizens: The anti-masker conspiracy theorists ‘baiting police’</a> | 05/08/2020</p>
+<p><a href="https://www.canberratimes.com.au/story/6768348/weve-seen-such-conspiracy-theories-before/"><em>Canberra Times</em>: We’ve seen this conspiracy theory movie before</a> | 18/05/2020</p>
+<p><a href="https://www.thesaturdaypaper.com.au/news/media/2020/05/16/how-covid-19-energised-conspiracy-theorists/15895512009831"><em>The Saturday Paper</em>: How Covid-19 energised conspiracy theorists</a> | 24/12/2020</p>
+<p><a href="https://theconversation.com/sport-is-full-of-conspiracy-theories-chris-froomes-horrific-cycling-crash-is-just-the-latest-example-118918"><em>The Conversation</em>: Sport is full of conspiracy theories – Chris Froome’s horrific cycling crash is just the latest example</a> | 19/06/2020</p>
 <h2 id="audio">Audio</h2>
-<p><a
-href="https://www.abc.net.au/radio/programs/north-qld-drive/drive/14025218"><em>2SM
-with John Laws</em>: Conspiracy Theories @ ~17 mins</a> | 15/09/2022</p>
-<p><a
-href="https://www.abc.net.au/radio/programs/north-qld-drive/drive/14025218"><em>ABC
-Drive</em>: Tall Poppy Syndrome</a> | 25/08/2022</p>
-<p><a
-href="https://www.3aw.com.au/young-australians-most-likely-group-to-believe-in-conspiracy-theories/"><em>3AW</em>:
-Young Australians most likely group to believe in conspiracy
-theories</a> | 07/03/2022</p>
-<p><a
-href="https://www.abc.net.au/radionational/programs/rearvision/medical-conspiracy-theories-through-the-ages/13649988"><em>ABC
-Rear Vision podcast</em>: Medical conspiracy theories</a> |
-27/11/2021</p>
-<p><a
-href="https://www.abc.net.au/triplej/programs/hack/hack/13535808"><em>ABC
-Triple J Hack</em>: No, the vaccine doesn’t give you swollen balls</a> |
-15/09/2021</p>
-<p><a
-href="https://www.abc.net.au/radio/melbourne/programs/breakfast/breakfast/13025156"><em>ABC
-Radio Melbourne and ABC Victoria Breakfast with Ali Moore</em>:
-Conspiracy theories</a> | 07/01/2020</p>
-<p><a
-href="https://www.abc.net.au/radionational/programs/scienceshow/revisiting-the-great-carlos-hoax-of-1988/12875836"><em>ABC
-Radio National Science Show</em>: Revisiting the great Carlos hoax</a> |
-14/11/2020</p>
+<p><a href="https://www.thewire.org.au/story/tinfoil-hat-party/"><em>The Wire</em>: What are conspiracy theories?</a> | 20/09/2022</p>
+<p><a href="https://www.abc.net.au/radio/programs/north-qld-drive/drive/14025218"><em>2SM with John Laws</em>: Conspiracy Theories @ ~17 mins</a> | 15/09/2022</p>
+<p><a href="https://www.abc.net.au/radio/programs/north-qld-drive/drive/14025218"><em>ABC Drive</em>: Tall Poppy Syndrome</a> | 25/08/2022</p>
+<p><a href="https://www.3aw.com.au/young-australians-most-likely-group-to-believe-in-conspiracy-theories/"><em>3AW</em>: Young Australians most likely group to believe in conspiracy theories</a> | 07/03/2022</p>
+<p><a href="https://www.abc.net.au/radionational/programs/rearvision/medical-conspiracy-theories-through-the-ages/13649988"><em>ABC Rear Vision podcast</em>: Medical conspiracy theories</a> | 27/11/2021</p>
+<p><a href="https://www.abc.net.au/triplej/programs/hack/hack/13535808"><em>ABC Triple J Hack</em>: No, the vaccine doesn’t give you swollen balls</a> | 15/09/2021</p>
+<p><a href="https://www.abc.net.au/radio/melbourne/programs/breakfast/breakfast/13025156"><em>ABC Radio Melbourne and ABC Victoria Breakfast with Ali Moore</em>: Conspiracy theories</a> | 07/01/2020</p>
+<p><a href="https://www.abc.net.au/radionational/programs/scienceshow/revisiting-the-great-carlos-hoax-of-1988/12875836"><em>ABC Radio National Science Show</em>: Revisiting the great Carlos hoax</a> | 14/11/2020</p>
 <h2 id="public-talks">Public talks</h2>
-<p><a
-href="https://www.abc.net.au/radionational/programs/bigideas/covid-19-and-the-pandemic-of-denial/12935664"><em>La
-Trobe University</em>: COVID-19 and the Pandemic of Denial</a> |
-01/12/2020</p>
-<div class="sourceCode" id="cb1"><pre
-class="sourceCode r distill-force-highlighting-css"><code class="sourceCode r"></code></pre></div>
+<p><a href="https://www.abc.net.au/radionational/programs/bigideas/covid-19-and-the-pandemic-of-denial/12935664"><em>La Trobe University</em>: COVID-19 and the Pandemic of Denial</a> | 01/12/2020</p>
+<div class="sourceCode" id="cb1"><pre class="sourceCode r distill-force-highlighting-css"><code class="sourceCode r"></code></pre></div>
 <!--radix_placeholder_article_footer-->
 <!--/radix_placeholder_article_footer-->
 </div>
