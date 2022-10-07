@@ -172,6 +172,29 @@ Natoli, E.E., & **Marques, M.D.** (2021). The antidepressant hoax: Conspiracy th
 
 <div style="display: flex">
 
+Jarman, H., McLean, S.A., Paxton, S.J., Sibley, C.G., & **Marques, M.D.** (19 September 2022). Examination of the temporal sequence between social media use and well-being in a representative sample of adults. *Social Psychiatry and Psychiatric Epidemiology*. [https://doi.org/10.1007/s00127-022-02363-2](https://link.springer.com/article/10.1007/s00127-022-02363-2) [[PDF]](https://psyarxiv.com/z2yn4/)<br>
+*Impact Factor = 4.328*
+</div>
+<div style="display: flex; justify-content: space-between; width: 140px;">
+
+<div data-badge-popover="right" data-badge-type="donut" data-doi="10.1007/s00127-022-02363-2" data-hide-no-mentions="true" class="altmetric-embed"></div>
+<span class="__dimensions_badge_embed__" data-doi="10.1007/s00127-022-02363-2" data-legend="hover-right" data-style="small_circle" data-hide-zero-citations="true"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+</div>
+
+<details>
+  <summary>
+  <font size="3">Abstract</font>
+  </summary>
+  
+  <font size="3">Given insufficient prospective evidence for relationships between social media use and well-being among adults, the present study examined the temporal sequence between social media use and psychological distress and life satisfaction, and explored age and gender differences. A representative sample of adults (*N* = 7331; 62.4% women; *Mage* = 51.94; *SD* = 13.48; 15–94 years) were surveyed annually across four waves. Cross-lagged panel models demonstrated bidirectional relationships between social media use and well-being. Higher psychological distress and lower life satisfaction predicted higher social media use more strongly than the reverse direction, with effects particularly pronounced for the impact of psychological distress. Although the patterns of findings were relatively consistent across age and gender, results suggested that women and middle- and older-aged adults experience detrimental effects of social media use on well-being, which may drive subsequent increased use of social media. The bidirectional relationships suggest that adults who experience psychological distress or lower life satisfaction may seek to use social media as a way to alleviate poor well-being. However, paradoxically, this maladaptive coping mechanism appears to drive increased social media use which in turn can exacerbate poor well-being. Clinicians should be aware of these bidirectional relationships and work with clients towards replacing ineffective strategies with more helpful coping approaches. As this study used a simplistic measure of social media use, future research should address this limitation and explore nuanced relationships afforded by assessing specific social media activities or exposure to certain types of content.
+
+</font>
+</details>
+
+<br>
+
+<div style="display: flex">
+
 **Marques, M.D.**, Sibley, C.G., Wilson, M.S., Bulbulia, J., Osborne, D., Yogeeswaran, K., Lee, C.H.J., Duck, I.M., Douglas, K.M., & Cichocka, A. (2022). Psychological predictors of COVID-19 vaccination in New Zealand. *New Zealand Journal of Psychology, 51*(1), 10-27. [[PDF]](https://psyarxiv.com/zkj7u/)
 </div>
 <div style="display: flex; justify-content: space-between; width: 140px;">
@@ -207,6 +230,112 @@ Natoli, E.E., & **Marques, M.D.** (2021). The antidepressant hoax: Conspiracy th
   </summary>
   
   <font size="3">Individuals occupying high-status positions are sometimes victims of the tall poppy syndrome where people want to see them cut down to size. These attitudes reflect a tension between achievement, authority, and equality. In a pre-registered study (Study 1: *N* = 47,951), and a replication (Study 2: *N* = 5,569), of two representative New Zealand samples we investigated how social dominance orientation, right-wing authoritarianism, political ideologies and self-esteem predicted favoring the fall of the tall poppy. Novel findings showed individuals high in social dominance orientation favored the fall of the tall poppy. In both studies, high authoritarian aggression and submission, and low conventionalism (in Study 1 only) were also associated with negative tall poppy attitudes. So too were individuals with lower self-esteem and who were less conservative in their political ideology. These findings advance our understanding of how group-based hierarchy and inequality relate to attitudes toward individuals in high-status positions.</font>
+</details>
+
+<br>
+
+<div style="display: flex">
+
+Hall, A., McLennan, J., **Marques, M.D.**, & Bearman, C. (2022). Conceptualising and measuring householder bushfire (wildfire) risk perception: the Householder Bushfire Risk Perception Scale (HBRPS-4). *International Journal of Disaster Risk Reduction, 67*, 102667.  [https://doi.org/10.1016/j.ijdrr.2021.102667](https://www.sciencedirect.com/science/article/pii/S2212420921006282?via%3Dihub)<br>
+*Impact Factor = 2.896*
+</div>
+<div style="display: flex; justify-content: space-between; width: 140px;">
+
+<div data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.ijdrr.2021.102667" data-hide-no-mentions="true" class="altmetric-embed"></div>
+<span class="__dimensions_badge_embed__" data-doi="10.1016/j.ijdrr.2021.102667" data-legend="hover-right" data-style="small_circle" data-hide-zero-citations="true"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+</div>
+
+<details>
+  <summary>
+  <font size="3">Abstract</font>
+  </summary>
+  
+  <font size="3">With increasing numbers of householders living in high bushfire (wildfire) risk areas, there is a need to better understand householders' bushfire risk perceptions. In the community bushfire safety research literature, there appears to be no consensus on how best to conceptualise and measure householders' bushfire risk perceptions. The aim of this research was to investigate the concept of bushfire risk perception and its measurement, and to develop a brief, reliable and valid measure of householders’ bushfire risk perceptions. Following a review of 26 studies, a four-item householder bushfire risk perception scale (HBRPS-4) was developed. Analysis of responses to an online survey of 375 householders indicated that the measure had high internal consistency (α = 0.93). There was evidence of: construct validity, concurrent convergent criterion validity (|*r*| range 0.21–0.58), and concurrent discriminant criterion validity (*r* ≤ 0.15). A supplementary study with 27 participants found a high level of test-retest reliability over a six-week period (*r* = 0.95). It is suggested that householder bushfire risk perception can be construed as a fuzzy concept, incorporating three risk perception elements (probability, consequences, concern) whose meaning boundaries are not well-differentiated. The HBRPS-4 appears to hold promise of being a useful measure for community bushfire safety research.</font>
+</details>
+
+<br>
+
+<div style="display: flex">
+
+Jarman, H.K., Slater, A., McLean, S.A., **Marques, M.D.**, & Paxton, S.J. (2021). The impact of completing body image assessments on adolescents’ body image and engagement in body change strategies: Harmful or harmless? *Body Image, 39*, 131-138. [https://doi.org/10.1016/j.bodyim.2021.07.003](https://www.sciencedirect.com/science/article/pii/S1740144521000991?via%3Dihub)<br>
+*Impact Factor = 6.406*
+</div>
+<div style="display: flex; justify-content: space-between; width: 140px;">
+
+<div data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.bodyim.2021.07.003" data-hide-no-mentions="true" class="altmetric-embed"></div>
+<span class="__dimensions_badge_embed__" data-doi="10.1016/j.bodyim.2021.07.003" data-legend="hover-right" data-style="small_circle" data-hide-zero-citations="true"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+</div>
+
+<details>
+  <summary>
+  <font size="3">Abstract</font>
+  </summary>
+  
+  <font size="3">Parents and educators have raised concerns that participating in body image research may cause or increase poor body image and engagement in body change strategies. This quasi-experimental study compared body image and body change strategy outcomes among adolescents who had, and had not, previously been exposed to the same assessment questions 6-months prior (twice- vs once-completers). Comparison was also made between groups who completed an assessment containing only positively worded items or both positive and negative items (positive vs mixed valence). Boys and girls (*N* = 1,532, *Mage* = 13.83, *SD* = 1.18) completed online measures of body dissatisfaction, body appreciation, overvaluation of weight and shape, appearance esteem, and body change strategies. In regression analyses, neither body image nor body change strategies were predicted by group (completion or valence groups), except lower body dissatisfaction and higher body appreciation among twice-completers. Most participants did not experience individual-level change in body image or body change strategies over 6-months. Findings suggest that body image assessments may not put adolescents at risk of poor body image or engagement with body change strategies, however; experimental research is needed. Some improvement in body image may have implications for prospective and prevention research.</font>
+</details>
+
+<br>
+
+<div style="display: flex">
+
+Jarman, H. K., **Marques, M.D.**, McLean, S.A., Slater, A., & Paxton, S.J. (2021). Social media, body satisfaction and well-being among adolescents: A mediation model of appearance-ideal internalization and comparison. *Body Image, 36*, 139-148. [https://doi.org/10.1016/j.bodyim.2020.11.005](https://www.sciencedirect.com/science/article/pii/S1740144520304265?via%3Dihub)<br>
+*Impact Factor = 6.406*
+</div>
+<div style="display: flex; justify-content: space-between; width: 140px;">
+
+<div data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.bodyim.2020.11.005" data-hide-no-mentions="true" class="altmetric-embed"></div>
+<span class="__dimensions_badge_embed__" data-doi="10.1016/j.bodyim.2020.11.005" data-legend="hover-right" data-style="small_circle" data-hide-zero-citations="true"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+</div>
+
+<details>
+  <summary>
+  <font size="3">Abstract</font>
+  </summary>
+  
+  <font size="3">Despite adolescents’ prolific use of social media, relationships between social media and body satisfaction and well-being are not yet well understood, especially among boys. This study tested a sociocultural model of body image within the context of social media among adolescent boys and girls. Specifically, this study examined whether appearance-ideal internalization and social appearance comparisons mediated relationships between social media engagement (intensity and appearance-focused use) and body satisfaction and subjective well-being. Australian adolescents between 11 and 17 years (*N* = 1,579, *Mage* = 13.45 years, *SD* = 1.15; 55.4 % boys) completed an online survey. Structural equational modelling indicated that only higher appearance-focused social media use was directly associated with lower body satisfaction and well-being. Generally, higher appearance-ideal internalization and comparisons mediated the relationships between higher social media engagement and lower body satisfaction and well-being. Multi-group analyses indicated these relationships were equivalent across gender. Findings supported the proposed model among boys and girls and extend existing theoretical knowledge to encompass male body image and well-being. Interventions which target internalization and comparisons in the context of social media are likely to be valuable in improving body satisfaction and subjective well-being in co-educational settings.</font>
+</details>
+
+<br>
+
+<div style="display: flex">
+
+Jarman, H. K., **Marques, M.D.**, McLean, S.A., Slater, A., & Paxton, S.J. (2021). Motivations for Social Media Use: Associations with Social Media Engagement and Body Satisfaction and Well-Being among Adolescents. *Journal of Youth and Adolescence, 50*, 2279-2293. [https://doi.org/10.1007/s10964-020-01390-z](https://link.springer.com/article/10.1007/s10964-020-01390-z)<br>
+*Impact Factor = 4.381*
+</div>
+<div style="display: flex; justify-content: space-between; width: 140px;">
+
+<div data-badge-popover="right" data-badge-type="donut" data-doi="10.1007/s10964-020-01390-z" data-hide-no-mentions="true" class="altmetric-embed"></div>
+<span class="__dimensions_badge_embed__" data-doi="10.1007/s10964-020-01390-z" data-legend="hover-right" data-style="small_circle" data-hide-zero-citations="true"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+</div>
+
+<details>
+  <summary>
+  <font size="3">Abstract</font>
+  </summary>
+  
+  <font size="3">Adolescents are spending considerable time on social media, yet it is unclear whether motivations for social media use drive different forms of social media engagement, and their relationships with body satisfaction and well-being. This study tested a proposed model of the relationships between motivations for social media use, types of social media engagement and body satisfaction and well-being. Responses to an online survey from 1432 Australian adolescents (*Mage* = 13.45 years, *SD* = 1.14, range 11–17; 55.4% boys) were collected. Structural equational modelling indicates excellent model fit. Specifically, motivations for social media use (information sharing, passing time, escapism, social interaction, social capital and appearance feedback) were associated with engagement (intensity, photo-based use, active use, passive use and liking use) and revealed mixed associations with body satisfaction and well-being. The findings support the importance of considering motivations for social media use in future research.</font>
+</details>
+
+<br>
+
+<div style="display: flex">
+
+Jarman, H. K., McLean, S.A., Slater, A., **Marques, M.D.**, & Paxton, S.J. (19 November 2021). Direct and indirect relationships between social media use and body satisfaction: A prospective study among adolescent boys and girls. New Media and Society. [https://doi.org/10.1177/14614448211058468](https://journals.sagepub.com/doi/10.1177/14614448211058468)<br>
+*Impact Factor = 8.061*
+</div>
+<div style="display: flex; justify-content: space-between; width: 140px;">
+
+<div data-badge-popover="right" data-badge-type="donut" data-doi="10.1177/14614448211058468" data-hide-no-mentions="true" class="altmetric-embed"></div>
+<span class="__dimensions_badge_embed__" data-doi="10.1177/14614448211058468" data-legend="hover-right" data-style="small_circle" data-hide-zero-citations="true"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+</div>
+
+<details>
+  <summary>
+  <font size="3">Abstract</font>
+  </summary>
+  
+  <font size="3">Cross-sectional research suggests a small, inverse association between social media use and body satisfaction. However, less is known regarding prospective, bidirectional, or mediating effects. In line with sociocultural theory, this study used a three-wave design to examine direct and indirect effects between social media use and body satisfaction, via thin-ideal and muscular-ideal internalisation and social comparisons. Adolescents (*n* = 1911; *Mage* = 14.27, *SD* = 1.08) were invited to complete three surveys over 1 year. Cross-lagged panel models indicated acceptable fit for two social media use operationalisations, with better fit statistics for the appearance-focused use rather than photo-based activities model. Despite largely no direct effects, indirect effects were found. Social comparisons mediated the relationships over time, whereby higher social media use predicted higher comparisons, which predicted lower body satisfaction. The reverse direction was also found. Gender invariance indicates that prevention aimed at reducing comparisons may be suitable for boys and girls.
+</font>
 </details>
 
 <br>
@@ -262,6 +391,119 @@ Steffens, M.S., Dunn, A.G., **Marques, M.D.**, Danchin, M., Witteman, H.O., & Le
 
 <div style="display: flex">
 
+Piantella, S., Dragano, N., **Marques, M.D.**, McDonald, S.J., & Wright, B.J. (accepted 23 October 2021). Prospective increases in depression symptoms and markers of inflammation increase coronary heart disease risk- The Whitehall II cohort study. *Journal of Psychosomatic Research, 151*, 110657. doi: 
+ [https://doi.org/10.1016/j.jpsychores.2021.110657](https://www.sciencedirect.com/science/article/pii/S0022399921003020?via%3Dihub)<br>
+*Impact Factor = 3.006*
+</div>
+<div style="display: flex; justify-content: space-between; width: 140px;">
+
+<div data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.jpsychores.2021.110657" data-hide-no-mentions="true" class="altmetric-embed"></div>
+<span class="__dimensions_badge_embed__" data-doi="10.1016/j.jpsychores.2021.110657" data-legend="hover-right" data-style="small_circle" data-hide-zero-citations="true"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+</div>
+
+<details>
+  <summary>
+  <font size="3">Abstract</font>
+  </summary>
+  
+  <font size="3">*OBJECTIVES*: Stress, inflammation, and depression are associated to coronary heart disease (CHD). However, how these constructs collectively contribute to CHD incidence is not well understood. For the first time, this study explored the concurrent relationship between workplace stress, depression symptomology and levels of low-grade inflammation with future CHD incidence.
+*METHODS*: Data from the 5-year intervals at phase 5, 7, and 9 of the Whitehall II study (*N* = 8348, *Mage* = 56) provided measures of workplace stress, depression symptomology, inflammation (interleukin-6, C-reactive protein, fibrinogen), and CHD incidence. The proposed stress-inflammation-depression-CHD pathway was assessed with a longitudinal design incorporating a structural equation model (SEM) that measured if changes in stress, depression, and inflammation between phase 5 to phase 7 predicted first-time CHD events between phases 7 and 9.
+*RESULTS*: The SEM empirically supported this proposed pathway and demonstrated excellent model fit, *χ* (72) = 3582.959, *p* < .001, *CFI* = 0.896, *RMSEA* = 0.076 (CI90 = 0.074, 0.079), while depression symptoms mediated the association between workplace stress and CHD incidence, *B* = 0.003 (CI90 = 0.001, 0.004). Further, survival analysis indicated that individuals with higher mean scores (across phases) of depression symptoms or fibrinogen levels were more likely to experience a first time CHD event.
+*CONCLUSIONS*: Increases in depression symptoms and fibrinogen levels may be good indicators of future CHD morbidity among older employees. Future research is encouraged to monitor negative affective states and the potential use of biobehavioural options to reduce depression and inflammation that may mitigate CHD risk.</font>
+</details>
+
+<br>
+
+<div style="display: flex">
+
+Rodgers, R.F., Mclean, S.A., Gordon, C.S., Slater, A., **Marques, M.D.**, Jarman, H.K., & Paxton, S.J. (online 9 September 2020). Development and Validation of the Motivations for Social Media Use Scale (MSMU) Among Adolescents. *Adolescent Research Review, 6*, 425-435.
+ [https://doi.org/10.1007/s40894-020-00139-w](https://link.springer.com/article/10.1007/s40894-020-00139-w)<br>
+*Impact Factor = *
+</div>
+<div style="display: flex; justify-content: space-between; width: 140px;">
+
+<div data-badge-popover="right" data-badge-type="donut" data-doi="10.1007/s40894-020-00139-w" data-hide-no-mentions="true" class="altmetric-embed"></div>
+<span class="__dimensions_badge_embed__" data-doi="10.1007/s40894-020-00139-w" data-legend="hover-right" data-style="small_circle" data-hide-zero-citations="true"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+</div>
+
+<details>
+  <summary>
+  <font size="3">Abstract</font>
+  </summary>
+  
+  <font size="3">Theoretical accounts of the relationship between social media use and body image among adolescents have highlighted motivations as an important factor. However, motivations for social media use has received little attention in extant research in the area of body image. The aim of this study was therefore to develop a measure of motivations for social media use among adolescents, with a focus on appearance motivations. Data from 770 adolescents (49% female), mean (SD) age = 12.76 (0.74) were used to examine the psychometric properties of the new Motivations for Social Media Use scale (MSMU). Exploratory and confirmatory factor analyses revealed a four-factor structure including Connection, Popularity, Appearance, and Values and Interests subscales. All subscales revealed acceptable internal reliability, and convergent validity with internalization of appearance ideals, self-esteem, and social media use. The MSMU is a useful tool for assessing appearance motivations for social media use among adolescent girls and boys.</font>
+</details>
+
+<br>
+
+<div style="display: flex">
+
+McLennan, J., **Marques, M.D.**, & Every, D. (2020). Conceptualising and measuring psychological preparedness for disaster: The Psychological Preparedness for Disaster Threat Scale. *Natural Hazards, 101*, 297–307. [https://doi.org/10.1007/s11069-020-03866-4](https://link.springer.com/article/10.1007/s11069-020-03866-4)<br>
+*Impact Factor = 3.656*
+</div>
+<div style="display: flex; justify-content: space-between; width: 140px;">
+
+<div data-badge-popover="right" data-badge-type="donut" data-doi="10.1007/s11069-020-03866-4" data-hide-no-mentions="true" class="altmetric-embed"></div>
+<span class="__dimensions_badge_embed__" data-doi="10.1007/s11069-020-03866-4" data-legend="hover-right" data-style="small_circle" data-hide-zero-citations="true"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+</div>
+
+<details>
+  <summary>
+  <font size="3">Abstract</font>
+  </summary>
+  
+  <font size="3">Most research on household disaster preparedness has focussed on physical, or material, preparation. Recently, researchers have turned attention to investigating psychological, or mental, preparedness for disasters. Reviews suggest that psychological preparedness comprises two broad mental dimensions or domains: a mostly cognitive aspect directed at the threat, involving knowledge of the threat environment and adaptive responses; and a mostly affective aspect involving self-awareness and emotional self-control. We located eight self-report measures of psychological preparedness, of which only three evidenced good psychometric properties. Of these, only the Psychological Preparedness for Disaster Threat Scale (PPDTS) developed by Zulch et al. (Psychological preparedness for natural disasters, 2012) seemed suitable for investigating psychological preparedness for disaster events in general in English-speaking contexts. A confirmatory factor analysis of data from a survey of 1253 Australian residents replicated the findings reported by Zulch et al. that the measure comprised two sub-scales: a 10-item Knowledge and Management sub-scale, and an 8-item Anticipation, Awareness and Management sub-scale. Evidence of both concurrent convergent and discriminant validity of the measure was found. The PPDTS appears to be a psychometrically sound self-report measure of householder psychological preparedness for a disaster event.
+
+</font>
+</details>
+
+<br>
+
+<div style="display: flex">
+
+Petrovic, K.P., Stukas, A.A., & Marques, M.D. (2020). Religiosity, Motivations and Volunteering: A Test of Two Theories of Religious Prosociality. Journal of Theoretical Social Psychology, 4, 157-168. [https://doi.org/10.1002/jts5.68](https://onlinelibrary.wiley.com/doi/10.1002/jts5.68) [[PDF]](https://opal.latrobe.edu.au/ndownloader/files/27374003)<br>
+*Impact Factor = 1.341*
+</div>
+<div style="display: flex; justify-content: space-between; width: 140px;">
+
+<div data-badge-popover="right" data-badge-type="donut" data-doi="10.1002/jts5.68" data-hide-no-mentions="true" class="altmetric-embed"></div>
+<span class="__dimensions_badge_embed__" data-doi="10.1002/jts5.68" data-legend="hover-right" data-style="small_circle" data-hide-zero-citations="true"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+</div>
+
+<details>
+  <summary>
+  <font size="3">Abstract</font>
+  </summary>
+  
+  <font size="3">Although it is well-established that religious individuals tend to volunteer more than the non-religious, few studies have examined motivations to volunteer as a potential explanation for this relationship. The present research takes a functional approach to examine whether religiosity drives volunteerism by promoting certain motivations for volunteering. Two common theories of religious prosociality are considered: (1) religious belief increases volunteering through internalized prosocial values, and (2) religious service attendance increases volunteering by fostering social relationships, hence increasing social reasons for volunteering. In two studies, Values-based and Social-based motivations to volunteer are tested as mediators in the relationship between religiosity (both belief and service attendance) and volunteering. Study 1 used a predominantly university student sample (*N* = 130) to predict volunteering intentions, whereas Study 2 employed an Australian community sample (*N* = 772) to predict self-reported volunteer hours. Both studies show consistent findings that the Values motive mediated the relationship between religious belief and volunteering, whereas the Social motive did not mediate the relationship between religious service attendance and volunteering. We find support for the theory that religious beliefs boost volunteerism by promoting humanistic reasons for volunteering.</font>
+</details>
+
+<br>
+
+<div style="display: flex">
+
+McLean S.A., Wertheim E.H., **Marques, M.D.**, & Paxton S.J. (2019). Dismantling prevention: Comparison of outcomes following media literacy and appearance comparison modules in a randomised controlled trial. *Journal of Health Psychology, 24*, 761-776.
+ [https://doi.org/10.1177/1359105316678668](https://journals.sagepub.com/doi/10.1177/1359105316678668)<br>
+*Impact Factor = 3.789*
+</div>
+<div style="display: flex; justify-content: space-between; width: 140px;">
+
+<div data-badge-popover="right" data-badge-type="donut" data-doi="10.1177/1359105316678668" data-hide-no-mentions="true" class="altmetric-embed"></div>
+<span class="__dimensions_badge_embed__" data-doi="10.1177/1359105316678668" data-legend="hover-right" data-style="small_circle" data-hide-zero-citations="true"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+</div>
+
+<details>
+  <summary>
+  <font size="3">Abstract</font>
+  </summary>
+  
+  <font size="3">A dismantling study of body dissatisfaction prevention was conducted. Adolescent girls (*N* = 260) were randomly allocated to a media literacy (Happy Being Me – Media Literacy) or appearance comparison (Happy Being Me – Appearance Comparison) intervention or healthy eating behaviour control (Happy Being Me – Healthy Eating Behaviour) condition. In the Happy Being Me – Appearance Comparison condition, improvements from baseline to post-programme and follow-up for upward appearance comparison and fear of negative appearance evaluation were observed. In the Happy Being Me – Media Literacy condition, improvements were observed from baseline to post-programme for upward appearance comparison and realism scepticism. Findings were similar in a high-risk subsample and overall are moderately supportive of appearance comparison-based interventions, but less supportive of a stand-alone media literacy intervention.</font>
+</details>
+
+<br>
+
+<div style="display: flex">
+
 **Marques, M.D.**, Elphinstone B., Critchley C.R., & Eigenberger, M.E. (2017). A brief scale for measuring Anti-Intellectualism. *Personality and Individual Differences, 114*, 167-174. [https://doi.org/10.1016/j.paid.2017.04.001](https://www.sciencedirect.com/science/article/abs/pii/S0191886917302507?via%3Dihub) [[PDF]](https://opal.latrobe.edu.au/ndownloader/files/27374003)<br>
 *Impact Factor = 3.004*
 </div>
@@ -303,6 +545,27 @@ Honeyman K.L., Stukas A.A., & **Marques M.D.** (2016). Human trafficking: factor
 <br>
 
 <div style="display: flex">
+
+Rodgers, R.F., McLean, S.A., **Marques, M.**, Dunstan, C., & Paxton, S.J. (2016). Trajectories of body dissatisfaction and dietary restriction in early adolescent girls: a Latent Class Growth Analysis. *Journal of Youth and Adolescence, 45*, 1664-1677. [https://doi.org/10.1007/s10964-015-0356-3](https://link.springer.com/article/10.1007/s10964-015-0356-3)<br>
+*Impact Factor = 3.247*
+</div>
+<div style="display: flex; justify-content: space-between; width: 140px;">
+
+<div data-badge-popover="right" data-badge-type="donut" data-doi="10.1007/s10964-015-0356-3" data-hide-no-mentions="true" class="altmetric-embed"></div>
+<span class="__dimensions_badge_embed__" data-doi="10.1007/s10964-015-0356-3" data-legend="hover-right" data-style="small_circle" data-hide-zero-citations="true"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+</div>
+
+<details>
+  <summary>
+  <font size="3">Abstract</font>
+  </summary>
+  
+  <font size="3">Clarifying the trajectories of body image and eating concerns in adolescents is critical. We examined longitudinal patterns of development of body dissatisfaction and dietary restriction among early adolescent girls within a sociocultural framework. A sample of 259 school girls (*Mage* = 12.76 years, *SD* = 0.44) reported on sociocultural influences, body dissatisfaction and dietary restriction at baseline, 8, and 14 months. A subsample provided height and weight. Analyses identified four trajectories of body dissatisfaction: low, moderate-increasing, moderate-decreasing, and high. Three trajectories of dietary restriction emerged: low, moderate, and high. Baseline and 8-month sociocultural variables and BMI differed between the trajectories. A subgroup of girls displays high levels of body image and eating concerns by early adolescence. Sociocultural variables influence these trajectories.</font>
+</details>
+
+<br>
+
+<div style="display: flex">
 **Marques, M.D.**, Critchley, C.R., & Walshe, J. (2015). Attitudes to genetically modified food over time: how trust in organizations and the media cycle predict support. *Public Understanding of Science, 24*, 601-618. [https://doi.org/10.1177/0963662514542372](https://journals.sagepub.com/doi/10.1177/0963662514542372) [[PDF]](https://opal.latrobe.edu.au/ndownloader/files/27388706)<br>
 *Impact Factor = 3.702*
 </div>
@@ -318,4 +581,24 @@ Honeyman K.L., Stukas A.A., & **Marques M.D.** (2016). Human trafficking: factor
   </summary>
   
   <font size="3">This research examined public opinion toward genetically modified plants and animals for food, and how trust in organizations and media coverage explained attitudes toward these organisms. Nationally representative samples (*N8 = 8821) over 10 years showed Australians were less positive toward genetically modified animals compared to genetically modified plants for food, especially in years where media coverage was high. Structural equation modeling found that positive attitudes toward different genetically modified organisms for food were significantly associated with higher trust in scientists and regulators (e.g. governments), and with lower trust in watchdogs (e.g. environmental movement). Public trust in scientists and watchdogs was a stronger predictor of attitudes toward the use of genetically modified plants for food than animals, but only when media coverage was low. Results are discussed regarding the moral acceptability of genetically modified organisms for food, the media’s role in shaping public opinion, and the role public trust in organizations has on attitudes toward genetically modified organisms.</font>
+</details>
+
+<br>
+
+<div style="display: flex">
+Kashima, E.S., Beatson, R., Branchflower, S., Kaufmann, L., & **Marques, M.D.** (2014). Mortality salience and cultural cringe: The Australian way of responding to thoughts of death. *Journal of Cross-Cultural Psychology, 45*, 1534-1548. [https://doi.org/10.1177/0022022114543521](https://journals.sagepub.com/doi/10.1177/0963662514542372)<br>
+*Impact Factor = 2.577*
+</div>
+<div style="display: flex; justify-content: space-between; width: 140px;">
+
+<div data-badge-popover="right" data-badge-type="donut" data-doi="10.1177/0022022114543521" data-hide-no-mentions="true" class="altmetric-embed"></div>
+<span class="__dimensions_badge_embed__" data-doi="10.1177/0022022114543521" data-legend="hover-right" data-style="small_circle" data-hide-zero-citations="true"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+</div>
+
+<details>
+  <summary>
+  <font size="3">Abstract</font>
+  </summary>
+  
+  <font size="3">Terror Management Theory predicts that mortality salience (MS) instigates cultural worldview defenses, especially among individuals with lower self-esteem. That MS intensifies positive evaluations of pro-U.S. essay authors, and negative evaluations of anti-U.S. essay authors have been documented as supportive evidence. However, the evidence to date may have been limited to where praising for the former and rejection of the latter authors is consistent with a shared cultural script and thus normative. In the case of Australian people, the cultural script of cringe prescribes them to evaluate their country modestly and to reject high praise of their country. We therefore predicted that MS (vs. control) should lead Australians, with low self-esteem in particular, to evaluate pro-Australia essay authors less positively while not affecting their evaluations of anti-Australia essay authors. Results from two studies were consistent with this prediction. It is important to distinguish MS effects on adherence to cultural norms from those on reaffirming collective self-esteem, and to consider relevant cultural scripts when interpreting evidence for worldview defenses.</font>
 </details>
