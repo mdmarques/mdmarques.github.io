@@ -483,7 +483,7 @@ Petrovic, K.P., Stukas, A.A., & Marques, M.D. (2020). Religiosity, Motivations a
 <div style="display: flex">
 
 McLean S.A., Wertheim E.H., **Marques, M.D.**, & Paxton S.J. (2019). Dismantling prevention: Comparison of outcomes following media literacy and appearance comparison modules in a randomised controlled trial. *Journal of Health Psychology, 24*, 761-776.
- [https://doi.org/10.1177/1359105316678668](https://journals.sagepub.com/doi/10.1177/1359105316678668)<br>
+ [https://doi.org/10.1177/1359105316678668](https://journals.sagepub.com/doi/10.1177/1359105316678668) [[PDF]](https://opal.latrobe.edu.au/articles/journal_contribution/Dismantling_prevention_Comparison_of_outcomes_following_media_literacy_and_appearance_comparison_modules_in_a_randomised_controlled_trial/13653317) <br>
 *Impact Factor = 3.789*
 </div>
 <div style="display: flex; justify-content: space-between; width: 140px;">
