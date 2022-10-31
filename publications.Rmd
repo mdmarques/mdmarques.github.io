@@ -14,7 +14,7 @@ output:
 
 **Marques, M.D.**, Hill, S.R., Clarke, E.J.R., Williams, M.N., Ling, M., Kerr, J.R., Douglas, K.M., Cichocka,
 A., & Sibley, C.G. (2022). Democracy and belief in conspiracy theories in
-New Zealand. *Australian Journal of Political Science*. [https://doi.org/10.1080/10361146.2022.2122773](https://www.tandfonline.com/doi/full/10.1080/10361146.2022.2122773) [[PDF]](https://psyarxiv.com/s8qf4/)
+New Zealand. *Australian Journal of Political Science, 57*(3), 264-279. [https://doi.org/10.1080/10361146.2022.2122773](https://www.tandfonline.com/doi/full/10.1080/10361146.2022.2122773) [[PDF]](https://psyarxiv.com/s8qf4/)
 </div>
 <div style="display: flex; justify-content: space-between; width: 140px;">
 
