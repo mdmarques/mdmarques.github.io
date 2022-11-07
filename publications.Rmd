@@ -12,6 +12,33 @@ output:
 
 <div style="display: flex">
 
+Coelho, P., Foster, K., Nedri, M., & **Marques, M.D.** (accepted 7 November 2022). Increased belief in vaccination conspiracy theories predicts increases in vaccination hesitancy and powerlessness: Results from a longitudinal study. *Social Science & Medicine*.
+[[PDF]](preprints/Coelho_etal_Increased_belief_in_vaccination_ conspiracy_theories.pdf)
+</div>
+<div style="display: flex; justify-content: space-between; width: 140px;">
+
+<div data-badge-popover="right" data-badge-type="donut" data-doi="" data-hide-no-mentions="true" class="altmetric-embed"></div>
+
+<span class="__dimensions_badge_embed__" data-doi="" data-legend="hover-right" data-style="small_circle" data-hide-zero-citations="true"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+
+</div>
+
+<details>
+  <summary>
+  <font size="3">Abstract</font>
+  </summary>
+  
+  <font size="3">*Rationale*: Vaccinations are an important part of a public health strategy against preventable diseases, and uptake is influenced by factors including hesitancy. The belief of vaccine related misinformation including anti-vaccination conspiracy theories has been found to be associated with increased vaccine hesitancy.
+  *Objective*: While research suggests that these conspiracy theory beliefs may arise to satisfy unmet needs such as restoring loss of personal control, somewhat ironically these anti-vaccination conspiracy theories may frustrate these needs. This study examined the causal relationships between vaccination hesitancy, vaccination conspiracy theories, and vaccination related powerlessness.
+  *Methods*: Using a stationary random intercepts cross lagged panel model, we investigated the temporal ordering of vaccination hesitancy, powerlessness, and vaccination conspiracy theory beliefs in a sample of Australian adults (N = 500) in a longitudinal study with 5-timepoints over 4-months between June and October 2021.
+  *Results*: Results from a random intercept cross-lagged model, that separates between-person stability from within-person change, suggested that increased belief in vaccination conspiracy theories was associated with future increases in vaccination hesitancy and powerlessness (but not vice versa). Findings also showed that increases in vaccination hesitancy and conspiracy theory beliefs predicted respective increases from a person’s trait-level mean at subsequent timepoints.
+  *Conclusions*: Vaccination conspiracy theories appear to increase vaccination powerlessness and hesitancy, rather than satisfying an unmet need for personal control.</font>
+</details>
+
+<br>
+
+<div style="display: flex">
+
 **Marques, M.D.**, Hill, S.R., Clarke, E.J.R., Williams, M.N., Ling, M., Kerr, J.R., Douglas, K.M., Cichocka,
 A., & Sibley, C.G. (2022). Democracy and belief in conspiracy theories in
 New Zealand. *Australian Journal of Political Science, 57*(3), 264-279. [https://doi.org/10.1080/10361146.2022.2122773](https://www.tandfonline.com/doi/full/10.1080/10361146.2022.2122773) [[PDF]](https://psyarxiv.com/s8qf4/)
