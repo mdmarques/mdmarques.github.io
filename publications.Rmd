@@ -17,9 +17,9 @@ Coelho, P., Foster, K., Nedri, M., & **Marques, M.D.** (accepted 6 November 2022
 </div>
 <div style="display: flex; justify-content: space-between; width: 140px;">
 
-<div data-badge-popover="right" data-badge-type="donut" data-doi="" data-hide-no-mentions="true" class="altmetric-embed"></div>
+<div data-badge-popover="right" data-badge-type="donut" data-doi="10.31234/osf.io/gx58v" data-hide-no-mentions="true" class="altmetric-embed"></div>
 
-<span class="__dimensions_badge_embed__" data-doi="" data-legend="hover-right" data-style="small_circle" data-hide-zero-citations="true"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+<span class="__dimensions_badge_embed__" data-doi="10.31234/osf.io/gx58v" data-legend="hover-right" data-style="small_circle" data-hide-zero-citations="true"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 
 </div>
 
