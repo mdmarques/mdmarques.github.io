@@ -13,13 +13,14 @@ output:
 <div style="display: flex">
 
 Coelho, P., Foster, K., Nedri, M., & **Marques, M.D.** (accepted 6 November 2022). Increased belief in vaccination conspiracy theories predicts increases in vaccination hesitancy and powerlessness: Results from a longitudinal study. *Social Science & Medicine*.
-[[PDF]](preprints/Coelho_etal_Increased_belief_in_vaccination_ conspiracy_theories.pdf)
+[https://doi.org/10.1016/j.socscimed.2022.115522](https://www.sciencedirect.com/science/article/pii/S0277953622008280)
+[[PDF]](https://psyarxiv.com/gx58v/)
 </div>
 <div style="display: flex; justify-content: space-between; width: 140px;">
 
-<div data-badge-popover="right" data-badge-type="donut" data-doi="10.31234/osf.io/gx58v" data-hide-no-mentions="true" class="altmetric-embed"></div>
+<div data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.socscimed.2022.115522" data-hide-no-mentions="true" class="altmetric-embed"></div>
 
-<span class="__dimensions_badge_embed__" data-doi="10.31234/osf.io/gx58v" data-legend="hover-right" data-style="small_circle" data-hide-zero-citations="true"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+<span class="__dimensions_badge_embed__" data-doi="10.1016/j.socscimed.2022.115522" data-legend="hover-right" data-style="small_circle" data-hide-zero-citations="true"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 
 </div>
 
