@@ -12,7 +12,7 @@ output:
 
 <div style="display: flex">
 
-Coelho, P., Foster, K., Nedri, M., & **Marques, M.D.** (accepted 6 November 2022). Increased belief in vaccination conspiracy theories predicts increases in vaccination hesitancy and powerlessness: Results from a longitudinal study. *Social Science & Medicine*.
+Coelho, P., Foster, K., Nedri, M., & **Marques, M.D.** (2022). Increased belief in vaccination conspiracy theories predicts increases in vaccination hesitancy and powerlessness: Results from a longitudinal study. *Social Science & Medicine, 315*, 115522.
 [https://doi.org/10.1016/j.socscimed.2022.115522](https://www.sciencedirect.com/science/article/pii/S0277953622008280)
 [[PDF]](https://psyarxiv.com/gx58v/)
 </div>
