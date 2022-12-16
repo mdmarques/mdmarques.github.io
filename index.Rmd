@@ -18,7 +18,7 @@ output:
 
 ## Bio
 
-Dr Mathew Marques is a Lecturer in Psychology at La Trobe University, Melbourne.
+Dr Mathew Marques is a Senior Lecturer in Psychology at La Trobe University, Melbourne.
 
 He uses social psychology to understand the role of psychological mechanisms (e.g., trust, conspiracy theories, ideologies) in the formation of attitudes towards socially contentious scientific research (e.g., genetically modified foods, vaccinations), and more broadly in science communication.
 
