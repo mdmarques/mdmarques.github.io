@@ -198,6 +198,30 @@ Natoli, E.E., & **Marques, M.D.** (2021). The antidepressant hoax: Conspiracy th
 
 ## Other publications
 
+
+<div style="display: flex">
+
+**Marques, M.D.** & Sheel, M. (2023). Addressing the social inequities of vaccination: an imperative to close the gap. *The Lancet Global Health*. [https://doi.org/10.1016/S2214-109X(23)00002-5](https://linkinghub.elsevier.com/retrieve/pii/S2214109X23000025) [[PDF]](https://linkinghub.elsevier.com/retrieve/pii/S2214109X23000025)<br>
+*Impact Factor = 38.927*
+</div>
+<div style="display: flex; justify-content: space-between; width: 140px;">
+
+<div data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/S2214-109X(23)00002-5" data-hide-no-mentions="true" class="altmetric-embed"></div>
+<span class="__dimensions_badge_embed__" data-doi="10.1016/S2214-109X(23)00002-5" data-legend="hover-right" data-style="small_circle" data-hide-zero-citations="true"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+</div>
+
+<details>
+  <summary>
+  <font size="3">Abstract</font>
+  </summary>
+  
+  <font size="3">The COVID-19 pandemic has opened fissures along social, political, economic, and health domains. In doing so, the pandemic uncovered the inequities relating to access and acceptance of vaccines within and across countries. In *The Lancet Global Health*, Nicole Bergen and colleagues1 use a series of large-scale online cross-sectional global surveys to describe how country-level and individual-level indicators of inequality were associated with both vaccine hesitancy and vaccine refusal among unvaccinated people. Leveraging the largest global health survey to date over approximately 2 years (April 23, 2020, to June 25, 2022) across 90 countries, at first glimpse the paper provides a time-sensitive approach to monitoring vaccine demand and uptake consistent with WHO priorities.
+
+</font>
+</details>
+
+<br>
+
 <div style="display: flex">
 
 Jarman, H., McLean, S.A., Paxton, S.J., Sibley, C.G., & **Marques, M.D.** (19 September 2022). Examination of the temporal sequence between social media use and well-being in a representative sample of adults. *Social Psychiatry and Psychiatric Epidemiology*. [https://doi.org/10.1007/s00127-022-02363-2](https://link.springer.com/article/10.1007/s00127-022-02363-2) [[PDF]](https://psyarxiv.com/z2yn4/)<br>
