@@ -198,6 +198,30 @@ Natoli, E.E., & **Marques, M.D.** (2021). The antidepressant hoax: Conspiracy th
 
 ## Other publications
 
+<div style="display: flex">
+
+Kaufman, J., Steffens, M.S., Hoq, M., King, C., **Marques, M.D.**, Mao, K., Bullivant, B., & Danchin, M. (2023). Effect of persuasive messaging about COVID-19 vaccines for 5- to 11-year-old children on parent intention to vaccinate. *Journal of Paediatrics and Child Health*. [https://doi.org/10.1111/jpc.16374](https://onlinelibrary.wiley.com/doi/10.1111/jpc.16374) [[PDF]](https://onlinelibrary.wiley.com/doi/10.1111/jpc.16374)<br>
+*Impact Factor = 1.954*
+</div>
+<div style="display: flex; justify-content: space-between; width: 140px;">
+
+<div data-badge-popover="right" data-badge-type="donut" data-doi="10.1111/jpc.16374" data-hide-no-mentions="true" class="altmetric-embed"></div>
+<span class="__dimensions_badge_embed__" data-doi="10.1111/jpc.16374" data-legend="hover-right" data-style="small_circle" data-hide-zero-citations="true"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+</div>
+
+<details>
+  <summary>
+  <font size="3">Abstract</font>
+  </summary>
+  
+  <font size="3">Aim: Uptake of COVID-19 vaccines for children aged 5–11 years old in Australia has plateaued. Persuasive messaging is an efficient and adaptable potential intervention to promote vaccine uptake, but evidence for its effectiveness is varied and dependent on context and cultural values. This study aimed to test persuasive messages to promote COVID-19 vaccines for children in Australia.
+Methods: A parallel, online, randomised control experiment was conducted between 14 and 21 January 2022. Participants were Australian parents of a child aged 5–11 years who had not vaccinated their child with a COVID-19 vaccine. After providing demographic details and level of vaccine hesitancy, parents viewed either the control message or one of four intervention texts emphasising (i) personal health benefits; (ii) community health benefits; (iii) non-health benefits; or (iv) personal agency. The primary outcome was parents' intention to vaccinate their child.
+Results: The analysis included 463 participants, of whom 58.7% (272/463) were hesitant about COVID-19 vaccines for children. Intention to vaccinate was higher in the community health (7.8%, 95% confidence interval (CI) −5.3% to 21.0%) and non-health (6.9%, 95% CI −6.4% to 20.3%) groups, and lower in the personal agency group (−3.9, 95% CI −17.7 to 9.9) compared to control, but these differences did not reach statistical significance. The effects of the messages among hesitant parents were similar to the overall study population.
+Conclusion: Short, text-based messages alone are unlikely to influence parental intention to vaccinate their child with the COVID-19 vaccine. Multiple strategies tailored for the target audience should also be utilised.
+</font>
+</details>
+
+<br>
 
 <div style="display: flex">
 
