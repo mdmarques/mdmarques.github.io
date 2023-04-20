@@ -200,6 +200,29 @@ Natoli, E.E., & **Marques, M.D.** (2021). The antidepressant hoax: Conspiracy th
 
 <div style="display: flex">
 
+Abdi, I., Bolsewicz, K., Bullivant, B.,  **Marques, M.D.**, & Steffens, M.S. (2023). Understanding the Factors that Influence Communication about COVID-19 Vaccines with Patients: perspectives of Australian Immunisation Providers. *Vaccine: X*. [https://doi.org/10.1016/j.jvacx.2023.100304](https://www.sciencedirect.com/science/article/pii/S2590136223000451?via%3Dihub) [[PDF]](https://www.sciencedirect.com/science/article/pii/S2590136223000451/pdfft?md5=6e201a1b0b3c0d0d43ad83f04019465f&pid=1-s2.0-S2590136223000451-main.pdf)<br>
+*Impact Factor = 3.534*
+</div>
+<div style="display: flex; justify-content: space-between; width: 140px;">
+
+<div data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.jvacx.2023.100304" data-hide-no-mentions="true" class="altmetric-embed"></div>
+<span class="__dimensions_badge_embed__" data-doi="10.1016/j.jvacx.2023.100304" data-legend="hover-right" data-style="small_circle" data-hide-zero-citations="true"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+</div>
+
+<details>
+  <summary>
+  <font size="3">Abstract</font>
+  </summary>
+  
+  <font size="3">Background
+COVID-19 immunisation providers have been at the forefront of the pandemic, and their ability to communicate effectively with patients is key to encouraging COVID-19 vaccine acceptance and uptake. This study explored providers’ perspectives on the factors influencing communication with patients about COVID-19 vaccines. Methods: We used an explanatory-sequential mixed-methods approach to conduct the study between December 2021 and March 2022. Phase I involved a cross-sectional survey with immunisation providers in New South Wales (n = 341; 189 general practitioners, 118 nurses and 34 pharmacists), followed by Phase II: semi-structured, in-depth qualitative interviews (n = 19; 10 nurses, 9 pharmacists). We generated descriptive results for the survey. We analysed the qualitative data thematically using an inductive approach.Results: Almost half of survey participants reported communicating often with people who were hesitant about COVID-19 vaccines (49%; 166/341), however, 21% (71/341) reported inadequate time to address concerns during consultations. Interview participants reported communication challenges, including time constraints, difficulties addressing and eliciting patient concerns, and keeping up to date with changing information. Conversely, interview participants reported that easy access to government information resources, time to learn about COVID-19 vaccines proactively, knowing about and being able to use tailored strategies to support Aboriginal and Torres Strait Islander and CALD patients were helpful when communicating with patients. Conclusions: Immunisation providers play an important role in patient vaccine acceptance and uptake. Our findings indicate that whilst providers were largely confident in their interactions with patients, further communication support would strengthen providers’ skills in communicating with patients who have questions and concerns about COVID-19 vaccines.
+</font>
+</details>
+
+<br>
+
+<div style="display: flex">
+
 Kaufman, J., Steffens, M.S., Hoq, M., King, C., **Marques, M.D.**, Mao, K., Bullivant, B., & Danchin, M. (2023). Effect of persuasive messaging about COVID-19 vaccines for 5- to 11-year-old children on parent intention to vaccinate. *Journal of Paediatrics and Child Health*. [https://doi.org/10.1111/jpc.16374](https://onlinelibrary.wiley.com/doi/10.1111/jpc.16374) [[PDF]](https://onlinelibrary.wiley.com/doi/10.1111/jpc.16374)<br>
 *Impact Factor = 1.954*
 </div>
