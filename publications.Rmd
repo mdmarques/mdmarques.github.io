@@ -201,7 +201,7 @@ Natoli, E.E., & **Marques, M.D.** (2021). The antidepressant hoax: Conspiracy th
 <div style="display: flex">
 
 Steffens, M.S., Bullivant, B., Kaufman, J., King, C., Danchin, M.,  Hoq, M., & **Marques, M.D.** (2023). Testing persuasive messages about booster doses of COVID-19 vaccines: A randomised controlled trial. *PLoS ONE, 18*(6): e0286799. [https://doi.org/
-10.1371/journal.pone.0286799]() [[PDF]]()<br>
+10.1371/journal.pone.0286799](https://doi.org/10.1371/) [[PDF]]()<br>
 *Impact Factor = 3.752*
 </div>
 <div style="display: flex; justify-content: space-between; width: 140px;">
