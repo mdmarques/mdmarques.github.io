@@ -196,7 +196,7 @@ Natoli, E.E., & **Marques, M.D.** (2021). The antidepressant hoax: Conspiracy th
   <font size="3">Health-related conspiracy theories can undermine the trustworthiness of actors and institutions and may impact an individual’s intention to seek help. Across 3 experimental studies we investigated the consequences of exposure to an antidepressant conspiracy theory on general intentions to seek medical and psychological help. Study 1 participants (*N* = 299) were randomly allocated to read one of three articles (pro-conspiracy, anti-conspiracy, control) after which they completed measures of conspiracy endorsement, trust, powerlessness and health-seeking intentions. Results suggested that exposure to antidepressant conspiracy theories significantly reduced individual’s intention to seek help indirectly through decreased trust in health authorities, but not health-industry related powerlessness. In two additional pre-registered studies we found some support for these findings. While Study 2 (*N* = 244) found no support for a direct or indirect relationship between conspiracy exposure and health-seeking intentions, an exploratory analysis highlighted the importance of gender differences when investigating conspiracy exposure on intentions. Study 3 (*N* = 247) replicated Study 1 findings, highlighting that antidepressant conspiracy theories decrease health-seeking intentions indirectly through decreased trust and increased powerlessness. Mere exposure to antidepressant conspiracy theories had significant indirect consequences on general health-seeking intentions.</font>
 </details>
 
-## Other publications
+## Vaccination
 
 <div style="display: flex">
 
@@ -295,29 +295,6 @@ Conclusion: Short, text-based messages alone are unlikely to influence parental 
 
 <div style="display: flex">
 
-Jarman, H., McLean, S.A., Paxton, S.J., Sibley, C.G., & **Marques, M.D.** (19 September 2022). Examination of the temporal sequence between social media use and well-being in a representative sample of adults. *Social Psychiatry and Psychiatric Epidemiology*. [https://doi.org/10.1007/s00127-022-02363-2](https://link.springer.com/article/10.1007/s00127-022-02363-2) [[PDF]](https://psyarxiv.com/z2yn4/)<br>
-*Impact Factor = 4.328*
-</div>
-<div style="display: flex; justify-content: space-between; width: 140px;">
-
-<div data-badge-popover="right" data-badge-type="donut" data-doi="10.1007/s00127-022-02363-2" data-hide-no-mentions="true" class="altmetric-embed"></div>
-<span class="__dimensions_badge_embed__" data-doi="10.1007/s00127-022-02363-2" data-legend="hover-right" data-style="small_circle" data-hide-zero-citations="true"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
-</div>
-
-<details>
-  <summary>
-  <font size="3">Abstract</font>
-  </summary>
-  
-  <font size="3">Given insufficient prospective evidence for relationships between social media use and well-being among adults, the present study examined the temporal sequence between social media use and psychological distress and life satisfaction, and explored age and gender differences. A representative sample of adults (*N* = 7331; 62.4% women; *Mage* = 51.94; *SD* = 13.48; 15–94 years) were surveyed annually across four waves. Cross-lagged panel models demonstrated bidirectional relationships between social media use and well-being. Higher psychological distress and lower life satisfaction predicted higher social media use more strongly than the reverse direction, with effects particularly pronounced for the impact of psychological distress. Although the patterns of findings were relatively consistent across age and gender, results suggested that women and middle- and older-aged adults experience detrimental effects of social media use on well-being, which may drive subsequent increased use of social media. The bidirectional relationships suggest that adults who experience psychological distress or lower life satisfaction may seek to use social media as a way to alleviate poor well-being. However, paradoxically, this maladaptive coping mechanism appears to drive increased social media use which in turn can exacerbate poor well-being. Clinicians should be aware of these bidirectional relationships and work with clients towards replacing ineffective strategies with more helpful coping approaches. As this study used a simplistic measure of social media use, future research should address this limitation and explore nuanced relationships afforded by assessing specific social media activities or exposure to certain types of content.
-
-</font>
-</details>
-
-<br>
-
-<div style="display: flex">
-
 **Marques, M.D.**, Sibley, C.G., Wilson, M.S., Bulbulia, J., Osborne, D., Yogeeswaran, K., Lee, C.H.J., Duck, I.M., Douglas, K.M., & Cichocka, A. (2022). Psychological predictors of COVID-19 vaccination in New Zealand. *New Zealand Journal of Psychology, 51*(1), 10-27. [[PDF]](https://psyarxiv.com/zkj7u/)
 </div>
 <div style="display: flex; justify-content: space-between; width: 140px;">
@@ -338,13 +315,13 @@ Jarman, H., McLean, S.A., Paxton, S.J., Sibley, C.G., & **Marques, M.D.** (19 Se
 
 <div style="display: flex">
 
-**Marques, M.D.**, Feather, N.T., Austin, D.E.J., & Sibley, C.G. (2022). Attitudes towards favouring the fall of Tall Poppies: The role of social dominance orientation, authoritarianism, political ideologies, and self-esteem. *The Journal of Social Psychology, 162*(5), 640-653. [https://doi.org/10.1080/00224545.2021.1944034](https://www.tandfonline.com/doi/full/10.1080/00224545.2021.1944034) [[PDF]](https://psyarxiv.com/bzexa/)<br>
-*Impact Factor = 2.712*
+Steffens, M.S., Dunn, A.G., **Marques, M.D.**, Danchin, M., Witteman, H.O., & Leask, J. (2021). Addressing Myths and Vaccine Hesitancy: A Randomized Trial. *Pediatrics*, e2020049304. [https://doi.org/10.1542/peds.2020-049304](https://publications.aap.org/pediatrics/article/148/5/e2020049304/181668/Addressing-Myths-and-Vaccine-Hesitancy-A) [[PDF]](https://publications.aap.org/pediatrics/article-pdf/148/5/e2020049304/1228271/peds_2020049304.pdf)<br>
+*Impact Factor = 5.417*
 </div>
 <div style="display: flex; justify-content: space-between; width: 140px;">
 
-<div data-badge-popover="right" data-badge-type="donut" data-doi="10.1080/00224545.2021.1944034" data-hide-no-mentions="true" class="altmetric-embed"></div>
-<span class="__dimensions_badge_embed__" data-doi="10.1080/00224545.2021.1944034" data-legend="hover-right" data-style="small_circle" data-hide-zero-citations="true"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+<div data-badge-popover="right" data-badge-type="donut" data-doi="10.1542/peds.2020-049304" data-hide-no-mentions="true" class="altmetric-embed"></div>
+<span class="__dimensions_badge_embed__" data-doi="10.1542/peds.2020-049304" data-legend="hover-right" data-style="small_circle" data-hide-zero-citations="true"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 </div>
 
 <details>
@@ -352,20 +329,25 @@ Jarman, H., McLean, S.A., Paxton, S.J., Sibley, C.G., & **Marques, M.D.** (19 Se
   <font size="3">Abstract</font>
   </summary>
   
-  <font size="3">Individuals occupying high-status positions are sometimes victims of the tall poppy syndrome where people want to see them cut down to size. These attitudes reflect a tension between achievement, authority, and equality. In a pre-registered study (Study 1: *N* = 47,951), and a replication (Study 2: *N* = 5,569), of two representative New Zealand samples we investigated how social dominance orientation, right-wing authoritarianism, political ideologies and self-esteem predicted favoring the fall of the tall poppy. Novel findings showed individuals high in social dominance orientation favored the fall of the tall poppy. In both studies, high authoritarian aggression and submission, and low conventionalism (in Study 1 only) were also associated with negative tall poppy attitudes. So too were individuals with lower self-esteem and who were less conservative in their political ideology. These findings advance our understanding of how group-based hierarchy and inequality relate to attitudes toward individuals in high-status positions.</font>
+  <font size="3">*OBJECTIVES*: Evidence on repeating vaccination misinformation or "myths" in debunking text is inconclusive; repeating myths may unintentionally increase agreement with myths or help discredit myths. In this study we aimed to compare the effect of repeating vaccination myths and other text-based debunking strategies on parents’ agreement with myths and their intention to vaccinate their children.
+*METHODS*: For this online experiment we recruited 788 parents of children aged 0 to 5 years; 454 (58%) completed the study. We compared 3 text-based debunking strategies (repeating myths, posing questions, or making factual statements) and a control. We measured changes in agreement with myths and intention to vaccinate immediately after the intervention and at least 1 week later. The primary analysis compared the change in agreement with vaccination myths from baseline, between groups, at each time point after the intervention.
+*RESULTS*: There was no evidence that repeating myths increased agreement with myths compared with the other debunking strategies or the control. Posing questions significantly decreased agreement with myths immediately after the intervention compared with the control (difference: −0.30 points, 99.17% confidence interval: −0.58 to −0.02, P = .004, d = 0.39). There was no evidence of a difference between other debunking strategies or the control at either time point, or on intention to vaccinate.
+*CONCLUSIONS*: Debunking strategies that repeat vaccination myths do not appear to be inferior to strategies that do not repeat myths.</font>
 </details>
 
 <br>
 
+## Body image
+
 <div style="display: flex">
 
-Hall, A., McLennan, J., **Marques, M.D.**, & Bearman, C. (2022). Conceptualising and measuring householder bushfire (wildfire) risk perception: the Householder Bushfire Risk Perception Scale (HBRPS-4). *International Journal of Disaster Risk Reduction, 67*, 102667.  [https://doi.org/10.1016/j.ijdrr.2021.102667](https://www.sciencedirect.com/science/article/pii/S2212420921006282?via%3Dihub)<br>
-*Impact Factor = 2.896*
+Jarman, H., McLean, S.A., Paxton, S.J., Sibley, C.G., & **Marques, M.D.** (19 September 2022). Examination of the temporal sequence between social media use and well-being in a representative sample of adults. *Social Psychiatry and Psychiatric Epidemiology*. [https://doi.org/10.1007/s00127-022-02363-2](https://link.springer.com/article/10.1007/s00127-022-02363-2) [[PDF]](https://psyarxiv.com/z2yn4/)<br>
+*Impact Factor = 4.328*
 </div>
 <div style="display: flex; justify-content: space-between; width: 140px;">
 
-<div data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.ijdrr.2021.102667" data-hide-no-mentions="true" class="altmetric-embed"></div>
-<span class="__dimensions_badge_embed__" data-doi="10.1016/j.ijdrr.2021.102667" data-legend="hover-right" data-style="small_circle" data-hide-zero-citations="true"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+<div data-badge-popover="right" data-badge-type="donut" data-doi="10.1007/s00127-022-02363-2" data-hide-no-mentions="true" class="altmetric-embed"></div>
+<span class="__dimensions_badge_embed__" data-doi="10.1007/s00127-022-02363-2" data-legend="hover-right" data-style="small_circle" data-hide-zero-citations="true"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 </div>
 
 <details>
@@ -373,7 +355,9 @@ Hall, A., McLennan, J., **Marques, M.D.**, & Bearman, C. (2022). Conceptualising
   <font size="3">Abstract</font>
   </summary>
   
-  <font size="3">With increasing numbers of householders living in high bushfire (wildfire) risk areas, there is a need to better understand householders' bushfire risk perceptions. In the community bushfire safety research literature, there appears to be no consensus on how best to conceptualise and measure householders' bushfire risk perceptions. The aim of this research was to investigate the concept of bushfire risk perception and its measurement, and to develop a brief, reliable and valid measure of householders’ bushfire risk perceptions. Following a review of 26 studies, a four-item householder bushfire risk perception scale (HBRPS-4) was developed. Analysis of responses to an online survey of 375 householders indicated that the measure had high internal consistency (α = 0.93). There was evidence of: construct validity, concurrent convergent criterion validity (|*r*| range 0.21–0.58), and concurrent discriminant criterion validity (*r* ≤ 0.15). A supplementary study with 27 participants found a high level of test-retest reliability over a six-week period (*r* = 0.95). It is suggested that householder bushfire risk perception can be construed as a fuzzy concept, incorporating three risk perception elements (probability, consequences, concern) whose meaning boundaries are not well-differentiated. The HBRPS-4 appears to hold promise of being a useful measure for community bushfire safety research.</font>
+  <font size="3">Given insufficient prospective evidence for relationships between social media use and well-being among adults, the present study examined the temporal sequence between social media use and psychological distress and life satisfaction, and explored age and gender differences. A representative sample of adults (*N* = 7331; 62.4% women; *Mage* = 51.94; *SD* = 13.48; 15–94 years) were surveyed annually across four waves. Cross-lagged panel models demonstrated bidirectional relationships between social media use and well-being. Higher psychological distress and lower life satisfaction predicted higher social media use more strongly than the reverse direction, with effects particularly pronounced for the impact of psychological distress. Although the patterns of findings were relatively consistent across age and gender, results suggested that women and middle- and older-aged adults experience detrimental effects of social media use on well-being, which may drive subsequent increased use of social media. The bidirectional relationships suggest that adults who experience psychological distress or lower life satisfaction may seek to use social media as a way to alleviate poor well-being. However, paradoxically, this maladaptive coping mechanism appears to drive increased social media use which in turn can exacerbate poor well-being. Clinicians should be aware of these bidirectional relationships and work with clients towards replacing ineffective strategies with more helpful coping approaches. As this study used a simplistic measure of social media use, future research should address this limitation and explore nuanced relationships afforded by assessing specific social media activities or exposure to certain types of content.
+
+</font>
 </details>
 
 <br>
@@ -465,6 +449,93 @@ Jarman, H. K., McLean, S.A., Slater, A., **Marques, M.D.**, & Paxton, S.J. (19 N
 
 <div style="display: flex">
 
+Rodgers, R.F., Mclean, S.A., Gordon, C.S., Slater, A., **Marques, M.D.**, Jarman, H.K., & Paxton, S.J. (online 9 September 2020). Development and Validation of the Motivations for Social Media Use Scale (MSMU) Among Adolescents. *Adolescent Research Review, 6*, 425-435.
+ [https://doi.org/10.1007/s40894-020-00139-w](https://link.springer.com/article/10.1007/s40894-020-00139-w)<br>
+*Impact Factor = 5.052*
+</div>
+<div style="display: flex; justify-content: space-between; width: 140px;">
+
+<div data-badge-popover="right" data-badge-type="donut" data-doi="10.1007/s40894-020-00139-w" data-hide-no-mentions="true" class="altmetric-embed"></div>
+<span class="__dimensions_badge_embed__" data-doi="10.1007/s40894-020-00139-w" data-legend="hover-right" data-style="small_circle" data-hide-zero-citations="true"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+</div>
+
+<details>
+  <summary>
+  <font size="3">Abstract</font>
+  </summary>
+  
+  <font size="3">Theoretical accounts of the relationship between social media use and body image among adolescents have highlighted motivations as an important factor. However, motivations for social media use has received little attention in extant research in the area of body image. The aim of this study was therefore to develop a measure of motivations for social media use among adolescents, with a focus on appearance motivations. Data from 770 adolescents (49% female), mean (SD) age = 12.76 (0.74) were used to examine the psychometric properties of the new Motivations for Social Media Use scale (MSMU). Exploratory and confirmatory factor analyses revealed a four-factor structure including Connection, Popularity, Appearance, and Values and Interests subscales. All subscales revealed acceptable internal reliability, and convergent validity with internalization of appearance ideals, self-esteem, and social media use. The MSMU is a useful tool for assessing appearance motivations for social media use among adolescent girls and boys.</font>
+</details>
+
+<br>
+
+<div style="display: flex">
+
+Rodgers, R.F., McLean, S.A., **Marques, M.**, Dunstan, C., & Paxton, S.J. (2016). Trajectories of body dissatisfaction and dietary restriction in early adolescent girls: a Latent Class Growth Analysis. *Journal of Youth and Adolescence, 45*, 1664-1677. [https://doi.org/10.1007/s10964-015-0356-3](https://link.springer.com/article/10.1007/s10964-015-0356-3)<br>
+*Impact Factor = 3.247*
+</div>
+<div style="display: flex; justify-content: space-between; width: 140px;">
+
+<div data-badge-popover="right" data-badge-type="donut" data-doi="10.1007/s10964-015-0356-3" data-hide-no-mentions="true" class="altmetric-embed"></div>
+<span class="__dimensions_badge_embed__" data-doi="10.1007/s10964-015-0356-3" data-legend="hover-right" data-style="small_circle" data-hide-zero-citations="true"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+</div>
+
+<details>
+  <summary>
+  <font size="3">Abstract</font>
+  </summary>
+  
+  <font size="3">Clarifying the trajectories of body image and eating concerns in adolescents is critical. We examined longitudinal patterns of development of body dissatisfaction and dietary restriction among early adolescent girls within a sociocultural framework. A sample of 259 school girls (*Mage* = 12.76 years, *SD* = 0.44) reported on sociocultural influences, body dissatisfaction and dietary restriction at baseline, 8, and 14 months. A subsample provided height and weight. Analyses identified four trajectories of body dissatisfaction: low, moderate-increasing, moderate-decreasing, and high. Three trajectories of dietary restriction emerged: low, moderate, and high. Baseline and 8-month sociocultural variables and BMI differed between the trajectories. A subgroup of girls displays high levels of body image and eating concerns by early adolescence. Sociocultural variables influence these trajectories.</font>
+</details>
+
+<br>
+
+## Other publications
+
+<div style="display: flex">
+
+**Marques, M.D.**, Feather, N.T., Austin, D.E.J., & Sibley, C.G. (2022). Attitudes towards favouring the fall of Tall Poppies: The role of social dominance orientation, authoritarianism, political ideologies, and self-esteem. *The Journal of Social Psychology, 162*(5), 640-653. [https://doi.org/10.1080/00224545.2021.1944034](https://www.tandfonline.com/doi/full/10.1080/00224545.2021.1944034) [[PDF]](https://psyarxiv.com/bzexa/)<br>
+*Impact Factor = 2.712*
+</div>
+<div style="display: flex; justify-content: space-between; width: 140px;">
+
+<div data-badge-popover="right" data-badge-type="donut" data-doi="10.1080/00224545.2021.1944034" data-hide-no-mentions="true" class="altmetric-embed"></div>
+<span class="__dimensions_badge_embed__" data-doi="10.1080/00224545.2021.1944034" data-legend="hover-right" data-style="small_circle" data-hide-zero-citations="true"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+</div>
+
+<details>
+  <summary>
+  <font size="3">Abstract</font>
+  </summary>
+  
+  <font size="3">Individuals occupying high-status positions are sometimes victims of the tall poppy syndrome where people want to see them cut down to size. These attitudes reflect a tension between achievement, authority, and equality. In a pre-registered study (Study 1: *N* = 47,951), and a replication (Study 2: *N* = 5,569), of two representative New Zealand samples we investigated how social dominance orientation, right-wing authoritarianism, political ideologies and self-esteem predicted favoring the fall of the tall poppy. Novel findings showed individuals high in social dominance orientation favored the fall of the tall poppy. In both studies, high authoritarian aggression and submission, and low conventionalism (in Study 1 only) were also associated with negative tall poppy attitudes. So too were individuals with lower self-esteem and who were less conservative in their political ideology. These findings advance our understanding of how group-based hierarchy and inequality relate to attitudes toward individuals in high-status positions.</font>
+</details>
+
+<br>
+
+<div style="display: flex">
+
+Hall, A., McLennan, J., **Marques, M.D.**, & Bearman, C. (2022). Conceptualising and measuring householder bushfire (wildfire) risk perception: the Householder Bushfire Risk Perception Scale (HBRPS-4). *International Journal of Disaster Risk Reduction, 67*, 102667.  [https://doi.org/10.1016/j.ijdrr.2021.102667](https://www.sciencedirect.com/science/article/pii/S2212420921006282?via%3Dihub)<br>
+*Impact Factor = 2.896*
+</div>
+<div style="display: flex; justify-content: space-between; width: 140px;">
+
+<div data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.ijdrr.2021.102667" data-hide-no-mentions="true" class="altmetric-embed"></div>
+<span class="__dimensions_badge_embed__" data-doi="10.1016/j.ijdrr.2021.102667" data-legend="hover-right" data-style="small_circle" data-hide-zero-citations="true"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+</div>
+
+<details>
+  <summary>
+  <font size="3">Abstract</font>
+  </summary>
+  
+  <font size="3">With increasing numbers of householders living in high bushfire (wildfire) risk areas, there is a need to better understand householders' bushfire risk perceptions. In the community bushfire safety research literature, there appears to be no consensus on how best to conceptualise and measure householders' bushfire risk perceptions. The aim of this research was to investigate the concept of bushfire risk perception and its measurement, and to develop a brief, reliable and valid measure of householders’ bushfire risk perceptions. Following a review of 26 studies, a four-item householder bushfire risk perception scale (HBRPS-4) was developed. Analysis of responses to an online survey of 375 householders indicated that the measure had high internal consistency (α = 0.93). There was evidence of: construct validity, concurrent convergent criterion validity (|*r*| range 0.21–0.58), and concurrent discriminant criterion validity (*r* ≤ 0.15). A supplementary study with 27 participants found a high level of test-retest reliability over a six-week period (*r* = 0.95). It is suggested that householder bushfire risk perception can be construed as a fuzzy concept, incorporating three risk perception elements (probability, consequences, concern) whose meaning boundaries are not well-differentiated. The HBRPS-4 appears to hold promise of being a useful measure for community bushfire safety research.</font>
+</details>
+
+<br>
+
+<div style="display: flex">
+
 **Marques, M.D.**, Wright, B.J., Lee, C.H.J., & Sibley, C.G. (2021). Increased sleep predicts annual decreases in psychological distress: Results from a six-year longitudinal panel sample. *Sleep Health, 78*(3), 368-374. [https://doi.org/10.1016/j.sleh.2020.12.005](https://www.sciencedirect.com/science/article/abs/pii/S2352721820303259?via%3Dihub) [[PDF]](https://psyarxiv.com/brmyp/)<br>
 *Impact Factor = 4.450*
 </div>
@@ -484,30 +555,6 @@ Jarman, H. K., McLean, S.A., Slater, A., **Marques, M.D.**, & Paxton, S.J. (19 N
   *Measurements*: Participants were asked, “During the past month, on average, how many hours of actual sleep did you get per night?” and responded to the K6 psychological distress scale each year. They also reported their demographic characteristics.
   *Results*: Identified longitudinal associations between sleep duration and psychological distress in a traditional cross-lagged panel model were mostly attributable to the stability of the between-person differences in sleep duration and psychological distress. We provide evidence to suggest that increased sleep duration as indicated over a short period of time (i.e.,one month) predicted lower within-person levels of psychological distress the following year.Psychological distress did not predict sleep duration, in contrast.
   *Conclusions*: Our analyses suggest that sleep duration in this sample of New Zealanders precedes psychological distress. This is significant given the propensity for short sleep in this sample and issues of poor mental health and short sleep among low SES indigenous membersof this community. The promotion of adequate sleep duration may yield positive gains in psychological well-being</font>
-</details>
-
-<br>
-
-<div style="display: flex">
-
-Steffens, M.S., Dunn, A.G., **Marques, M.D.**, Danchin, M., Witteman, H.O., & Leask, J. (2021). Addressing Myths and Vaccine Hesitancy: A Randomized Trial. *Pediatrics*, e2020049304. [https://doi.org/10.1542/peds.2020-049304](https://publications.aap.org/pediatrics/article/148/5/e2020049304/181668/Addressing-Myths-and-Vaccine-Hesitancy-A) [[PDF]](https://publications.aap.org/pediatrics/article-pdf/148/5/e2020049304/1228271/peds_2020049304.pdf)<br>
-*Impact Factor = 5.417*
-</div>
-<div style="display: flex; justify-content: space-between; width: 140px;">
-
-<div data-badge-popover="right" data-badge-type="donut" data-doi="10.1542/peds.2020-049304" data-hide-no-mentions="true" class="altmetric-embed"></div>
-<span class="__dimensions_badge_embed__" data-doi="10.1542/peds.2020-049304" data-legend="hover-right" data-style="small_circle" data-hide-zero-citations="true"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
-</div>
-
-<details>
-  <summary>
-  <font size="3">Abstract</font>
-  </summary>
-  
-  <font size="3">*OBJECTIVES*: Evidence on repeating vaccination misinformation or "myths" in debunking text is inconclusive; repeating myths may unintentionally increase agreement with myths or help discredit myths. In this study we aimed to compare the effect of repeating vaccination myths and other text-based debunking strategies on parents’ agreement with myths and their intention to vaccinate their children.
-*METHODS*: For this online experiment we recruited 788 parents of children aged 0 to 5 years; 454 (58%) completed the study. We compared 3 text-based debunking strategies (repeating myths, posing questions, or making factual statements) and a control. We measured changes in agreement with myths and intention to vaccinate immediately after the intervention and at least 1 week later. The primary analysis compared the change in agreement with vaccination myths from baseline, between groups, at each time point after the intervention.
-*RESULTS*: There was no evidence that repeating myths increased agreement with myths compared with the other debunking strategies or the control. Posing questions significantly decreased agreement with myths immediately after the intervention compared with the control (difference: −0.30 points, 99.17% confidence interval: −0.58 to −0.02, P = .004, d = 0.39). There was no evidence of a difference between other debunking strategies or the control at either time point, or on intention to vaccinate.
-*CONCLUSIONS*: Debunking strategies that repeat vaccination myths do not appear to be inferior to strategies that do not repeat myths.</font>
 </details>
 
 <br>
@@ -537,27 +584,6 @@ Piantella, S., Dragano, N., **Marques, M.D.**, McDonald, S.J., & Wright, B.J. (a
 
 <br>
 
-<div style="display: flex">
-
-Rodgers, R.F., Mclean, S.A., Gordon, C.S., Slater, A., **Marques, M.D.**, Jarman, H.K., & Paxton, S.J. (online 9 September 2020). Development and Validation of the Motivations for Social Media Use Scale (MSMU) Among Adolescents. *Adolescent Research Review, 6*, 425-435.
- [https://doi.org/10.1007/s40894-020-00139-w](https://link.springer.com/article/10.1007/s40894-020-00139-w)<br>
-*Impact Factor = 5.052*
-</div>
-<div style="display: flex; justify-content: space-between; width: 140px;">
-
-<div data-badge-popover="right" data-badge-type="donut" data-doi="10.1007/s40894-020-00139-w" data-hide-no-mentions="true" class="altmetric-embed"></div>
-<span class="__dimensions_badge_embed__" data-doi="10.1007/s40894-020-00139-w" data-legend="hover-right" data-style="small_circle" data-hide-zero-citations="true"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
-</div>
-
-<details>
-  <summary>
-  <font size="3">Abstract</font>
-  </summary>
-  
-  <font size="3">Theoretical accounts of the relationship between social media use and body image among adolescents have highlighted motivations as an important factor. However, motivations for social media use has received little attention in extant research in the area of body image. The aim of this study was therefore to develop a measure of motivations for social media use among adolescents, with a focus on appearance motivations. Data from 770 adolescents (49% female), mean (SD) age = 12.76 (0.74) were used to examine the psychometric properties of the new Motivations for Social Media Use scale (MSMU). Exploratory and confirmatory factor analyses revealed a four-factor structure including Connection, Popularity, Appearance, and Values and Interests subscales. All subscales revealed acceptable internal reliability, and convergent validity with internalization of appearance ideals, self-esteem, and social media use. The MSMU is a useful tool for assessing appearance motivations for social media use among adolescent girls and boys.</font>
-</details>
-
-<br>
 
 <div style="display: flex">
 
@@ -663,27 +689,6 @@ Honeyman K.L., Stukas A.A., & **Marques M.D.** (2016). Human trafficking: factor
   </summary>
   
   <font size="3">Human trafficking involves severe violations of human rights and social action is required to combat it. Past research has identified emotional reactions to victims of trafficking, as well as the perceived cost and efficacy of actions, as significant predictors of willingness to get involved. We surveyed 216 Australians (70% female) to assess their perceptions of sex and labor trafficking and actions to reduce them. Results demonstrated that women reported greater personal distress (but not empathy) for victims than men, which was associated with greater willingness to take action. Women also perceived available actions to be more efficacious than men, which predicted willingness, while perceived cost of actions did not. Implications for promoting social action to reduce human trafficking are discussed.</font>
-</details>
-
-<br>
-
-<div style="display: flex">
-
-Rodgers, R.F., McLean, S.A., **Marques, M.**, Dunstan, C., & Paxton, S.J. (2016). Trajectories of body dissatisfaction and dietary restriction in early adolescent girls: a Latent Class Growth Analysis. *Journal of Youth and Adolescence, 45*, 1664-1677. [https://doi.org/10.1007/s10964-015-0356-3](https://link.springer.com/article/10.1007/s10964-015-0356-3)<br>
-*Impact Factor = 3.247*
-</div>
-<div style="display: flex; justify-content: space-between; width: 140px;">
-
-<div data-badge-popover="right" data-badge-type="donut" data-doi="10.1007/s10964-015-0356-3" data-hide-no-mentions="true" class="altmetric-embed"></div>
-<span class="__dimensions_badge_embed__" data-doi="10.1007/s10964-015-0356-3" data-legend="hover-right" data-style="small_circle" data-hide-zero-citations="true"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
-</div>
-
-<details>
-  <summary>
-  <font size="3">Abstract</font>
-  </summary>
-  
-  <font size="3">Clarifying the trajectories of body image and eating concerns in adolescents is critical. We examined longitudinal patterns of development of body dissatisfaction and dietary restriction among early adolescent girls within a sociocultural framework. A sample of 259 school girls (*Mage* = 12.76 years, *SD* = 0.44) reported on sociocultural influences, body dissatisfaction and dietary restriction at baseline, 8, and 14 months. A subsample provided height and weight. Analyses identified four trajectories of body dissatisfaction: low, moderate-increasing, moderate-decreasing, and high. Three trajectories of dietary restriction emerged: low, moderate, and high. Baseline and 8-month sociocultural variables and BMI differed between the trajectories. A subgroup of girls displays high levels of body image and eating concerns by early adolescence. Sociocultural variables influence these trajectories.</font>
 </details>
 
 <br>
