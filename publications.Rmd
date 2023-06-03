@@ -215,7 +215,7 @@ Steffens, M.S., Bullivant, B., Kaufman, J., King, C., Danchin, M.,  Hoq, M., & *
   </summary>
   
   <font size="3">Introduction: Achieving high COVID-19 vaccine booster coverage is an ongoing global challenge. Health authorities need evidence about effective communication interventions to improve acceptance and uptake. This study aimed to test effects of persuasive messages about COVID-
-19 vaccine booster doses on intention to vaccinate amongst eligible adults in Australia. Methods: In this online randomised controlled trial, adult participants received one of four intervention messages or a control message. The control message provided information about booster dose eligibility. Intervention messages added to the control message, each using a different persuasive strategy, including: emphasising personal health benefits of booster doses, community health benefits, non-health benefits, and personal agency in choosing vaccination. After the intervention, participants answered items about COVID-19 booster vaccine intention and beliefs. Intervention groups were compared to the control using tests of two proportions; differences of �5 percentage points were deemed clinically significant. A sub-group analysis was conducted among hesitant participants. Results: Of the 487 consenting and randomised participants, 442 (90.8%) completed the experiment and were included in the analysis. Participants viewing messages emphasising non-health benefits had the highest intention compared to those who viewed the control message (percentage point diff: 9.0, 95% CI -0.8, 18.8, p = 0.071). Intention was even higher among hesitant individuals in this intervention group compared to the control group (percentage point diff: 15.6, 95% CI -6.0, 37.3, p = 0.150). Conversely, intention was lower among hesitant individuals who viewed messages emphasising personal agency compared to the control group (percentage point diff: -10.8, 95% CI -33.0, 11.4, p = 0.330), although evidence in support of these findings is weak. Conclusion: Health authorities should highlight non-health benefits to encourage COVID-19 vaccine booster uptake but use messages emphasising personal agency with caution. These findings can inform communication message development and strategies to improve COVID-19 vaccine booster uptake.
+19 vaccine booster doses on intention to vaccinate amongst eligible adults in Australia. Methods: In this online randomised controlled trial, adult participants received one of four intervention messages or a control message. The control message provided information about booster dose eligibility. Intervention messages added to the control message, each using a different persuasive strategy, including: emphasising personal health benefits of booster doses, community health benefits, non-health benefits, and personal agency in choosing vaccination. After the intervention, participants answered items about COVID-19 booster vaccine intention and beliefs. Intervention groups were compared to the control using tests of two proportions; differences of ≥5 percentage points were deemed clinically significant. A sub-group analysis was conducted among hesitant participants. Results: Of the 487 consenting and randomised participants, 442 (90.8%) completed the experiment and were included in the analysis. Participants viewing messages emphasising non-health benefits had the highest intention compared to those who viewed the control message (percentage point diff: 9.0, 95% CI -0.8, 18.8, *p* = 0.071). Intention was even higher among hesitant individuals in this intervention group compared to the control group (percentage point diff: 15.6, 95% CI -6.0, 37.3, *p* = 0.150). Conversely, intention was lower among hesitant individuals who viewed messages emphasising personal agency compared to the control group (percentage point diff: -10.8, 95% CI -33.0, 11.4, p = 0.330), although evidence in support of these findings is weak. Conclusion: Health authorities should highlight non-health benefits to encourage COVID-19 vaccine booster uptake but use messages emphasising personal agency with caution. These findings can inform communication message development and strategies to improve COVID-19 vaccine booster uptake.
 
 </font>
 </details>
@@ -338,6 +338,30 @@ Steffens, M.S., Dunn, A.G., **Marques, M.D.**, Danchin, M., Witteman, H.O., & Le
 <br>
 
 ## Body image
+
+<div style="display: flex">
+
+**Marques, M.D.**, Paxton, S.J., McLean, S.A., Jarman, H.K., & Sibley, C.G. (2022). A prospective examination of relationships between social media use and body dissatisfaction in a representative sample of adults. *Body Image, 40*, 1-11. [https://doi.org/10.1016/j.bodyim.2021.10.008](https://www.sciencedirect.com/science/article/pii/S1740144521001327) [[PDF]](https://psyarxiv.com/d9r3m/download/?format=pdf)<br>
+*Impact Factor = 6.406*
+</div>
+<div style="display: flex; justify-content: space-between; width: 140px;">
+
+<div data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.bodyim.2021.10.008" data-hide-no-mentions="true" class="altmetric-embed"></div>
+<span class="__dimensions_badge_embed__" data-doi="10.1016/j.bodyim.2021.10.008" data-legend="hover-right" data-style="small_circle" data-hide-zero-citations="true"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+</div>
+
+<details>
+  <summary>
+  <font size="3">Abstract</font>
+  </summary>
+  
+  <font size="3">This study examined the temporal sequence of the relationship between social media use and body dissatisfaction in adults. A representative sample of adults (19–92 years old; *M* = 52.83, *SD* = 13.43; 62.02% women, 37.98% men) completed measures of social media use, body dissatisfaction, age, gender, BMI, and demographic variables in 2015, 2016, 2017, 2018 and 2019 (*N* = 6258) in the New Zealand Attitudes and Values Study. In the full sample, higher social media use was significantly associated with higher body dissatisfaction one year later, as was higher body dissatisfaction with higher social media use one year later after controlling for body dissatisfaction/social media use (T-1), gender, age, BMI, ethnicity, relationships status, and SES. Effects were small. The prospective pathway from social media use to body dissatisfaction was significant in all age groups but the reverse relationship was only significant in the middle aged and older groups. Both pathway directions were significant in women but only the pathway from body dissatisfaction to social media use was significant in men. The research has limitations and replication is required. However, findings suggest raising awareness about how to use social media positively across the broad community, not merely in adolescents, may be worthwhile.
+
+
+</font>
+</details>
+
+<br>
 
 <div style="display: flex">
 
@@ -490,6 +514,28 @@ Rodgers, R.F., McLean, S.A., **Marques, M.**, Dunstan, C., & Paxton, S.J. (2016)
 
 <br>
 
+<div style="display: flex">
+
+McLean S.A., Wertheim E.H., **Marques, M.D.**, & Paxton S.J. (2019). Dismantling prevention: Comparison of outcomes following media literacy and appearance comparison modules in a randomised controlled trial. *Journal of Health Psychology, 24*, 761-776.
+ [https://doi.org/10.1177/1359105316678668](https://journals.sagepub.com/doi/10.1177/1359105316678668) [[PDF]](https://opal.latrobe.edu.au/articles/journal_contribution/Dismantling_prevention_Comparison_of_outcomes_following_media_literacy_and_appearance_comparison_modules_in_a_randomised_controlled_trial/13653317) <br>
+*Impact Factor = 3.789*
+</div>
+<div style="display: flex; justify-content: space-between; width: 140px;">
+
+<div data-badge-popover="right" data-badge-type="donut" data-doi="10.1177/1359105316678668" data-hide-no-mentions="true" class="altmetric-embed"></div>
+<span class="__dimensions_badge_embed__" data-doi="10.1177/1359105316678668" data-legend="hover-right" data-style="small_circle" data-hide-zero-citations="true"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+</div>
+
+<details>
+  <summary>
+  <font size="3">Abstract</font>
+  </summary>
+  
+  <font size="3">A dismantling study of body dissatisfaction prevention was conducted. Adolescent girls (*N* = 260) were randomly allocated to a media literacy (Happy Being Me – Media Literacy) or appearance comparison (Happy Being Me – Appearance Comparison) intervention or healthy eating behaviour control (Happy Being Me – Healthy Eating Behaviour) condition. In the Happy Being Me – Appearance Comparison condition, improvements from baseline to post-programme and follow-up for upward appearance comparison and fear of negative appearance evaluation were observed. In the Happy Being Me – Media Literacy condition, improvements were observed from baseline to post-programme for upward appearance comparison and realism scepticism. Findings were similar in a high-risk subsample and overall are moderately supportive of appearance comparison-based interventions, but less supportive of a stand-alone media literacy intervention.</font>
+</details>
+
+<br>
+
 ## Other publications
 
 <div style="display: flex">
@@ -561,7 +607,7 @@ Hall, A., McLennan, J., **Marques, M.D.**, & Bearman, C. (2022). Conceptualising
 
 <div style="display: flex">
 
-Piantella, S., Dragano, N., **Marques, M.D.**, McDonald, S.J., & Wright, B.J. (accepted 23 October 2021). Prospective increases in depression symptoms and markers of inflammation increase coronary heart disease risk- The Whitehall II cohort study. *Journal of Psychosomatic Research, 151*, 110657. doi: 
+Piantella, S., Dragano, N., **Marques, M.D.**, McDonald, S.J., & Wright, B.J. (December 2021). Prospective increases in depression symptoms and markers of inflammation increase coronary heart disease risk- The Whitehall II cohort study. *Journal of Psychosomatic Research, 151*, 110657. doi: 
  [https://doi.org/10.1016/j.jpsychores.2021.110657](https://www.sciencedirect.com/science/article/pii/S0022399921003020?via%3Dihub)<br>
 *Impact Factor = 3.006*
 </div>
@@ -625,28 +671,6 @@ Petrovic, K.P., Stukas, A.A., & Marques, M.D. (2020). Religiosity, Motivations a
   </summary>
   
   <font size="3">Although it is well-established that religious individuals tend to volunteer more than the non-religious, few studies have examined motivations to volunteer as a potential explanation for this relationship. The present research takes a functional approach to examine whether religiosity drives volunteerism by promoting certain motivations for volunteering. Two common theories of religious prosociality are considered: (1) religious belief increases volunteering through internalized prosocial values, and (2) religious service attendance increases volunteering by fostering social relationships, hence increasing social reasons for volunteering. In two studies, Values-based and Social-based motivations to volunteer are tested as mediators in the relationship between religiosity (both belief and service attendance) and volunteering. Study 1 used a predominantly university student sample (*N* = 130) to predict volunteering intentions, whereas Study 2 employed an Australian community sample (*N* = 772) to predict self-reported volunteer hours. Both studies show consistent findings that the Values motive mediated the relationship between religious belief and volunteering, whereas the Social motive did not mediate the relationship between religious service attendance and volunteering. We find support for the theory that religious beliefs boost volunteerism by promoting humanistic reasons for volunteering.</font>
-</details>
-
-<br>
-
-<div style="display: flex">
-
-McLean S.A., Wertheim E.H., **Marques, M.D.**, & Paxton S.J. (2019). Dismantling prevention: Comparison of outcomes following media literacy and appearance comparison modules in a randomised controlled trial. *Journal of Health Psychology, 24*, 761-776.
- [https://doi.org/10.1177/1359105316678668](https://journals.sagepub.com/doi/10.1177/1359105316678668) [[PDF]](https://opal.latrobe.edu.au/articles/journal_contribution/Dismantling_prevention_Comparison_of_outcomes_following_media_literacy_and_appearance_comparison_modules_in_a_randomised_controlled_trial/13653317) <br>
-*Impact Factor = 3.789*
-</div>
-<div style="display: flex; justify-content: space-between; width: 140px;">
-
-<div data-badge-popover="right" data-badge-type="donut" data-doi="10.1177/1359105316678668" data-hide-no-mentions="true" class="altmetric-embed"></div>
-<span class="__dimensions_badge_embed__" data-doi="10.1177/1359105316678668" data-legend="hover-right" data-style="small_circle" data-hide-zero-citations="true"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
-</div>
-
-<details>
-  <summary>
-  <font size="3">Abstract</font>
-  </summary>
-  
-  <font size="3">A dismantling study of body dissatisfaction prevention was conducted. Adolescent girls (*N* = 260) were randomly allocated to a media literacy (Happy Being Me – Media Literacy) or appearance comparison (Happy Being Me – Appearance Comparison) intervention or healthy eating behaviour control (Happy Being Me – Healthy Eating Behaviour) condition. In the Happy Being Me – Appearance Comparison condition, improvements from baseline to post-programme and follow-up for upward appearance comparison and fear of negative appearance evaluation were observed. In the Happy Being Me – Media Literacy condition, improvements were observed from baseline to post-programme for upward appearance comparison and realism scepticism. Findings were similar in a high-risk subsample and overall are moderately supportive of appearance comparison-based interventions, but less supportive of a stand-alone media literacy intervention.</font>
 </details>
 
 <br>
