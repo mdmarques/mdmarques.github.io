@@ -365,7 +365,7 @@ Steffens, M.S., Dunn, A.G., **Marques, M.D.**, Danchin, M., Witteman, H.O., & Le
 
 <div style="display: flex">
 
-Jarman, H., McLean, S.A., Paxton, S.J., Sibley, C.G., & **Marques, M.D.** (19 September 2022). Examination of the temporal sequence between social media use and well-being in a representative sample of adults. *Social Psychiatry and Psychiatric Epidemiology, 58*, 1247-1258. [https://doi.org/10.1007/s00127-022-02363-2](https://link.springer.com/article/10.1007/s00127-022-02363-2) [[PDF]](https://psyarxiv.com/z2yn4/)<br>
+Jarman, H., McLean, S.A., Paxton, S.J., Sibley, C.G., & **Marques, M.D.** (2023). Examination of the temporal sequence between social media use and well-being in a representative sample of adults. *Social Psychiatry and Psychiatric Epidemiology, 58*, 1247-1258. [https://doi.org/10.1007/s00127-022-02363-2](https://link.springer.com/article/10.1007/s00127-022-02363-2) [[PDF]](https://psyarxiv.com/z2yn4/)<br>
 *Impact Factor = 4.328*
 </div>
 <div style="display: flex; justify-content: space-between; width: 140px;">
