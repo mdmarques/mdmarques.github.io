@@ -247,7 +247,7 @@ COVID-19 immunisation providers have been at the forefront of the pandemic, and 
 
 <div style="display: flex">
 
-Kaufman, J., Steffens, M.S., Hoq, M., King, C., **Marques, M.D.**, Mao, K., Bullivant, B., & Danchin, M. (2023). Effect of persuasive messaging about COVID-19 vaccines for 5- to 11-year-old children on parent intention to vaccinate. *Journal of Paediatrics and Child Health*. [https://doi.org/10.1111/jpc.16374](https://onlinelibrary.wiley.com/doi/10.1111/jpc.16374) [[PDF]](https://onlinelibrary.wiley.com/doi/10.1111/jpc.16374)<br>
+Kaufman, J., Steffens, M.S., Hoq, M., King, C., **Marques, M.D.**, Mao, K., Bullivant, B., & Danchin, M. (2023). Effect of persuasive messaging about COVID-19 vaccines for 5- to 11-year-old children on parent intention to vaccinate. *Journal of Paediatrics and Child Health, 59*(4), 686-693. [https://doi.org/10.1111/jpc.16374](https://onlinelibrary.wiley.com/doi/10.1111/jpc.16374) [[PDF]](https://onlinelibrary.wiley.com/doi/10.1111/jpc.16374)<br>
 *Impact Factor = 1.954*
 </div>
 <div style="display: flex; justify-content: space-between; width: 140px;">
@@ -315,7 +315,7 @@ Conclusion: Short, text-based messages alone are unlikely to influence parental 
 
 <div style="display: flex">
 
-Steffens, M.S., Dunn, A.G., **Marques, M.D.**, Danchin, M., Witteman, H.O., & Leask, J. (2021). Addressing Myths and Vaccine Hesitancy: A Randomized Trial. *Pediatrics*, e2020049304. [https://doi.org/10.1542/peds.2020-049304](https://publications.aap.org/pediatrics/article/148/5/e2020049304/181668/Addressing-Myths-and-Vaccine-Hesitancy-A) [[PDF]](https://publications.aap.org/pediatrics/article-pdf/148/5/e2020049304/1228271/peds_2020049304.pdf)<br>
+Steffens, M.S., Dunn, A.G., **Marques, M.D.**, Danchin, M., Witteman, H.O., & Leask, J. (2021). Addressing Myths and Vaccine Hesitancy: A Randomized Trial. *Pediatrics, 148*(5), e2020049304. [https://doi.org/10.1542/peds.2020-049304](https://publications.aap.org/pediatrics/article/148/5/e2020049304/181668/Addressing-Myths-and-Vaccine-Hesitancy-A) [[PDF]](https://publications.aap.org/pediatrics/article-pdf/148/5/e2020049304/1228271/peds_2020049304.pdf)<br>
 *Impact Factor = 5.417*
 </div>
 <div style="display: flex; justify-content: space-between; width: 140px;">
@@ -365,7 +365,7 @@ Steffens, M.S., Dunn, A.G., **Marques, M.D.**, Danchin, M., Witteman, H.O., & Le
 
 <div style="display: flex">
 
-Jarman, H., McLean, S.A., Paxton, S.J., Sibley, C.G., & **Marques, M.D.** (19 September 2022). Examination of the temporal sequence between social media use and well-being in a representative sample of adults. *Social Psychiatry and Psychiatric Epidemiology*. [https://doi.org/10.1007/s00127-022-02363-2](https://link.springer.com/article/10.1007/s00127-022-02363-2) [[PDF]](https://psyarxiv.com/z2yn4/)<br>
+Jarman, H., McLean, S.A., Paxton, S.J., Sibley, C.G., & **Marques, M.D.** (19 September 2022). Examination of the temporal sequence between social media use and well-being in a representative sample of adults. *Social Psychiatry and Psychiatric Epidemiology, 58*, 1247-1258. [https://doi.org/10.1007/s00127-022-02363-2](https://link.springer.com/article/10.1007/s00127-022-02363-2) [[PDF]](https://psyarxiv.com/z2yn4/)<br>
 *Impact Factor = 4.328*
 </div>
 <div style="display: flex; justify-content: space-between; width: 140px;">
@@ -656,7 +656,7 @@ McLennan, J., **Marques, M.D.**, & Every, D. (2020). Conceptualising and measuri
 
 <div style="display: flex">
 
-Petrovic, K.P., Stukas, A.A., & Marques, M.D. (2020). Religiosity, Motivations and Volunteering: A Test of Two Theories of Religious Prosociality. Journal of Theoretical Social Psychology, 4, 157-168. [https://doi.org/10.1002/jts5.68](https://onlinelibrary.wiley.com/doi/10.1002/jts5.68) [[PDF]](https://opal.latrobe.edu.au/ndownloader/files/27374003)<br>
+Petrovic, K.P., Stukas, A.A., & Marques, M.D. (2020). Religiosity, motivations and volunteering: A test of two theories of religious prosociality. *Journal of Theoretical Social Psychology, 4*, 157-168. [https://doi.org/10.1002/jts5.68](https://onlinelibrary.wiley.com/doi/10.1002/jts5.68) [[PDF]](https://opal.latrobe.edu.au/ndownloader/files/27374003)<br>
 *Impact Factor = 1.341*
 </div>
 <div style="display: flex; justify-content: space-between; width: 140px;">
