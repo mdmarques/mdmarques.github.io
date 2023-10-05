@@ -18,10 +18,10 @@ output:
 
 ## Bio
 
-Dr Mathew Marques is a Senior Lecturer in Psychology at La Trobe University, Melbourne.
+Dr Mathew Marques is a Senior Lecturer in Social Psychology at [La Trobe University, Melbourne](https://scholars.latrobe.edu.au/mmarques/).
 
 He uses social psychology to understand the role of psychological mechanisms (e.g., trust, conspiracy theories, ideologies) in the formation of attitudes towards socially contentious scientific research (e.g., genetically modified foods, vaccinations), and more broadly in science communication.
 
-Mathew is also interested in the role of epistemological processes such as anti-intellectualism in the evaluation of emerging technologies, and how these and other values shape judgments of scientific actors.
+Mathew is also interested in the role  epistemological processes such as anti-intellectualism play in  evaluating emerging technologies, and how these and other values shape judgments of scientific actors.
 
 Here's a link to my <a rel="me" href="https://aus.social/@fabiovelo">Mastodon</a>
