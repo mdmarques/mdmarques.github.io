@@ -540,6 +540,27 @@ McLean S.A., Wertheim E.H., **Marques, M.D.**, & Paxton S.J. (2019). Dismantling
 
 <div style="display: flex">
 
+**Marques, M.D.** (2024). The Tall Poppy Syndrome, Heroism, and Villainy. *Encyclopedia of Heroism Studies*.  [email me for a copy](mailto:m.marques@latrobe.edu.au?subject=The Tall Poppy Syndrome, Heroism, and Villainy chapter in Encyclopedia of Heroism Studies)<br>
+</div>
+<div style="display: flex; justify-content: space-between; width: 140px;">
+
+<div data-badge-popover="right" data-badge-type="donut" data-doi="" data-hide-no-mentions="true" class="altmetric-embed"></div>
+<span class="__dimensions_badge_embed__" data-doi="" data-legend="hover-right" data-style="small_circle" data-hide-zero-citations="true"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+</div>
+
+<details>
+  <summary>
+  <font size="3">Definition</font>
+  </summary>
+  
+  <font size="3">The tall poppy is an individual who holds high status or rank either due to their achievements or by virtue of legal or quasi legal prescriptions. The tall poppy syndrome is a cultural phenomenon where people want to see or act to denigrate a high status individual.
+</font>
+</details>
+
+<br>
+
+<div style="display: flex">
+
 **Marques, M.D.**, Feather, N.T., Austin, D.E.J., & Sibley, C.G. (2022). Attitudes towards favouring the fall of Tall Poppies: The role of social dominance orientation, authoritarianism, political ideologies, and self-esteem. *The Journal of Social Psychology, 162*(5), 640-653. [https://doi.org/10.1080/00224545.2021.1944034](https://www.tandfonline.com/doi/full/10.1080/00224545.2021.1944034) [[PDF]](https://psyarxiv.com/bzexa/)<br>
 *Impact Factor = 2.712*
 </div>
