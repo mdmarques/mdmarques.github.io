@@ -14,7 +14,8 @@ output:
 
 Coelho, P., Foster, K., Nedri, M., & **Marques, M.D.** (2022). Increased belief in vaccination conspiracy theories predicts increases in vaccination hesitancy and powerlessness: Results from a longitudinal study. *Social Science & Medicine, 315*, 115522.
 [https://doi.org/10.1016/j.socscimed.2022.115522](https://www.sciencedirect.com/science/article/pii/S0277953622008280)
-[[PDF]](https://psyarxiv.com/gx58v/)
+[[PDF]](https://psyarxiv.com/gx58v/)<br>
+*Impact Factor = 5.379*
 </div>
 <div style="display: flex; justify-content: space-between; width: 140px;">
 
@@ -42,7 +43,8 @@ Coelho, P., Foster, K., Nedri, M., & **Marques, M.D.** (2022). Increased belief 
 
 **Marques, M.D.**, Hill, S.R., Clarke, E.J.R., Williams, M.N., Ling, M., Kerr, J.R., Douglas, K.M., Cichocka,
 A., & Sibley, C.G. (2022). Democracy and belief in conspiracy theories in
-New Zealand. *Australian Journal of Political Science, 57*(3), 264-279. [https://doi.org/10.1080/10361146.2022.2122773](https://www.tandfonline.com/doi/full/10.1080/10361146.2022.2122773) [[PDF]](https://psyarxiv.com/s8qf4/)
+New Zealand. *Australian Journal of Political Science, 57*(3), 264-279. [https://doi.org/10.1080/10361146.2022.2122773](https://www.tandfonline.com/doi/full/10.1080/10361146.2022.2122773) [[PDF]](https://psyarxiv.com/s8qf4/)<br>
+*Impact Factor = 1.2*
 </div>
 <div style="display: flex; justify-content: space-between; width: 140px;">
 
@@ -295,7 +297,8 @@ Conclusion: Short, text-based messages alone are unlikely to influence parental 
 
 <div style="display: flex">
 
-**Marques, M.D.**, Sibley, C.G., Wilson, M.S., Bulbulia, J., Osborne, D., Yogeeswaran, K., Lee, C.H.J., Duck, I.M., Douglas, K.M., & Cichocka, A. (2022). Psychological predictors of COVID-19 vaccination in New Zealand. *New Zealand Journal of Psychology, 51*(1), 10-27. [[PDF]](https://psyarxiv.com/zkj7u/)
+**Marques, M.D.**, Sibley, C.G., Wilson, M.S., Bulbulia, J., Osborne, D., Yogeeswaran, K., Lee, C.H.J., Duck, I.M., Douglas, K.M., & Cichocka, A. (2022). Psychological predictors of COVID-19 vaccination in New Zealand. *New Zealand Journal of Psychology, 51*(1), 10-27. [[PDF]](https://psyarxiv.com/zkj7u/)<br>
+*Impact Factor = 0.581*
 </div>
 <div style="display: flex; justify-content: space-between; width: 140px;">
 
