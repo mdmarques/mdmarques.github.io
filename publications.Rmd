@@ -568,13 +568,14 @@ McLean S.A., Wertheim E.H., **Marques, M.D.**, & Paxton S.J. (2019). Dismantling
 
 <div style="display: flex">
 
-**Marques, M.D.** (2024). The Tall Poppy Syndrome, Heroism, and Villainy. *Encyclopedia of Heroism Studies*.  [email me for a copy](mailto:m.marques@latrobe.edu.au?subject=The Tall Poppy Syndrome, Heroism, and Villainy chapter in Encyclopedia of Heroism Studies)
+**Marques, M.D.** (2024). The Tall Poppy Syndrome, Heroism, and Villainy. *Encyclopedia of Heroism Studies*. 
+[https://doi.org/10.1007/978-3-031-17125-3](https://link.springer.com/referencework/10.1007/978-3-031-17125-3)   <br>[or email me for a copy](mailto:m.marques@latrobe.edu.au?subject=The Tall Poppy Syndrome, Heroism, and Villainy chapter in Encyclopedia of Heroism Studies)
 <br>
 </div>
 <div style="display: flex; justify-content: space-between; width: 140px;">
 
-<div data-badge-popover="right" data-badge-type="donut" data-doi="" data-hide-no-mentions="true" class="altmetric-embed"></div>
-<span class="__dimensions_badge_embed__" data-doi="" data-legend="hover-right" data-style="small_circle" data-hide-zero-citations="true"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+<div data-badge-popover="right" data-badge-type="donut" data-doi="https://link.springer.com/referencework/10.1007/978-3-031-17125-3" data-hide-no-mentions="true" class="altmetric-embed"></div>
+<span class="__dimensions_badge_embed__" data-doi="https://link.springer.com/referencework/10.1007/978-3-031-17125-3" data-legend="hover-right" data-style="small_circle" data-hide-zero-citations="true"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 </div>
 
 <details>
