@@ -13,15 +13,15 @@ output:
 <div style="display: flex">
 
 Williams, M.N. Ling, M., Kerr, J.R., Hill, S.R., **Marques, M.D.**, Mawson, H., & Clarke, E.J.R. (accepted January 8 2024). People do change their beliefs about conspiracy theories—but not often. *Scientific Reports*.
-[https://doi.org/](https://www.nature.com/srep)
+[https://doi.org/10.1038/s41598-024-51653-z](https://www.nature.com/srep)
 [[PDF]](https://psyarxiv.com/5q2ky/)<br>
 *Impact Factor = 4.6*
 </div>
 <div style="display: flex; justify-content: space-between; width: 140px;">
 
-<div data-badge-popover="right" data-badge-type="donut" data-doi="" data-hide-no-mentions="true" class="altmetric-embed"></div>
+<div data-badge-popover="right" data-badge-type="donut" data-doi="10.1038/s41598-024-51653-z" data-hide-no-mentions="true" class="altmetric-embed"></div>
 
-<span class="__dimensions_badge_embed__" data-doi="" data-legend="hover-right" data-style="small_circle" data-hide-zero-citations="true"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+<span class="__dimensions_badge_embed__" data-doi="10.1038/s41598-024-51653-z" data-legend="hover-right" data-style="small_circle" data-hide-zero-citations="true"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 
 </div>
 
@@ -30,7 +30,7 @@ Williams, M.N. Ling, M., Kerr, J.R., Hill, S.R., **Marques, M.D.**, Mawson, H., 
   <font size="3">Abstract</font>
   </summary>
   
-  <font size="3">Recent research has produced a significant body of knowledge about the antecedents and consequences of individual differences in belief in conspiracy theories. What is less clear, however, is the extent to which individuals’ beliefs in conspiracy theories vary over time (i.e., *within-person* variation). In this descriptive and exploratory study, we therefore aimed to describe within-person variability in belief in conspiracy theories. We collected data from 498 Australians and New Zealanders using an online longitudinal survey, with data collected at monthly intervals over six months (March to September 2021). Our measure of conspiracy theories included items describing ten conspiracy theories with responses on a 5-point Likert scale. While there was substantial between-person variance, there was much less within-person variance (intraclass *r* = 0.91). This suggests that beliefs in conspiracy theories were highly stable in our sample. This stability implies that longitudinal studies testing hypotheses about the causes and consequences of belief in conspiracy theories may require large samples of participants and time points to achieve adequate power. It also implies that explanations of belief in conspiracy theories need to accommodate the observation that beliefs in such theories vary much more between people than within people.</font>
+  <font size="3">Recent research has produced a significant body of knowledge about the antecedents and consequences of individual differences in belief in conspiracy theories. What is less clear, however, is the extent to which individuals’ beliefs in conspiracy theories vary over time (i.e., *within-person* variation). In this descriptive and exploratory study, we therefore aimed to describe within-person variability in belief in conspiracy theories. We collected data from 498 Australians and New Zealanders using an online longitudinal survey, with data collected at monthly intervals over 6 months (March to September 2021). Our measure of conspiracy theories included items describing ten conspiracy theories with responses on a 5-point Likert scale. While there was substantial between-person variance, there was much less within-person variance (intraclass *r* = 0.91). This suggests that beliefs in conspiracy theories were highly stable in our sample. This stability implies that longitudinal studies testing hypotheses about the causes and consequences of belief in conspiracy theories may require large samples of participants and time points to achieve adequate power. It also implies that explanations of belief in conspiracy theories need to accommodate the observation that beliefs in such theories vary much more between people than within people.</font>
 </details>
 
 <br>
