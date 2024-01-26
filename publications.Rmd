@@ -13,7 +13,7 @@ output:
 <div style="display: flex">
 
 Williams, M.N. Ling, M., Kerr, J.R., Hill, S.R., **Marques, M.D.**, Mawson, H., & Clarke, E.J.R. (accepted January 8 2024). People do change their beliefs about conspiracy theories—but not often. *Scientific Reports*.
-[https://doi.org/10.1038/s41598-024-51653-z](https://www.nature.com/srep)
+[https://doi.org/10.1038/s41598-024-51653-z](https://doi.org/10.1038/s41598-024-51653-z)
 [[PDF]](https://psyarxiv.com/5q2ky/)<br>
 *Impact Factor = 4.6*
 </div>
@@ -479,7 +479,7 @@ Jarman, H. K., **Marques, M.D.**, McLean, S.A., Slater, A., & Paxton, S.J. (2021
 
 <div style="display: flex">
 
-Jarman, H. K., McLean, S.A., Slater, A., **Marques, M.D.**, & Paxton, S.J. (19 November 2021). Direct and indirect relationships between social media use and body satisfaction: A prospective study among adolescent boys and girls. New Media and Society. [https://doi.org/10.1177/14614448211058468](https://journals.sagepub.com/doi/10.1177/14614448211058468)<br>
+Jarman, H. K., McLean, S.A., Slater, A., **Marques, M.D.**, & Paxton, S.J. (2024). Direct and indirect relationships between social media use and body satisfaction: A prospective study among adolescent boys and girls. *New Media and Society. 26*(1), 292-312. [https://doi.org/10.1177/14614448211058468](https://journals.sagepub.com/doi/10.1177/14614448211058468)<br>
 *Impact Factor = 8.061*
 </div>
 <div style="display: flex; justify-content: space-between; width: 140px;">
@@ -607,6 +607,29 @@ Hooker, C., **Marques, M.**, Goldwater, M., Degeling, C., & Leask, J. (2024). Va
   </summary>
   
   <font size="3">This chapter explores how and why risk communication in an outbreak or pandemic context should take account of values. The chapter first briefly discusses the fact that values have been very little explored in risk communication research, despite the close connection between risk perception factors and moral values. We then present evidence showing that values exerted a strong influence values on responses to COVID-19 and the various recommended infection prevention behaviours and public health orders put in place to manage the pandemic. We provide a synthesis of studies that investigated the role of values on COVID-19 related risk perceptions and attitudes using a ‘Moral Foundations’ framework or a ‘Cultural Cognition/ Worldview’ framework. We found that values had a strong but distal influence on public responses to COVID-19, and note the surprisingly positive impacts of reframing infection control messages in values-congruent forms. We consider the possible implications for the design and delivery of outbreak and pandemic risk communication in the future.</font>
+</details>
+
+<br>
+
+<div style="display: flex">
+
+Kaltenegger, H.C., **Marques, M.D.**, Becker, L., Rohleder, N., Nowak, D., Wright, B.J., Weigl, M. (2024). Prospective associations of technostress at work, burnout symptoms, hair cortisol, and chronic low-grade inflammation. Brain, Behavior, and Immunity. 
+[https://doi.org/](https://doi.org)<br>
+*Impact Factor = 19.227*
+</div>
+<div style="display: flex; justify-content: space-between; width: 140px;">
+
+<div data-badge-popover="right" data-badge-type="donut" data-doi="" data-hide-no-mentions="true" class="altmetric-embed"></div>
+<span class="__dimensions_badge_embed__" data-doi="" data-legend="hover-right" data-style="small_circle" data-hide-zero-citations="true"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+</div>
+
+<details>
+  <summary>
+  <font size="3">Abstract</font>
+  </summary>
+  
+  <font size="3">*Background*. Working conditions in the age of digitalization harbor risks for chronic stress and burnout. However, real-world investigations into biological effects of technostress, that is stress in the context of digital technology use, are sparse. This study prospectively assessed associations between technostress, general work stress, burnout symptoms, hair cortisol, and chronic low-grade inflammation. *Methods*. Hospital employees (*N*=238, 182 females, *Mage*=28.5 years) participated in a prospective cohort study with two follow-ups six months apart (T2, T3). Participants answered standardized questionnaires on general job strain (job demand-control ratio), technostressors (work interruptions, multitasking, information overload), burnout symptoms (exhaustion, mental distance), and relevant confounders. Moreover, they provided capillary blood samples for C-reactive protein (CRP) and hair strands for hair cortisol concentration (HCC) analysis. Structural equation modelling was performed. *Results*. The factorial structure of survey measures was confirmed. Burnout symptoms (MT2=2.17, MT3=2.33) and HCC (*MT2*=4.79, *MT3*=9.56; pg/mg) increased over time, CRP did not (*MT2*=1.15, *MT3*=1.21; mg/L). Adjusted path models showed that technostress was negatively associated with HCC (*β*=-0.16, *p*=.003), but not with burnout and CRP. General work stress in contrast, was not significantly associated with burnout, HCC or CRP. Furthermore, there were reciprocal effects of CRP on HCC (*β*=0.28, *p*=.001) and of HCC on CRP (*β*=-0.10, *p*≤.001). Associations were robust in additional analyses including further confounders. *Conclusion*. This is the first study on prospective effects of technostress on employees’ endocrine and inflammatory systems. Results suggest differential effects of technostress on the hypothalamic-pituitary-adrenocortical axis activity. Given its key role for long-term health, the findings have important implications for occupational health and safety in digitalized work environments. 
+</font>
 </details>
 
 <br>
