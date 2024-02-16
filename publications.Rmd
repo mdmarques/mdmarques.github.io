@@ -12,7 +12,7 @@ output:
 
 <div style="display: flex">
 
-Williams, M.N. Ling, M., Kerr, J.R., Hill, S.R., **Marques, M.D.**, Mawson, H., & Clarke, E.J.R. (accepted January 8 2024). People do change their beliefs about conspiracy theories—but not often. *Scientific Reports*.
+Williams, M.N. Ling, M., Kerr, J.R., Hill, S.R., **Marques, M.D.**, Mawson, H., & Clarke, E.J.R. (2024). People do change their beliefs about conspiracy theories—but not often. *Scientific Reports*.
 [https://doi.org/10.1038/s41598-024-51653-z](https://doi.org/10.1038/s41598-024-51653-z)
 [[PDF]](https://psyarxiv.com/5q2ky/)<br>
 *Impact Factor = 4.6*
