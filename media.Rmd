@@ -4,7 +4,7 @@ site: distill::distill_website
 output:
   distill::distill_article
 ---
-I feel it is important as an academic to translate research and engage with the public through various mediums. Below are a selected set of my recent media engagements. Feel free to [contact me](mailto:m.marques@latrobe.edu.au) if you would like to chat about my work or social psychology, including conspiracy theories
+I feel it is important as an academic to translate research and engage with the public through various platforms. Below are a selected set of my recent media engagements. Feel free to [contact me](mailto:m.marques@latrobe.edu.au) if you would like to chat about my work or social psychology, including conspiracy theories.
 
 ## Television
 
@@ -17,6 +17,8 @@ I feel it is important as an academic to translate research and engage with the 
 [*The Latest, Seven News*: Area 51: Storm the base](https://www.facebook.com/7NewsAustralia/posts/area-51-has-long-been-the-focus-of-conspiracy-theories-and-is-believed-to-be-the/2976169199059920/) | 19/07/2019
 
 ## Print/digital
+
+[*The Conversation*: Escapando da terra da fantasia: pesquisa mostra que pessoas podem mudar de opinião sobre teorias da conspiração](https://theconversation.com/escapando-da-terra-da-fantasia-pesquisa-mostra-que-pessoas-podem-mudar-de-opiniao-sobre-teorias-da-conspiracao-224333) | 27/02/2024
 
 [*The Conversation*: Out of the rabbit hole: new research shows people can change their minds about conspiracy theories](https://theconversation.com/out-of-the-rabbit-hole-new-research-shows-people-can-change-their-minds-about-conspiracy-theories-222507) | 19/02/2024
 
@@ -73,6 +75,8 @@ I feel it is important as an academic to translate research and engage with the 
 ## Audio
 
 [*3RRR*: Future Perfect: Conspiracy theory beliefs change over time--but not often](https://www.rrr.org.au/explore/programs/future-perfect/episodes/28429-future-perfect-26-february-2024) | 26/02/2024
+
+[*Ultra106fiveFM*: Conspiracy Theories](https://soundcloud.com/ultra1065fm/conspiracy-theory-matthew-marques) | 24/02/2024
 
 [*2GB*: Do conspiracy theory beliefs change over time?](https://www.2gb.com/podcast/do-conspiracy-theory-beliefs-change-over-time/) | 21/02/2024
 

@@ -574,7 +574,7 @@ Hooker, C., **Marques, M.**, Goldwater, M., Degeling, C., & Leask, J. (2024). Va
 </div>
 <div style="display: flex; justify-content: space-between; width: 140px;">
 
-<div data-badge-popover="right" data-badge-type="donut" data-doi="10.1007/978-3-031-41237-0_21" data-hide-no-mentions="true" class="altmetric-embed"></div>
+<div data-badge-popover="right" data-badge-type="donut" data-doi="10.1007/978-3-031-41237-0" data-hide-no-mentions="true" class="altmetric-embed"></div>
 <span class="__dimensions_badge_embed__" data-doi="10.1007/978-3-031-41237-0_21" data-legend="hover-right" data-style="small_circle" data-hide-zero-citations="true"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 </div>
 
@@ -619,7 +619,7 @@ Kaltenegger, H.C., **Marques, M.D.**, Becker, L., Rohleder, N., Nowak, D., Wrigh
 </div>
 <div style="display: flex; justify-content: space-between; width: 140px;">
 
-<div data-badge-popover="right" data-badge-type="donut" data-doi="10.1007/978-3-031-17125-3_441-1" data-hide-no-mentions="true" class="altmetric-embed"></div>
+<div data-badge-popover="right" data-badge-type="donut" data-doi="10.1007/978-3-031-17125-3" data-hide-no-mentions="true" class="altmetric-embed"></div>
 <span class="__dimensions_badge_embed__" data-doi="10.1007/978-3-031-17125-3_441-1" data-legend="hover-right" data-style="small_circle" data-hide-zero-citations="true"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 </div>
 
