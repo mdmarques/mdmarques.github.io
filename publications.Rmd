@@ -568,6 +568,29 @@ McLean S.A., Wertheim E.H., **Marques, M.D.**, & Paxton S.J. (2019). Dismantling
 
 <div style="display: flex">
 
+Austin, D.E.J., **Marques, M.D.**, & Stukas, A.A. (2024). Anti-Egalitarianism Motivates Denial of Male Privilege. *Analyses of Social Issues and Public Policy*. 
+[https://doi.org/10.1111/asap.12424](https://doi.org/10.1111/asap.12424)<br>
+*Impact Factor = 1.8*
+</div>
+<div style="display: flex; justify-content: space-between; width: 140px;">
+
+<div data-badge-popover="right" data-badge-type="donut" data-doi="10.1111/asap.12424" data-hide-no-mentions="true" class="altmetric-embed"></div>
+<span class="__dimensions_badge_embed__" data-doi="10.1111/asap.12424" data-legend="hover-right" data-style="small_circle" data-hide-zero-citations="true"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+</div>
+
+<details>
+  <summary>
+  <font size="3">Abstract</font>
+  </summary>
+  
+  <font size="3">Men are privileged economically, politically, and socially, yet some deny this. Previous research suggests that denial of privilege can help to manage the discomfort associated with a privileged identity, but we propose that it serves primarily to preserve privilege. In two preregistered studies (*N*total = 911 Australian participants) we show that denial of male privilege is not unique to men, and that it is strongly predicted by anti-egalitarianism, even when controlling for gender and other variables known to predict attitudes towards inequality (facets of right-wing authoritarianism and social dominance orientation). In Study 1, a multiple regression model accounted for 59% of the variability in reported male privilege awareness, with anti-egalitarianism contributing 47% of the explanatory power. In Study 2, the explanatory power of anti-egalitarianism was more modest (26%), and similar to that of gender (27%), and both also positively predicted claims of female privilege. This suggests that rather than simply reflecting unawareness of male privilege or being a way to manage a privileged identity, denying the existence of male privilege and claiming that women are privileged helps to preserve gender inequality by presenting it as a just result of meritocracy.
+</font>
+</details>
+
+<br>
+
+<div style="display: flex">
+
 Hooker, C., **Marques, M.**, Goldwater, M., Degeling, C., & Leask, J. (2024). Values in Risk Communication about Covid-19. In M. Lewis, E. Govender, & K. Holland (Eds.), *Communicating COVID-19: Media, Trust, and Public Engagement (pp. 415–437)*. Springer International Publishing.
 [https://doi.org/10.1007/978-3-031-41237-0_21](https://link.springer.com/content/pdf/10.1007/978-3-031-41237-0_21?pdf=chapter%20toc)
 <br>
