@@ -369,13 +369,13 @@ Steffens, M.S., Dunn, A.G., **Marques, M.D.**, Danchin, M., Witteman, H.O., & Le
 
 <div style="display: flex">
 
-Jarman, H.K., McLean, S.A., **Marques, M.D.**, Slater, A., Paxton, S.J., & Fuller-Tyszkiewicz, M. (accepted 9 September 2024). Understanding what drives adolescent social media behaviours: Informing approaches for interventions. *Body Image*. [https://doi.org/](https://www.sciencedirect.com/)<br>
+Jarman, H.K., McLean, S.A., **Marques, M.D.**, Slater, A., Paxton, S.J., & Fuller-Tyszkiewicz, M. (2024). Understanding what drives adolescent social media behaviours: Informing approaches for interventions. *Body Image, 51*, 101793. [https://doi.org/10.1016/j.bodyim.2024.101793](https://www.sciencedirect.com/science/article/pii/S1740144524001153)<br>
 *Impact Factor = 6.406*
 </div>
 <div style="display: flex; justify-content: space-between; width: 140px;">
 
-<div data-badge-popover="right" data-badge-type="donut" data-doi="" data-hide-no-mentions="true" class="altmetric-embed"></div>
-<span class="__dimensions_badge_embed__" data-doi="" data-legend="hover-right" data-style="small_circle" data-hide-zero-citations="true"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+<div data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.bodyim.2024.101793" data-hide-no-mentions="true" class="altmetric-embed"></div>
+<span class="__dimensions_badge_embed__" data-doi="10.1016/j.bodyim.2024.101793" data-legend="hover-right" data-style="small_circle" data-hide-zero-citations="true"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 </div>
 
 <details>
