@@ -592,7 +592,7 @@ McLean S.A., Wertheim E.H., **Marques, M.D.**, & Paxton S.J. (2019). Dismantling
 <div style="display: flex">
 
 Cologna, V., Mede, N.G., Berger, S., Besley, J., Brick, C., Joubert, M., …, **Marques, M.D.**, …, & Zwaan, R.A. (2024). Trust in scientists and their role in society: a global assessment in 67 countries. *Nature Human Behaviour*. 
-[https://doi.org/](https://doi.org/)<br>
+[https://doi.org/](https://doi.org/) [[PDF]](https://osf.io/preprints/osf/6ay7s)<br>
 *Impact Factor = 21.4*
 </div>
 <div style="display: flex; justify-content: space-between; width: 140px;">
