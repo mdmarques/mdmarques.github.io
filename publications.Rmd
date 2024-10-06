@@ -12,6 +12,31 @@ output:
 
 <div style="display: flex">
 
+Albath, E.A., Greifeneder, R., Douglas, K.M., Cichocka, A., **Marques, M.D.**, Wilson, M.S., Kerr, J.R., Sibley, C.G., & Osborne, D. (2024). Does Lower Psychological Need Satisfaction Foster Conspiracy Belief? Longitudinal Effects Over Three Years in New Zealand. *Personality and Social Psychology Bulletin*.
+[https://doi.org/](https://doi.org/)
+[[PDF]](https://)<br>
+*Impact Factor = 3.4*
+</div>
+<div style="display: flex; justify-content: space-between; width: 140px;">
+
+<div data-badge-popover="right" data-badge-type="donut" data-doi="" data-hide-no-mentions="true" class="altmetric-embed"></div>
+
+<span class="__dimensions_badge_embed__" data-doi="" data-legend="hover-right" data-style="small_circle" data-hide-zero-citations="true"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+
+</div>
+
+<details>
+  <summary>
+  <font size="3">Abstract</font>
+  </summary>
+  
+  <font size="3">Although conspiracy belief may arise from a motivation to restore psychological needs, research has yet to investigate the relationship between psychological need satisfaction and conspiracy belief over time. Using three annual waves of panel data in New Zealand (2019-2022; *N* = 50,505), we examined the relationship between conspiracy belief and four psychological needs (namely, belonging, control, meaning in life, and self-esteem). Results from a random-intercept cross-lagged panel model revealed stable between-person effects indicating that those whose core needs are generally unmet tend to exhibit higher levels of conspiracy belief. The within-person associations further demonstrate that the frustration of control and belonging needs temporally precede increases in conspiracy belief, but these cross-lagged associations vary across waves and may depend on external factors (e.g., the  start of a pandemic). These data provide novel insights into the psychological factors that foster conspiracy belief and suggest that within-person longitudinal associations may be context-dependent.</font>
+</details>
+
+<br>
+
+<div style="display: flex">
+
 Williams, M.N. Ling, M., Kerr, J.R., Hill, S.R., **Marques, M.D.**, Mawson, H., & Clarke, E.J.R. (2024). People do change their beliefs about conspiracy theories—but not often. *Scientific Reports*.
 [https://doi.org/10.1038/s41598-024-51653-z](https://doi.org/10.1038/s41598-024-51653-z)
 [[PDF]](https://psyarxiv.com/5q2ky/)<br>
