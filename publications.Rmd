@@ -273,6 +273,95 @@ Natoli, E.E., & **Marques, M.D.** (2021). The antidepressant hoax: Conspiracy th
   <font size="3">Health-related conspiracy theories can undermine the trustworthiness of actors and institutions and may impact an individual’s intention to seek help. Across 3 experimental studies we investigated the consequences of exposure to an antidepressant conspiracy theory on general intentions to seek medical and psychological help. Study 1 participants (*N* = 299) were randomly allocated to read one of three articles (pro-conspiracy, anti-conspiracy, control) after which they completed measures of conspiracy endorsement, trust, powerlessness and health-seeking intentions. Results suggested that exposure to antidepressant conspiracy theories significantly reduced individual’s intention to seek help indirectly through decreased trust in health authorities, but not health-industry related powerlessness. In two additional pre-registered studies we found some support for these findings. While Study 2 (*N* = 244) found no support for a direct or indirect relationship between conspiracy exposure and health-seeking intentions, an exploratory analysis highlighted the importance of gender differences when investigating conspiracy exposure on intentions. Study 3 (*N* = 247) replicated Study 1 findings, highlighting that antidepressant conspiracy theories decrease health-seeking intentions indirectly through decreased trust and increased powerlessness. Mere exposure to antidepressant conspiracy theories had significant indirect consequences on general health-seeking intentions.</font>
 </details>
 
+## Science attitudes
+
+<div style="display: flex">
+
+Cologna, V., Mede, N.G., Berger, S., Besley, J., Brick, C., Joubert, M., …, **Marques, M.D.**, …, & Zwaan, R.A. (2024). Trust in scientists and their role in society: a global assessment in 67 countries. *Nature Human Behaviour*. 
+[https://doi.org/](https://doi.org/) [[PDF]](https://osf.io/preprints/osf/6ay7s)<br>
+*Impact Factor = 21.4*
+</div>
+<div style="display: flex; justify-content: space-between; width: 140px;">
+
+<div data-badge-popover="right" data-badge-type="donut" data-doi="" data-hide-no-mentions="true" class="altmetric-embed"></div>
+<span class="__dimensions_badge_embed__" data-doi="" data-legend="hover-right" data-style="small_circle" data-hide-zero-citations="true"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+</div>
+
+<details>
+  <summary>
+  <font size="3">Abstract</font>
+  </summary>
+  
+  <font size="3">Scientific information is crucial for evidence-based decision-making. Public trust in science can help decision-makers act based on the best available evidence, especially during crises such as climate change or the COVID-19 pandemic. However, in recent years the epistemic authority of science has been challenged, causing concerns about low public trust in scientists. Here we interrogated these concerns with a pre-registered 67-country survey of 71,417 respondents on all inhabited continents and find that in most countries, a majority of the public trust scientists and think that scientists should be more engaged in policymaking. We further show that there is a discrepancy between the public’s perceived and desired priorities of scientific research. Moreover, we find variations between and within countries, which we explain with individual- and country-level variables, including political orientation. While these results do not show widespread lack of trust in scientists, we cannot discount the concern that lack of trust in scientists by even a small minority may affect considerations of scientific evidence in policymaking. These findings have implications for scientists and policymakers seeking to maintain and increase trust in scientists.
+</font>
+</details>
+
+<br>
+
+<div style="display: flex">
+
+Mede, N.G., Cologna, V., Berger, S., Besley, J., Brick, C., Joubert, M., …, **Marques, M.D.**, …, & Zwaan, R.A. (2024). Perceptions of science, science communication, and climate change attitudes in 67 countries–the TISP dataset. *Nature Scientific Data*. 
+[https://doi.org/](https://doi.org/) [[PDF]](https://osf.io/jktsy)<br>
+*Impact Factor = 5.8*
+</div>
+<div style="display: flex; justify-content: space-between; width: 140px;">
+
+<div data-badge-popover="right" data-badge-type="donut" data-doi="" data-hide-no-mentions="true" class="altmetric-embed"></div>
+<span class="__dimensions_badge_embed__" data-doi="" data-legend="hover-right" data-style="small_circle" data-hide-zero-citations="true"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+</div>
+
+<details>
+  <summary>
+  <font size="3">Abstract</font>
+  </summary>Science is integral to society because it can inform individual, government, corporate, and civil society decision-making on issues such as climate change. Yet, public distrust and populist sentiment may challenge the relationship between science and society. To help researchers analyse the science-society nexus across different cultural contexts, we undertook a cross-sectional survey resulting in a dataset of 71,922 participants in 68 countries. The data were collected between November 2022 and August 2023 as part of the global Many Labs study “Trust in Science and Science-Related Populism” (TISP). The questionnaire contained comprehensive measures for individuals’ trust in scientists, science-related populist attitudes, perceptions of the role of science in society, science media use and communication behaviour, attitudes to climate change and support for environmental policies, personality traits, political and religious views and demographic characteristics. Here, we describe the dataset, survey materials and psychometric properties of key variables. We encourage researchers to use this unique dataset for global comparative analyses on public perceptions of science and its role in society and policy-making.
+  <font size="3">
+</font>
+</details>
+
+<br>
+
+<div style="display: flex">
+
+Hooker, C., **Marques, M.**, Goldwater, M., Degeling, C., & Leask, J. (2024). Values in Risk Communication about Covid-19. In M. Lewis, E. Govender, & K. Holland (Eds.), *Communicating COVID-19: Media, Trust, and Public Engagement (pp. 415–437)*. Springer International Publishing.
+[https://doi.org/10.1007/978-3-031-41237-0_21](https://link.springer.com/content/pdf/10.1007/978-3-031-41237-0_21?pdf=chapter%20toc)
+<br>
+</div>
+<div style="display: flex; justify-content: space-between; width: 140px;">
+
+<div data-badge-popover="right" data-badge-type="donut" data-doi="10.1007/978-3-031-41237-0" data-hide-no-mentions="true" class="altmetric-embed"></div>
+<span class="__dimensions_badge_embed__" data-doi="10.1007/978-3-031-41237-0_21" data-legend="hover-right" data-style="small_circle" data-hide-zero-citations="true"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+</div>
+
+<details>
+  <summary>
+  <font size="3">Abstract</font>
+  </summary>
+  
+  <font size="3">This chapter explores how and why risk communication in an outbreak or pandemic context should take account of values. The chapter first briefly discusses the fact that values have been very little explored in risk communication research, despite the close connection between risk perception factors and moral values. We then present evidence showing that values exerted a strong influence values on responses to COVID-19 and the various recommended infection prevention behaviours and public health orders put in place to manage the pandemic. We provide a synthesis of studies that investigated the role of values on COVID-19 related risk perceptions and attitudes using a ‘Moral Foundations’ framework or a ‘Cultural Cognition/ Worldview’ framework. We found that values had a strong but distal influence on public responses to COVID-19, and note the surprisingly positive impacts of reframing infection control messages in values-congruent forms. We consider the possible implications for the design and delivery of outbreak and pandemic risk communication in the future.</font>
+</details>
+
+<br>
+
+<div style="display: flex">
+**Marques, M.D.**, Critchley, C.R., & Walshe, J. (2015). Attitudes to genetically modified food over time: how trust in organizations and the media cycle predict support. *Public Understanding of Science, 24*, 601-618. [https://doi.org/10.1177/0963662514542372](https://journals.sagepub.com/doi/10.1177/0963662514542372) [[PDF]](https://opal.latrobe.edu.au/ndownloader/files/27388706)<br>
+*Impact Factor = 3.702*
+</div>
+<div style="display: flex; justify-content: space-between; width: 140px;">
+
+<div data-badge-popover="right" data-badge-type="donut" data-doi="10.1177/0963662514542372" data-hide-no-mentions="true" class="altmetric-embed"></div>
+<span class="__dimensions_badge_embed__" data-doi="10.1177/0963662514542372" data-legend="hover-right" data-style="small_circle" data-hide-zero-citations="true"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+</div>
+
+<details>
+  <summary>
+  <font size="3">Abstract</font>
+  </summary>
+  
+  <font size="3">This research examined public opinion toward genetically modified plants and animals for food, and how trust in organizations and media coverage explained attitudes toward these organisms. Nationally representative samples (*N8 = 8821) over 10 years showed Australians were less positive toward genetically modified animals compared to genetically modified plants for food, especially in years where media coverage was high. Structural equation modeling found that positive attitudes toward different genetically modified organisms for food were significantly associated with higher trust in scientists and regulators (e.g. governments), and with lower trust in watchdogs (e.g. environmental movement). Public trust in scientists and watchdogs was a stronger predictor of attitudes toward the use of genetically modified plants for food than animals, but only when media coverage was low. Results are discussed regarding the moral acceptability of genetically modified organisms for food, the media’s role in shaping public opinion, and the role public trust in organizations has on attitudes toward genetically modified organisms.</font>
+</details>
+
+<br>
+
 ## Vaccination
 
 <div style="display: flex">
@@ -638,30 +727,6 @@ McLean S.A., Wertheim E.H., **Marques, M.D.**, & Paxton S.J. (2019). Dismantling
 
 ## Other publications
 
-
-<div style="display: flex">
-
-Cologna, V., Mede, N.G., Berger, S., Besley, J., Brick, C., Joubert, M., …, **Marques, M.D.**, …, & Zwaan, R.A. (2024). Trust in scientists and their role in society: a global assessment in 67 countries. *Nature Human Behaviour*. 
-[https://doi.org/](https://doi.org/) [[PDF]](https://osf.io/preprints/osf/6ay7s)<br>
-*Impact Factor = 21.4*
-</div>
-<div style="display: flex; justify-content: space-between; width: 140px;">
-
-<div data-badge-popover="right" data-badge-type="donut" data-doi="" data-hide-no-mentions="true" class="altmetric-embed"></div>
-<span class="__dimensions_badge_embed__" data-doi="" data-legend="hover-right" data-style="small_circle" data-hide-zero-citations="true"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
-</div>
-
-<details>
-  <summary>
-  <font size="3">Abstract</font>
-  </summary>
-  
-  <font size="3">Scientific information is crucial for evidence-based decision-making. Public trust in science can help decision-makers act based on the best available evidence, especially during crises such as climate change or the COVID-19 pandemic. However, in recent years the epistemic authority of science has been challenged, causing concerns about low public trust in scientists. Here we interrogated these concerns with a pre-registered 67-country survey of 71,417 respondents on all inhabited continents and find that in most countries, a majority of the public trust scientists and think that scientists should be more engaged in policymaking. We further show that there is a discrepancy between the public’s perceived and desired priorities of scientific research. Moreover, we find variations between and within countries, which we explain with individual- and country-level variables, including political orientation. While these results do not show widespread lack of trust in scientists, we cannot discount the concern that lack of trust in scientists by even a small minority may affect considerations of scientific evidence in policymaking. These findings have implications for scientists and policymakers seeking to maintain and increase trust in scientists.
-</font>
-</details>
-
-<br>
-
 <div style="display: flex">
 
 Austin, D.E.J., **Marques, M.D.**, & Stukas, A.A. (2024). Anti-Egalitarianism Motivates Denial of Male Privilege. *Analyses of Social Issues and Public Policy*. 
@@ -681,28 +746,6 @@ Austin, D.E.J., **Marques, M.D.**, & Stukas, A.A. (2024). Anti-Egalitarianism Mo
   
   <font size="3">Men are privileged economically, politically, and socially, yet some deny this. Previous research suggests that denial of privilege can help to manage the discomfort associated with a privileged identity, but we propose that it serves primarily to preserve privilege. In two preregistered studies (*N*total = 911 Australian participants) we show that denial of male privilege is not unique to men, and that it is strongly predicted by anti-egalitarianism, even when controlling for gender and other variables known to predict attitudes towards inequality (facets of right-wing authoritarianism and social dominance orientation). In Study 1, a multiple regression model accounted for 59% of the variability in reported male privilege awareness, with anti-egalitarianism contributing 47% of the explanatory power. In Study 2, the explanatory power of anti-egalitarianism was more modest (26%), and similar to that of gender (27%), and both also positively predicted claims of female privilege. This suggests that rather than simply reflecting unawareness of male privilege or being a way to manage a privileged identity, denying the existence of male privilege and claiming that women are privileged helps to preserve gender inequality by presenting it as a just result of meritocracy.
 </font>
-</details>
-
-<br>
-
-<div style="display: flex">
-
-Hooker, C., **Marques, M.**, Goldwater, M., Degeling, C., & Leask, J. (2024). Values in Risk Communication about Covid-19. In M. Lewis, E. Govender, & K. Holland (Eds.), *Communicating COVID-19: Media, Trust, and Public Engagement (pp. 415–437)*. Springer International Publishing.
-[https://doi.org/10.1007/978-3-031-41237-0_21](https://link.springer.com/content/pdf/10.1007/978-3-031-41237-0_21?pdf=chapter%20toc)
-<br>
-</div>
-<div style="display: flex; justify-content: space-between; width: 140px;">
-
-<div data-badge-popover="right" data-badge-type="donut" data-doi="10.1007/978-3-031-41237-0" data-hide-no-mentions="true" class="altmetric-embed"></div>
-<span class="__dimensions_badge_embed__" data-doi="10.1007/978-3-031-41237-0_21" data-legend="hover-right" data-style="small_circle" data-hide-zero-citations="true"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
-</div>
-
-<details>
-  <summary>
-  <font size="3">Abstract</font>
-  </summary>
-  
-  <font size="3">This chapter explores how and why risk communication in an outbreak or pandemic context should take account of values. The chapter first briefly discusses the fact that values have been very little explored in risk communication research, despite the close connection between risk perception factors and moral values. We then present evidence showing that values exerted a strong influence values on responses to COVID-19 and the various recommended infection prevention behaviours and public health orders put in place to manage the pandemic. We provide a synthesis of studies that investigated the role of values on COVID-19 related risk perceptions and attitudes using a ‘Moral Foundations’ framework or a ‘Cultural Cognition/ Worldview’ framework. We found that values had a strong but distal influence on public responses to COVID-19, and note the surprisingly positive impacts of reframing infection control messages in values-congruent forms. We consider the possible implications for the design and delivery of outbreak and pandemic risk communication in the future.</font>
 </details>
 
 <br>
@@ -928,26 +971,6 @@ Honeyman K.L., Stukas A.A., & **Marques M.D.** (2016). Human trafficking: factor
   </summary>
   
   <font size="3">Human trafficking involves severe violations of human rights and social action is required to combat it. Past research has identified emotional reactions to victims of trafficking, as well as the perceived cost and efficacy of actions, as significant predictors of willingness to get involved. We surveyed 216 Australians (70% female) to assess their perceptions of sex and labor trafficking and actions to reduce them. Results demonstrated that women reported greater personal distress (but not empathy) for victims than men, which was associated with greater willingness to take action. Women also perceived available actions to be more efficacious than men, which predicted willingness, while perceived cost of actions did not. Implications for promoting social action to reduce human trafficking are discussed.</font>
-</details>
-
-<br>
-
-<div style="display: flex">
-**Marques, M.D.**, Critchley, C.R., & Walshe, J. (2015). Attitudes to genetically modified food over time: how trust in organizations and the media cycle predict support. *Public Understanding of Science, 24*, 601-618. [https://doi.org/10.1177/0963662514542372](https://journals.sagepub.com/doi/10.1177/0963662514542372) [[PDF]](https://opal.latrobe.edu.au/ndownloader/files/27388706)<br>
-*Impact Factor = 3.702*
-</div>
-<div style="display: flex; justify-content: space-between; width: 140px;">
-
-<div data-badge-popover="right" data-badge-type="donut" data-doi="10.1177/0963662514542372" data-hide-no-mentions="true" class="altmetric-embed"></div>
-<span class="__dimensions_badge_embed__" data-doi="10.1177/0963662514542372" data-legend="hover-right" data-style="small_circle" data-hide-zero-citations="true"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
-</div>
-
-<details>
-  <summary>
-  <font size="3">Abstract</font>
-  </summary>
-  
-  <font size="3">This research examined public opinion toward genetically modified plants and animals for food, and how trust in organizations and media coverage explained attitudes toward these organisms. Nationally representative samples (*N8 = 8821) over 10 years showed Australians were less positive toward genetically modified animals compared to genetically modified plants for food, especially in years where media coverage was high. Structural equation modeling found that positive attitudes toward different genetically modified organisms for food were significantly associated with higher trust in scientists and regulators (e.g. governments), and with lower trust in watchdogs (e.g. environmental movement). Public trust in scientists and watchdogs was a stronger predictor of attitudes toward the use of genetically modified plants for food than animals, but only when media coverage was low. Results are discussed regarding the moral acceptability of genetically modified organisms for food, the media’s role in shaping public opinion, and the role public trust in organizations has on attitudes toward genetically modified organisms.</font>
 </details>
 
 <br>
