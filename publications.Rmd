@@ -14,7 +14,7 @@ output:
 
 **Marques, M.D.**, Kerr, J.R., Stukas, A.A., & McLennan, J. (accepted 30 October 2024). The Effect of Scientific Conspiracy Theories on Scepticism Towards Biotechnologies. *Public Understanding of Science*.
 [https://doi.org/10.1177/09636625241300896](https://doi.org/10.1177/09636625241300896)
-[[PDF]](https://doi.org/10.1177/09636625241300896)<br>
+[[PDF]](https://osf.io/preprints/psyarxiv/y6hj2)<br>
 *Impact Factor = 3.5*
 </div>
 <div style="display: flex; justify-content: space-between; width: 140px;">
