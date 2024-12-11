@@ -729,8 +729,8 @@ McLean S.A., Wertheim E.H., **Marques, M.D.**, & Paxton S.J. (2019). Dismantling
 
 <div style="display: flex">
 
-Austin, D.E.J., **Marques, M.D.**, & Stukas, A.A. (2024). Anti-Egalitarianism Motivates Denial of Male Privilege. *Analyses of Social Issues and Public Policy*. 
-[https://doi.org/10.1111/asap.12424](https://doi.org/10.1111/asap.12424)<br>
+Austin, D.E.J., **Marques, M.D.**, & Stukas, A.A. (2024). Anti-Egalitarianism Motivates Denial of Male Privilege. *Analyses of Social Issues and Public Policy, 24*(3), 1017-1031. 
+[https://doi.org/10.1111/asap.12424](https://spssi.onlinelibrary.wiley.com/doi/10.1111/asap.12424)<br>
 *Impact Factor = 1.8*
 </div>
 <div style="display: flex; justify-content: space-between; width: 140px;">
