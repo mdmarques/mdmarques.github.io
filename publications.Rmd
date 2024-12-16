@@ -13,7 +13,7 @@ output:
 <div style="display: flex">
 
 **Marques, M.D.**, Kerr, J.R., Stukas, A.A., & McLennan, J. (accepted 30 October 2024). The Effect of Scientific Conspiracy Theories on Scepticism Towards Biotechnologies. *Public Understanding of Science*.
-[https://doi.org/10.1177/09636625241300896](https://doi.org/10.1177/09636625241300896)
+[https://doi.org/10.1177/09636625241300896](https://journals.sagepub.com/doi/10.1177/09636625241300896)
 [[PDF]](https://osf.io/preprints/psyarxiv/y6hj2)<br>
 *Impact Factor = 3.5*
 </div>
@@ -38,7 +38,7 @@ output:
 <div style="display: flex">
 
 Albath, E.A., Greifeneder, R., Douglas, K.M., Cichocka, A., **Marques, M.D.**, Wilson, M.S., Kerr, J.R., Sibley, C.G., & Osborne, D. (2024). Does Lower Psychological Need Satisfaction Foster Conspiracy Belief? Longitudinal Effects Over Three Years in New Zealand. *Personality and Social Psychology Bulletin*.
-[https://doi.org/10.1177/01461672241292841](https://doi.org/10.1177/01461672241292841)
+[https://doi.org/10.1177/01461672241292841](https://journals.sagepub.com/doi/10.1177/01461672241292841)
 [[PDF]](https://doi.org/10.1177/01461672241292841)<br>
 *Impact Factor = 3.4*
 </div>
@@ -62,8 +62,8 @@ Albath, E.A., Greifeneder, R., Douglas, K.M., Cichocka, A., **Marques, M.D.**, W
 
 <div style="display: flex">
 
-Williams, M.N. Ling, M., Kerr, J.R., Hill, S.R., **Marques, M.D.**, Mawson, H., & Clarke, E.J.R. (2024). People do change their beliefs about conspiracy theories—but not often. *Scientific Reports*.
-[https://doi.org/10.1038/s41598-024-51653-z](https://doi.org/10.1038/s41598-024-51653-z)
+Williams, M.N. Ling, M., Kerr, J.R., Hill, S.R., **Marques, M.D.**, Mawson, H., & Clarke, E.J.R. (2024). People do change their beliefs about conspiracy theories—but not often. *Scientific Reports, 14*, 3836.
+[https://doi.org/10.1038/s41598-024-51653-z](https://www.nature.com/articles/s41598-024-51653-z)
 [[PDF]](https://psyarxiv.com/5q2ky/)<br>
 *Impact Factor = 4.6*
 </div>
