@@ -11,6 +11,30 @@ output:
 ## Conspiracy Theories
 
 <div style="display: flex">
+Williams, M.N., **Marques, M.D.**, Kerr, J.R., Hill, S.R., Ling, M., & Clarke, E.J.R. (accepted 31/01/25). Does developing a belief in one conspiracy theory lead a person to be more likely to believe in others?. *European Journal of Social Psychology*.
+[https://doi.org/](https://doi.org)
+[[PDF]](https://osf.io/qpgvh_v1)<br>
+*Impact Factor = 2.22*
+</div>
+<div style="display: flex; justify-content: space-between; width: 140px;">
+
+<div data-badge-popover="right" data-badge-type="donut" data-doi="" data-hide-no-mentions="true" class="altmetric-embed"></div>
+
+<span class="__dimensions_badge_embed__" data-doi="" data-legend="hover-right" data-style="small_circle" data-hide-zero-citations="true"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+
+</div>
+
+<details>
+  <summary>
+  <font size="3">Abstract</font>
+  </summary>
+  
+  <font size="3">The monological belief system model (Goertzel, 1994) suggests that—for at least a subset of people—developing a belief in one conspiracy theory will *cause* them to be more likely to believe in others. This model has been influential in the literature, but its core causal hypothesis has never been credibly tested. We therefore tested it in two longitudinal studies. Study 1 used a sample from New Zealand and Australia (*N* = 498), with 7 monthly waves. Study 2 (preregistered) used a sample from New Zealand, Australia and the United Kingdom (*N* = 978), with 13 monthly waves. We applied random intercept cross-lagged panel models, permitting a credible causal identification strategy, albeit we cannot rule out time-varying confounds. We find that increased belief in a conspiracy theory at one wave did (on average) lead to increased belief in other conspiracies at the next wave, although the estimated effects were small.</font>
+</details>
+
+<br>
+
+<div style="display: flex">
 
 **Marques, M.D.**, Kerr, J.R., Stukas, A.A., & McLennan, J. (accepted 30 October 2024). The Effect of Scientific Conspiracy Theories on Scepticism Towards Biotechnologies. *Public Understanding of Science*.
 [https://doi.org/10.1177/09636625241300896](https://journals.sagepub.com/doi/10.1177/09636625241300896)
