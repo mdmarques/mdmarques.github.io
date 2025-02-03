@@ -11,16 +11,16 @@ output:
 ## Conspiracy Theories
 
 <div style="display: flex">
-Williams, M.N., **Marques, M.D.**, Kerr, J.R., Hill, S.R., Ling, M., & Clarke, E.J.R. (accepted 31/01/25). Does developing a belief in one conspiracy theory lead a person to be more likely to believe in others?. *European Journal of Social Psychology*.
-[https://doi.org/](https://doi.org)
+Williams, M.N., **Marques, M.D.**, Kerr, J.R., Hill, S.R., Ling, M., & Clarke, E.J.R. (accepted 31/01/25). Does developing a belief in one conspiracy theory lead a person to be more likely to believe in others? *European Journal of Social Psychology*.
+[https://doi.org/10.1002/ejsp.3153](https://doi.org/10.1002/ejsp.3153)
 [[PDF]](https://osf.io/qpgvh_v1)<br>
 *Impact Factor = 2.22*
 </div>
 <div style="display: flex; justify-content: space-between; width: 140px;">
 
-<div data-badge-popover="right" data-badge-type="donut" data-doi="" data-hide-no-mentions="true" class="altmetric-embed"></div>
+<div data-badge-popover="right" data-badge-type="donut" data-doi="10.1002/ejsp.3153" data-hide-no-mentions="true" class="altmetric-embed"></div>
 
-<span class="__dimensions_badge_embed__" data-doi="" data-legend="hover-right" data-style="small_circle" data-hide-zero-citations="true"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+<span class="__dimensions_badge_embed__" data-doi="10.1002/ejsp.3153" data-legend="hover-right" data-style="small_circle" data-hide-zero-citations="true"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 
 </div>
 
