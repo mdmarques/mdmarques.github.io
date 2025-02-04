@@ -11,7 +11,7 @@ output:
 ## Conspiracy Theories
 
 <div style="display: flex">
-Williams, M.N., **Marques, M.D.**, Kerr, J.R., Hill, S.R., Ling, M., & Clarke, E.J.R. (accepted 31/01/25). Does developing a belief in one conspiracy theory lead a person to be more likely to believe in others? *European Journal of Social Psychology*.
+Williams, M.N., **Marques, M.D.**, Kerr, J.R., Hill, S.R., Ling, M., & Clarke, E.J.R. (2025). Does developing a belief in one conspiracy theory lead a person to be more likely to believe in others? *European Journal of Social Psychology*.
 [https://doi.org/10.1002/ejsp.3153](https://doi.org/10.1002/ejsp.3153)
 [[PDF]](https://osf.io/qpgvh_v1)<br>
 *Impact Factor = 2.22*
@@ -36,7 +36,7 @@ Williams, M.N., **Marques, M.D.**, Kerr, J.R., Hill, S.R., Ling, M., & Clarke, E
 
 <div style="display: flex">
 
-**Marques, M.D.**, Kerr, J.R., Stukas, A.A., & McLennan, J. (accepted 30 October 2024). The Effect of Scientific Conspiracy Theories on Scepticism Towards Biotechnologies. *Public Understanding of Science*.
+**Marques, M.D.**, Kerr, J.R., Stukas, A.A., & McLennan, J. (2024). The Effect of Scientific Conspiracy Theories on Scepticism Towards Biotechnologies. *Public Understanding of Science*.
 [https://doi.org/10.1177/09636625241300896](https://journals.sagepub.com/doi/10.1177/09636625241300896)
 [[PDF]](https://osf.io/preprints/psyarxiv/y6hj2)<br>
 *Impact Factor = 3.5*
