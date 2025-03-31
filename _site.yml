@@ -7,7 +7,7 @@ navbar:
   right:
     - text: "About"
       href: about.html
-    - text: "Selected Publications"
+    - text: "Publications"
       href: publications.html
     - text: "Media"
       href: media.html
