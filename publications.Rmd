@@ -964,7 +964,7 @@ McLennan, J., **Marques, M.D.**, & Every, D. (2020). Conceptualising and measuri
 
 <div style="display: flex">
 
-Petrovic, K.P., Stukas, A.A., & Marques, M.D. (2020). Religiosity, motivations and volunteering: A test of two theories of religious prosociality. *Journal of Theoretical Social Psychology, 4*, 157-168. [https://doi.org/10.1002/jts5.68](https://onlinelibrary.wiley.com/doi/10.1002/jts5.68) [[PDF]](https://opal.latrobe.edu.au/ndownloader/files/27374003)<br>
+Petrovic, K.P., Stukas, A.A., & **Marques, M.D.** (2020). Religiosity, motivations and volunteering: A test of two theories of religious prosociality. *Journal of Theoretical Social Psychology, 4*, 157-168. [https://doi.org/10.1002/jts5.68](https://onlinelibrary.wiley.com/doi/10.1002/jts5.68) [[PDF]](https://opal.latrobe.edu.au/ndownloader/files/27374003)<br>
 *Impact Factor = 1.341*
 </div>
 <div style="display: flex; justify-content: space-between; width: 140px;">
