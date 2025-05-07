@@ -300,7 +300,7 @@ Natoli, E.E., & **Marques, M.D.** (2021). The antidepressant hoax: Conspiracy th
 ## Science attitudes
 
 <div style="display: flex">
-Ghasemi, O., Cologna, V., Mede, N.G. , Stanley, S.K., Strahm, N., Ross, R., Alfano, M., Kerr, J.R, **Marques, M.D.**, Berger, S., Besley, J.C., Brick, C., Joubert, M., Maibach, E., Mihelj, S., Newell, B.R., Oreskes, N., & Schäfer, M.S. (accepted 29/04/2025). Investigating the trust gap between scientists and climate scientists in 68 countries. *Environmental Research Letters*.
+Ghasemi, O., Cologna, V., Mede, N.G. , Stanley, S.K., Strahm, N., Ross, R., Alfano, M., Kerr, J.R, **Marques, M.D.**, Berger, S., Besley, J.C., Brick, C., Joubert, M., Maibach, E., Mihelj, S., Newell, B.R., Oreskes, N., & Schäfer, M.S. (accepted 29/04/2025). Gaps in public trust between scientists and climate scientists: a 68 country study. *Environmental Research Letters*.
 [https://doi.org/10.1088/1748-9326/add1f9](https://iopscience.iop.org/article/10.1088/1748-9326/add1f9) [[PDF]](https://iopscience.iop.org/article/10.1088/1748-9326/add1f9/pdf)<br>
 *Impact Factor = 5.8*
 </div>
