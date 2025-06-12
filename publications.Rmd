@@ -11,7 +11,7 @@ output:
 ## Conspiracy Theories
 
 <div style="display: flex">
-Williams, M.N., **Marques, M.D.**, Kerr, J.R., Hill, S.R., Ling, M., & Clarke, E.J.R. (2025). Does developing a belief in one conspiracy theory lead a person to be more likely to believe in others? *European Journal of Social Psychology*.
+Williams, M.N., **Marques, M.D.**, Kerr, J.R., Hill, S.R., Ling, M., & Clarke, E.J.R. (2025). Does developing a belief in one conspiracy theory lead a person to be more likely to believe in others? *European Journal of Social Psychology, 55*(4), 554-564.
 [https://doi.org/10.1002/ejsp.3153](https://doi.org/10.1002/ejsp.3153)
 [[PDF]](https://osf.io/qpgvh_v1)<br>
 *Impact Factor = 2.22*
