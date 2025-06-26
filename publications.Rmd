@@ -371,6 +371,32 @@ Ghasemi, O., Cologna, V., Mede, N.G. , Stanley, S.K., Strahm, N., Ross, R., Alfa
 
 <div style="display: flex">
 
+Stanley, S.K., Ghasemi, O., Ross, R.M., Kerr, J.K., **Marques, M.D.**, Alfano, M., Levy, N., Ferreira, M., Cologna, V., Mede, N.G., & Berger, S. (2025). Anticipatory solastalgia in the Antipodes: Evidence of future-oriented distress about environmental change in Australia and New Zealand. *The Journal of Climate Change and Health, 23,* 100415. 
+[https://doi.org/10.1016/j.joclim.2025.100415](https://www.sciencedirect.com/science/article/pii/S2667278225000057/)<br>
+*CiteScore = 4.8*
+</div>
+<div style="display: flex; justify-content: space-between; width: 140px;">
+
+<div data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.joclim.2025.100415" data-hide-no-mentions="true" class="altmetric-embed"></div>
+<span class="__dimensions_badge_embed__" data-doi="10.1016/j.joclim.2025.100415" data-legend="hover-right" data-style="small_circle" data-hide-zero-citations="true"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+</div>
+
+<details>
+  <summary>
+  <font size="3">Abstract</font>
+  </summary>
+  
+  <font size="3">*Introduction*: Lived experience of negative environmental change can evoke distress called ‘solastalgia’. Worldwide, people are reporting emotional challenges relating to awareness of current and continued environmental decline, even without a lived direct experience of climate change. Our research examines the measurement of anticipatory solastalgia: the experience of present distress about expected environmental change.<br>
+*Methods*: Our preregistered research uses survey samples from Australia (*n* = 1450) and New Zealand (*n* = 1022) to validate a recently developed five-item Anticipatory Solastalgia Scale (the ANSOS). We also measured participants’ experiences of climate emotions, expectations of the increased severity of climate-related weather disasters, and support for climate policy.<br>
+*Results*: The ANSOS fits the data well, is invariant across these two countries, and shows good internal consistency. Supporting convergent validity, the more that participants reported experiencing anticipatory solastalgia, the more intensely they reported feeling negative emotions about climate change. ANSOS scores were higher among those who expected more severe future impacts from climate-related weather disasters, and positively related to support for policies that aim to address climate change.<br>
+*Conclusion*: The study adds further evidence for the validity of the anticipatory solastalgia scale; a measure that will facilitate understanding of people's distress responses to the expectations of, and emotional engagement with, environmental threats as the climate changes.
+</font>
+</details>
+
+<br>
+
+<div style="display: flex">
+
 Cologna, V., Mede, N.G., Berger, S., Besley, J., Brick, C., Joubert, M., …, **Marques, M.D.**, …, & Zwaan, R.A. (2025). Trust in scientists and their role in society across 68 countries. *Nature Human Behaviour*. 
 [https://doi.org/10.1038/s41562-024-02090-5](https://www.nature.com/articles/s41562-024-02090-5) [[PDF]](https://www.nature.com/articles/s41562-024-02090-5)<br>
 *Impact Factor = 21.4*
@@ -820,32 +846,6 @@ McLean S.A., Wertheim E.H., **Marques, M.D.**, & Paxton S.J. (2019). Dismantling
 <br>
 
 ## Other publications
-
-<div style="display: flex">
-
-Stanley, S.K., Ghasemi, O., Ross, R.M., Kerr, J.K., **Marques, M.D.**, Alfano, M., Levy, N., Ferreira, M., Cologna, V., Mede, N.G., & Berger, S. (accepted 12/01/2025). Anticipatory solastalgia in the Antipodes: Evidence of future-oriented distress about environmental change in Australia and New Zealand. *The Journal of Climate Change and Health, 23,* 100415. 
-[https://doi.org/10.1016/j.joclim.2025.100415](https://www.sciencedirect.com/science/article/pii/S2667278225000057/)<br>
-*CiteScore = 4.8*
-</div>
-<div style="display: flex; justify-content: space-between; width: 140px;">
-
-<div data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.joclim.2025.100415" data-hide-no-mentions="true" class="altmetric-embed"></div>
-<span class="__dimensions_badge_embed__" data-doi="10.1016/j.joclim.2025.100415" data-legend="hover-right" data-style="small_circle" data-hide-zero-citations="true"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
-</div>
-
-<details>
-  <summary>
-  <font size="3">Abstract</font>
-  </summary>
-  
-  <font size="3">*Introduction*: Lived experience of negative environmental change can evoke distress called ‘solastalgia’. Worldwide, people are reporting emotional challenges relating to awareness of current and continued environmental decline, even without a lived direct experience of climate change. Our research examines the measurement of anticipatory solastalgia: the experience of present distress about expected environmental change.<br>
-*Methods*: Our preregistered research uses survey samples from Australia (*n* = 1450) and New Zealand (*n* = 1022) to validate a recently developed five-item Anticipatory Solastalgia Scale (the ANSOS). We also measured participants’ experiences of climate emotions, expectations of the increased severity of climate-related weather disasters, and support for climate policy.<br>
-*Results*: The ANSOS fits the data well, is invariant across these two countries, and shows good internal consistency. Supporting convergent validity, the more that participants reported experiencing anticipatory solastalgia, the more intensely they reported feeling negative emotions about climate change. ANSOS scores were higher among those who expected more severe future impacts from climate-related weather disasters, and positively related to support for policies that aim to address climate change.<br>
-*Conclusion*: The study adds further evidence for the validity of the anticipatory solastalgia scale; a measure that will facilitate understanding of people's distress responses to the expectations of, and emotional engagement with, environmental threats as the climate changes.
-</font>
-</details>
-
-<br>
 
 <div style="display: flex">
 
