@@ -84,7 +84,7 @@ Williams, M.N., **Marques, M.D.**, Kerr, J.R., Hill, S.R., Ling, M., & Clarke, E
 
 <div style="display: flex">
 
-**Marques, M.D.**, Kerr, J.R., Stukas, A.A., & McLennan, J. (2024). The Effect of Scientific Conspiracy Theories on Scepticism Towards Biotechnologies. *Public Understanding of Science*.
+**Marques, M.D.**, Kerr, J.R., Stukas, A.A., & McLennan, J. (2024). The Effect of Scientific Conspiracy Theories on Scepticism Towards Biotechnologies. *Public Understanding of Science, 34*(5), 646-664.
 [https://doi.org/10.1177/09636625241300896](https://journals.sagepub.com/doi/10.1177/09636625241300896)
 [[PDF]](https://osf.io/preprints/psyarxiv/y6hj2)<br>
 *Impact Factor = 3.5*
