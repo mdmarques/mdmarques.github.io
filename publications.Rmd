@@ -348,7 +348,28 @@ Natoli, E.E., & **Marques, M.D.** (2021). The antidepressant hoax: Conspiracy th
 ## Science attitudes
 
 <div style="display: flex">
-Ghasemi, O., Cologna, V., Mede, N.G. , Stanley, S.K., Strahm, N., Ross, R., Alfano, M., Kerr, J.R, **Marques, M.D.**, Berger, S., Besley, J.C., Brick, C., Joubert, M., Maibach, E., Mihelj, S., Newell, B.R., Oreskes, N., & Schäfer, M.S. (accepted 29/04/2025). Gaps in public trust between scientists and climate scientists: a 68 country study. *Environmental Research Letters*.
+Cologna, V., Meiler, S., Kropf, C.M.,; Lüthi, S., Mede, N.G., Bresch, D.N., …, **Marques, M.D.**, … et al. (2025). Extreme weather event attribution predicts climate policy support across the world. *Nature Climate Change*. [https://doi.org/10.1038/s41558-025-02372-4](https://www.nature.com/articles/s41558-025-02372-4#Abs1)[[PDF]](https://www.nature.com/articles/s41558-025-02372-4.pdf)<br> 
+*Impact Factor = 27.1*
+</div>
+<div style="display: flex; justify-content: space-between; width: 140px;">
+
+<div data-badge-popover="right" data-badge-type="donut" data-doi="10.1038/s41558-025-02372-4" data-hide-no-mentions="true" class="altmetric-embed"></div>
+<span class="__dimensions_badge_embed__" data-doi="10.1038/s41558-025-02372-4" data-legend="hover-right" data-style="small_circle" data-hide-zero-citations="true"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+</div>
+
+<details>
+  <summary>
+  <font size="3">Abstract</font>
+  </summary>
+  
+  <font size="3">Extreme weather events are becoming more frequent and intense due to climate change. Yet, little is known about the relationship between exposure to extreme events, subjective attribution of these events to climate change, and climate policy support, especially in the Global South. Combining large-scale natural and social science data from 68 countries (*N* = 71,922), we develop a measure of exposed population to extreme weather events and investigate whether exposure to extreme weather and subjective attribution of extreme weather to climate change predict climate policy support. We find that most people support climate policies and link extreme weather events to climate change. Subjective attribution of extreme weather was positively associated with policy support for five widely discussed climate policies. However, exposure to most types of extreme weather event did not predict policy support. Overall, these results suggest that subjective attribution could facilitate climate policy support.
+</font>
+</details>
+
+<br>
+
+<div style="display: flex">
+Ghasemi, O., Cologna, V., Mede, N.G., Stanley, S.K., Strahm, N., Ross, R., Alfano, M., Kerr, J.R, **Marques, M.D.**, Berger, S., Besley, J.C., Brick, C., Joubert, M., Maibach, E., Mihelj, S., Newell, B.R., Oreskes, N., & Schäfer, M.S. (accepted 29/04/2025). Gaps in public trust between scientists and climate scientists: a 68 country study. *Environmental Research Letters*.
 [https://doi.org/10.1088/1748-9326/add1f9](https://iopscience.iop.org/article/10.1088/1748-9326/add1f9) [[PDF]](https://iopscience.iop.org/article/10.1088/1748-9326/add1f9/pdf)<br>
 *Impact Factor = 5.8*
 </div>
