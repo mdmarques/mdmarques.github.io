@@ -369,6 +369,27 @@ Cologna, V., Meiler, S., Kropf, C.M.,; Lüthi, S., Mede, N.G., Bresch, D.N., …
 <br>
 
 <div style="display: flex">
+Stanley, S.K., Ghasemi, O., Kerr, J.R., Ross, R.M., **Marques, M.D.**, Mede, N.M., Berger, S., Alfano, M., Levy, N., Ferreiram M., & Cologna, V. (2025). Community attitudes towards advancing climate justice with climate aid. *Journal of Environmental Psychology*. [https://doi.org/10.1016/j.jenvp.2025.102679](https://www.sciencedirect.com/science/article/pii/S0272494425001628)[[PDF]](https://www.sciencedirect.com/science/article/pii/S0272494425001628/pdfft?md5=2cd8812f568cc4020504ba879cfb8170&pid=1-s2.0-S0272494425001628-main.pdf)<br> 
+*Impact Factor = 27.1*
+</div>
+<div style="display: flex; justify-content: space-between; width: 140px;">
+
+<div data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.jenvp.2025.102679" data-hide-no-mentions="true" class="altmetric-embed"></div>
+<span class="__dimensions_badge_embed__" data-doi="10.1016/j.jenvp.2025.102679" data-legend="hover-right" data-style="small_circle" data-hide-zero-citations="true"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+</div>
+
+<details>
+  <summary>
+  <font size="3">Abstract</font>
+  </summary>
+  
+  <font size="3">Research on support for climate policies has predominantly focused on support for mitigation policies. Research remains scarce on public support for climate aid policy (i.e., adaptation policies that direct support to those most affected by climate change). The justice implications of unmitigated climate change loom large, yet it is currently unclear to what extent people view climate change as an inequality issue. To investigate this, we surveyed participants from the United Kingdom (*n* = 531), United States (*n* = 528), Australia (*n* = 1450), and New Zealand (*n* = 1022) on attitudes about climate change inequality, experiences of climate emotions, support for climate aid policy, as well as their political orientation. Those who reported greater agreement that climate change is an inequality issue also reported experiencing more intense negative emotions about climate change and greater support for climate aid policy. We propose a theoretical model whereby political conservatives are less likely to see climate change as an inequality issue, which could account for their lower support for climate aid policy and their more muted emotional response to climate change. We find preliminary support for this model using mediation analyses. Our findings suggest that in these four nations, beliefs about the inequality in who causes climate change and who suffers its worst consequences may be relevant to community support for the implementation of climate aid policy.
+</font>
+</details>
+
+<br>
+
+<div style="display: flex">
 Ghasemi, O., Cologna, V., Mede, N.G., Stanley, S.K., Strahm, N., Ross, R., Alfano, M., Kerr, J.R, **Marques, M.D.**, Berger, S., Besley, J.C., Brick, C., Joubert, M., Maibach, E., Mihelj, S., Newell, B.R., Oreskes, N., & Schäfer, M.S. (accepted 29/04/2025). Gaps in public trust between scientists and climate scientists: a 68 country study. *Environmental Research Letters*.
 [https://doi.org/10.1088/1748-9326/add1f9](https://iopscience.iop.org/article/10.1088/1748-9326/add1f9) [[PDF]](https://iopscience.iop.org/article/10.1088/1748-9326/add1f9/pdf)<br>
 *Impact Factor = 5.8*
