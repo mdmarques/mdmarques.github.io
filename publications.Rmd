@@ -11,7 +11,7 @@ output:
 ## Conspiracy Theories
 
 <div style="display: flex">
-**Marques, M.D.** (online 05/07/2025). Patient autonomy in decision-making is more than individual belief: Understanding why health misinformation and conspiracy theories are so appealing. *Patient Education and Counseling*. [https://doi.org/10.1016/j.pec.2025.109233](https://doi.org/10.1016/j.pec.2025.109233)
+**Marques, M.D.** (2025). Patient autonomy in decision-making is more than individual belief: Understanding why health misinformation and conspiracy theories are so appealing. *Patient Education and Counseling, 139*, 109233. [https://doi.org/10.1016/j.pec.2025.109233](https://doi.org/10.1016/j.pec.2025.109233)
 [[PDF]](https://doi.org/10.31234/osf.io/mxthu_v1)
 *Impact Factor = 2.9*
 </div>
