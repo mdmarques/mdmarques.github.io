@@ -348,7 +348,7 @@ Natoli, E.E., & **Marques, M.D.** (2021). The antidepressant hoax: Conspiracy th
 ## Science attitudes
 
 <div style="display: flex">
-Cologna, V., Meiler, S., Kropf, C.M.,; Lüthi, S., Mede, N.G., Bresch, D.N., …, **Marques, M.D.**, … et al. (2025). Extreme weather event attribution predicts climate policy support across the world. *Nature Climate Change*. [https://doi.org/10.1038/s41558-025-02372-4](https://www.nature.com/articles/s41558-025-02372-4#Abs1)[[PDF]](https://www.nature.com/articles/s41558-025-02372-4.pdf)<br> 
+Cologna, V., Meiler, S., Kropf, C.M., Lüthi, S., Mede, N.G., Bresch, D.N., …, **Marques, M.D.**, … et al. (2025). Extreme weather event attribution predicts climate policy support across the world. *Nature Climate Change*. [https://doi.org/10.1038/s41558-025-02372-4](https://www.nature.com/articles/s41558-025-02372-4#Abs1)[[PDF]](https://www.nature.com/articles/s41558-025-02372-4.pdf)<br> 
 *Impact Factor = 27.1*
 </div>
 <div style="display: flex; justify-content: space-between; width: 140px;">
