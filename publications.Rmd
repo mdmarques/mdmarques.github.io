@@ -35,9 +35,9 @@ output:
 
 <div style="display: flex">
 
-Toribio-Florez, D., Altenmuller, M.S., Douglas, K.M., Gollwitzer, M., Adinugroho, I., …, **Marques, M.D.**, …, & Wojcik, D. (accepted 23/06/2025). Victims of conspiracies? A cross-national examination of the relationship between conspiracy beliefs and victim justice sensitivity. *European Journal of Social Psychology*. 
+Toribio-Florez, D., Altenmuller, M.S., Douglas, K.M., Gollwitzer, M., Adinugroho, I., …, **Marques, M.D.**, …, & Wojcik, D. (2025). Victims of conspiracies? A cross-national examination of the relationship between conspiracy beliefs and victim justice sensitivity. *European Journal of Social Psychology*. 
 [https://doi.org/10.1002/ejsp.70008](https://doi.org/10.1002/ejsp.70008)
-[[PDF]](https://osf.io/bjkph_v1/)<br>
+[[PDF]](https://osf.io/bjkph_v2/)<br>
 *Impact Factor = 2.22*
 </div>
 <div style="display: flex; justify-content: space-between; width: 140px;">
