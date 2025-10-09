@@ -891,8 +891,8 @@ McLean S.A., Wertheim E.H., **Marques, M.D.**, & Paxton S.J. (2019). Dismantling
 
 <div style="display: flex">
 
-Clarke, E.J.R. Eckerle, F., Kerr, J.R., Hill , S., Ling, M., **Marques, M.D.**, Williams, M.N. (accepted 8/10/25). Extremism at the centre: Uncovering political diversity amongst midpoint responders on the left-right self-placement item. *Political Psychology*. 
-[https://osf.io/q72e4_v2](https://)<br>
+Clarke, E.J.R., Eckerle, F., Kerr, J.R., Hill , S., Ling, M., **Marques, M.D.**, Williams, M.N. (accepted 8/10/25). Extremism at the centre: Uncovering political diversity amongst midpoint responders on the left-right self-placement item. *Political Psychology*. 
+[https://osf.io/q72e4_v2](https://osf.io/q72e4_v2)<br>
 *Impact Factor = 3.5*
 </div>
 <div style="display: flex; justify-content: space-between; width: 140px;">
@@ -906,7 +906,7 @@ Clarke, E.J.R. Eckerle, F., Kerr, J.R., Hill , S., Ling, M., **Marques, M.D.**, 
   <font size="3">Abstract</font>
   </summary>
   
-  <font size="3">The midpoint of the left-right self-placement item is the most populated of all response options. While genuinely-centrist responders opt to self-place there, it is also a convenient response option for those that cannot easily fit their politics to the left-right spectrum. Those with populist attitudes may also see the midpoint as an appropriate self-placement option, due to the thin-centred nature of populist ideology. In support of this, midpoint responders score similarly to the extreme ends of the spectrum on variables related to political system attitudes, including conspiracy beliefs and institutional trust, resulting in W-shaped relationships. Our research investigated the extent to which midpoint bumps exist across common political issues and political system attitudes, and whether subgroups of populist midpoint responders explain them. Using data from the Australian Election Study (*N* = 2179) and the American National Election Study (*N* = 8280), we found W- and M-shaped polynomial relationships primarily on attitudes towards the political system and toward immigrants. We then conducted Latent Profile Analyses on midpoint responders, using these items, finding at least one profile in each sample that represented a response pattern indicative of populist belief strands
+  <font size="3">The midpoint of the left-right self-placement item is the most populated of all response options. While genuinely-centrist responders opt to self-place there, it is also a convenient response option for those that cannot easily fit their politics to the left-right spectrum. Those with populist attitudes may also see the midpoint as an appropriate self-placement option, due to the thin-centred nature of populist ideology. In support of this, midpoint responders score similarly to the extreme ends of the spectrum on variables related to political system attitudes, including conspiracy beliefs and institutional trust, resulting in W-shaped relationships. Our research investigated the extent to which midpoint bumps exist across common political issues and political system attitudes, and whether subgroups of populist midpoint responders explain them. Using data from the Australian Election Study (*N* = 2179) and the American National Election Study (*N* = 8280), we found W- and M-shaped polynomial relationships primarily on attitudes towards the political system and toward immigrants. We then conducted Latent Profile Analyses on midpoint responders, using these items, finding at least one profile in each sample that represented a response pattern indicative of populist belief strands.
 </font>
 </details>
 
