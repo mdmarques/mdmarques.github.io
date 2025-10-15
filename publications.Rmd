@@ -348,7 +348,7 @@ Natoli, E.E., & **Marques, M.D.** (2021). The antidepressant hoax: Conspiracy th
 ## Science attitudes
 
 <div style="display: flex">
-Cologna, V., Meiler, S., Kropf, C.M., Lüthi, S., Mede, N.G., Bresch, D.N., …, **Marques, M.D.**, … et al. (2025). Extreme weather event attribution predicts climate policy support across the world. *Nature Climate Change*. [https://doi.org/10.1038/s41558-025-02372-4](https://www.nature.com/articles/s41558-025-02372-4#Abs1)[[PDF]](https://www.nature.com/articles/s41558-025-02372-4.pdf)<br> 
+Cologna, V., Meiler, S., Kropf, C.M., Lüthi, S., Mede, N.G., Bresch, D.N., …, **Marques, M.D.**, … et al. (2025). Extreme weather event attribution predicts climate policy support across the world. *Nature Climate Change, 15*, 725–735. [https://doi.org/10.1038/s41558-025-02372-4](https://www.nature.com/articles/s41558-025-02372-4#Abs1)[[PDF]](https://www.nature.com/articles/s41558-025-02372-4.pdf)<br> 
 *Impact Factor = 27.1*
 </div>
 <div style="display: flex; justify-content: space-between; width: 140px;">
@@ -390,7 +390,7 @@ Stanley, S.K., Ghasemi, O., Kerr, J.R., Ross, R.M., **Marques, M.D.**, Mede, N.M
 <br>
 
 <div style="display: flex">
-Ghasemi, O., Cologna, V., Mede, N.G., Stanley, S.K., Strahm, N., Ross, R., Alfano, M., Kerr, J.R, **Marques, M.D.**, Berger, S., Besley, J.C., Brick, C., Joubert, M., Maibach, E., Mihelj, S., Newell, B.R., Oreskes, N., & Schäfer, M.S. (accepted 29/04/2025). Gaps in public trust between scientists and climate scientists: a 68 country study. *Environmental Research Letters*.
+Ghasemi, O., Cologna, V., Mede, N.G., Stanley, S.K., Strahm, N., Ross, R., Alfano, M., Kerr, J.R, **Marques, M.D.**, Berger, S., Besley, J.C., Brick, C., Joubert, M., Maibach, E., Mihelj, S., Newell, B.R., Oreskes, N., & Schäfer, M.S. (2025). Gaps in public trust between scientists and climate scientists: a 68 country study. *Environmental Research Letters, 20*(6), 061002.
 [https://doi.org/10.1088/1748-9326/add1f9](https://iopscience.iop.org/article/10.1088/1748-9326/add1f9) [[PDF]](https://iopscience.iop.org/article/10.1088/1748-9326/add1f9/pdf)<br>
 *Impact Factor = 5.8*
 </div>
