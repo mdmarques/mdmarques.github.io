@@ -348,6 +348,27 @@ Natoli, E.E., & **Marques, M.D.** (2021). The antidepressant hoax: Conspiracy th
 ## Science attitudes
 
 <div style="display: flex">
+Mede, N.G., Cologna, V., Berger, S., Besley, J., Brick, C., Joubert, M., …, **Marques, M.D.**, …, & Zwaan, R.A. (2025). Public communication about science in 68 countries: Global evidence on how people encounter information about science and engage with it. *Science Communication*, 1-46. [https://doi.org/10.1177/10755470251376615](https://journals.sagepub.com/doi/10.1177/10755470251376615)[[PDF]](https://journals.sagepub.com/doi/pdf/10.1177/10755470251376615?download=true)<br> 
+*Impact Factor = 4.1*
+</div>
+<div style="display: flex; justify-content: space-between; width: 140px;">
+
+<div data-badge-popover="right" data-badge-type="donut" data-doi="10.1177/10755470251376615" data-hide-no-mentions="true" class="altmetric-embed"></div>
+<span class="__dimensions_badge_embed__" data-doi="10.1177/10755470251376615" data-legend="hover-right" data-style="small_circle" data-hide-zero-citations="true"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+</div>
+
+<details>
+  <summary>
+  <font size="3">Abstract</font>
+  </summary>
+  
+  <font size="3">This 68-country survey (*n* = 71,922) examines science information diets and communication behavior, identifies cross-country differences, and tests how such differences are associated with sociopolitical and economic conditions. We find that social media are the most used sources of science information in most countries, except those with democratic-corporatist media systems where news media tend to be used more widely. People in collectivist societies are less outspoken about science in daily life, whereas lower education is associated with higher outspokenness. Limited access to digital media is correlated with participation in public protests on science matters. We discuss implications for future research, policy, and practice.
+</font>
+</details>
+
+<br>
+
+<div style="display: flex">
 Cologna, V., Meiler, S., Kropf, C.M., Lüthi, S., Mede, N.G., Bresch, D.N., …, **Marques, M.D.**, … et al. (2025). Extreme weather event attribution predicts climate policy support across the world. *Nature Climate Change, 15*, 725–735. [https://doi.org/10.1038/s41558-025-02372-4](https://www.nature.com/articles/s41558-025-02372-4#Abs1)[[PDF]](https://www.nature.com/articles/s41558-025-02372-4.pdf)<br> 
 *Impact Factor = 27.1*
 </div>
