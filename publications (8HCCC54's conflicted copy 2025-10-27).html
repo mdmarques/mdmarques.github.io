@@ -1,0 +1,3186 @@
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
+
+<head>
+  <meta charset="utf-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1"/>
+  <meta name="generator" content="distill" />
+
+  <style type="text/css">
+  /* Hide doc at startup (prevent jankiness while JS renders/transforms) */
+  body {
+    visibility: hidden;
+  }
+  </style>
+
+ <!--radix_placeholder_import_source-->
+ <!--/radix_placeholder_import_source-->
+
+<style type="text/css">code{white-space: pre;}</style>
+<style type="text/css" data-origin="pandoc">
+html { -webkit-text-size-adjust: 100%; }
+pre > code.sourceCode { white-space: pre; position: relative; }
+pre > code.sourceCode > span { display: inline-block; line-height: 1.25; }
+pre > code.sourceCode > span:empty { height: 1.2em; }
+.sourceCode { overflow: visible; }
+code.sourceCode > span { color: inherit; text-decoration: inherit; }
+div.sourceCode { margin: 1em 0; }
+pre.sourceCode { margin: 0; }
+@media screen {
+div.sourceCode { overflow: auto; }
+}
+@media print {
+pre > code.sourceCode { white-space: pre-wrap; }
+pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
+}
+pre.numberSource code
+  { counter-reset: source-line 0; }
+pre.numberSource code > span
+  { position: relative; left: -4em; counter-increment: source-line; }
+pre.numberSource code > span > a:first-child::before
+  { content: counter(source-line);
+    position: relative; left: -1em; text-align: right; vertical-align: baseline;
+    border: none; display: inline-block;
+    -webkit-touch-callout: none; -webkit-user-select: none;
+    -khtml-user-select: none; -moz-user-select: none;
+    -ms-user-select: none; user-select: none;
+    padding: 0 4px; width: 4em;
+    color: #aaaaaa;
+  }
+pre.numberSource { margin-left: 3em; border-left: 1px solid #aaaaaa;  padding-left: 4px; }
+div.sourceCode
+  { color: #00769e; background-color: #f1f3f5; }
+@media screen {
+pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
+}
+code span { color: #00769e; } /* Normal */
+code span.al { color: #ad0000; } /* Alert */
+code span.an { color: #5e5e5e; } /* Annotation */
+code span.at { color: #657422; } /* Attribute */
+code span.bn { color: #ad0000; } /* BaseN */
+code span.bu { } /* BuiltIn */
+code span.cf { color: #00769e; } /* ControlFlow */
+code span.ch { color: #20794d; } /* Char */
+code span.cn { color: #8f5902; } /* Constant */
+code span.co { color: #5e5e5e; } /* Comment */
+code span.cv { color: #5e5e5e; font-style: italic; } /* CommentVar */
+code span.do { color: #5e5e5e; font-style: italic; } /* Documentation */
+code span.dt { color: #ad0000; } /* DataType */
+code span.dv { color: #ad0000; } /* DecVal */
+code span.er { color: #ad0000; } /* Error */
+code span.ex { } /* Extension */
+code span.fl { color: #ad0000; } /* Float */
+code span.fu { color: #4758ab; } /* Function */
+code span.im { } /* Import */
+code span.in { color: #5e5e5e; } /* Information */
+code span.kw { color: #00769e; } /* Keyword */
+code span.op { color: #5e5e5e; } /* Operator */
+code span.ot { color: #00769e; } /* Other */
+code span.pp { color: #ad0000; } /* Preprocessor */
+code span.sc { color: #5e5e5e; } /* SpecialChar */
+code span.ss { color: #20794d; } /* SpecialString */
+code span.st { color: #20794d; } /* String */
+code span.va { color: #111111; } /* Variable */
+code span.vs { color: #20794d; } /* VerbatimString */
+code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
+</style>
+
+
+  <!--radix_placeholder_meta_tags-->
+  <title>Mathew da Costa Marques: Publications</title>
+
+
+
+
+  <!--  https://developers.facebook.com/docs/sharing/webmasters#markup -->
+  <meta property="og:title" content="Mathew da Costa Marques: Publications"/>
+  <meta property="og:type" content="article"/>
+  <meta property="og:locale" content="en_US"/>
+  <meta property="og:site_name" content="Mathew da Costa Marques"/>
+
+  <!--  https://dev.twitter.com/cards/types/summary -->
+  <meta property="twitter:card" content="summary"/>
+  <meta property="twitter:title" content="Mathew da Costa Marques: Publications"/>
+
+  <!--/radix_placeholder_meta_tags-->
+  <!--radix_placeholder_rmarkdown_metadata-->
+
+  <script type="text/json" id="radix-rmarkdown-metadata">
+  {"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["title","output"]}},"value":[{"type":"character","attributes":{},"value":["Publications"]},{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["distill::distill_article"]}},"value":[{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["toc"]}},"value":[{"type":"logical","attributes":{},"value":[true]}]}]}]}
+  </script>
+  <!--/radix_placeholder_rmarkdown_metadata-->
+  <!--radix_placeholder_navigation_in_header-->
+  <meta name="distill:offset" content=""/>
+
+  <script type="application/javascript">
+
+    window.headroom_prevent_pin = false;
+
+    window.document.addEventListener("DOMContentLoaded", function (event) {
+
+      // initialize headroom for banner
+      var header = $('header').get(0);
+      var headerHeight = header.offsetHeight;
+      var headroom = new Headroom(header, {
+        tolerance: 5,
+        onPin : function() {
+          if (window.headroom_prevent_pin) {
+            window.headroom_prevent_pin = false;
+            headroom.unpin();
+          }
+        }
+      });
+      headroom.init();
+      if(window.location.hash)
+        headroom.unpin();
+      $(header).addClass('headroom--transition');
+
+      // offset scroll location for banner on hash change
+      // (see: https://github.com/WickyNilliams/headroom.js/issues/38)
+      window.addEventListener("hashchange", function(event) {
+        window.scrollTo(0, window.pageYOffset - (headerHeight + 25));
+      });
+
+      // responsive menu
+      $('.distill-site-header').each(function(i, val) {
+        var topnav = $(this);
+        var toggle = topnav.find('.nav-toggle');
+        toggle.on('click', function() {
+          topnav.toggleClass('responsive');
+        });
+      });
+
+      // nav dropdowns
+      $('.nav-dropbtn').click(function(e) {
+        $(this).next('.nav-dropdown-content').toggleClass('nav-dropdown-active');
+        $(this).parent().siblings('.nav-dropdown')
+           .children('.nav-dropdown-content').removeClass('nav-dropdown-active');
+      });
+      $("body").click(function(e){
+        $('.nav-dropdown-content').removeClass('nav-dropdown-active');
+      });
+      $(".nav-dropdown").click(function(e){
+        e.stopPropagation();
+      });
+    });
+  </script>
+
+  <style type="text/css">
+
+  /* Theme (user-documented overrideables for nav appearance) */
+
+  .distill-site-nav {
+    color: rgba(255, 255, 255, 0.8);
+    background-color: #0F2E3D;
+    font-size: 15px;
+    font-weight: 300;
+  }
+
+  .distill-site-nav a {
+    color: inherit;
+    text-decoration: none;
+  }
+
+  .distill-site-nav a:hover {
+    color: white;
+  }
+
+  @media print {
+    .distill-site-nav {
+      display: none;
+    }
+  }
+
+  .distill-site-header {
+
+  }
+
+  .distill-site-footer {
+
+  }
+
+
+  /* Site Header */
+
+  .distill-site-header {
+    width: 100%;
+    box-sizing: border-box;
+    z-index: 3;
+  }
+
+  .distill-site-header .nav-left {
+    display: inline-block;
+    margin-left: 8px;
+  }
+
+  @media screen and (max-width: 768px) {
+    .distill-site-header .nav-left {
+      margin-left: 0;
+    }
+  }
+
+
+  .distill-site-header .nav-right {
+    float: right;
+    margin-right: 8px;
+  }
+
+  .distill-site-header a,
+  .distill-site-header .title {
+    display: inline-block;
+    text-align: center;
+    padding: 14px 10px 14px 10px;
+  }
+
+  .distill-site-header .title {
+    font-size: 18px;
+    min-width: 150px;
+  }
+
+  .distill-site-header .logo {
+    padding: 0;
+  }
+
+  .distill-site-header .logo img {
+    display: none;
+    max-height: 20px;
+    width: auto;
+    margin-bottom: -4px;
+  }
+
+  .distill-site-header .nav-image img {
+    max-height: 18px;
+    width: auto;
+    display: inline-block;
+    margin-bottom: -3px;
+  }
+
+
+
+  @media screen and (min-width: 1000px) {
+    .distill-site-header .logo img {
+      display: inline-block;
+    }
+    .distill-site-header .nav-left {
+      margin-left: 20px;
+    }
+    .distill-site-header .nav-right {
+      margin-right: 20px;
+    }
+    .distill-site-header .title {
+      padding-left: 12px;
+    }
+  }
+
+
+  .distill-site-header .nav-toggle {
+    display: none;
+  }
+
+  .nav-dropdown {
+    display: inline-block;
+    position: relative;
+  }
+
+  .nav-dropdown .nav-dropbtn {
+    border: none;
+    outline: none;
+    color: rgba(255, 255, 255, 0.8);
+    padding: 16px 10px;
+    background-color: transparent;
+    font-family: inherit;
+    font-size: inherit;
+    font-weight: inherit;
+    margin: 0;
+    margin-top: 1px;
+    z-index: 2;
+  }
+
+  .nav-dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: white;
+    min-width: 200px;
+    border: 1px solid rgba(0,0,0,0.15);
+    border-radius: 4px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.1);
+    z-index: 1;
+    margin-top: 2px;
+    white-space: nowrap;
+    padding-top: 4px;
+    padding-bottom: 4px;
+  }
+
+  .nav-dropdown-content hr {
+    margin-top: 4px;
+    margin-bottom: 4px;
+    border: none;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+  }
+
+  .nav-dropdown-active {
+    display: block;
+  }
+
+  .nav-dropdown-content a, .nav-dropdown-content .nav-dropdown-header {
+    color: black;
+    padding: 6px 24px;
+    text-decoration: none;
+    display: block;
+    text-align: left;
+  }
+
+  .nav-dropdown-content .nav-dropdown-header {
+    display: block;
+    padding: 5px 24px;
+    padding-bottom: 0;
+    text-transform: uppercase;
+    font-size: 14px;
+    color: #999999;
+    white-space: nowrap;
+  }
+
+  .nav-dropdown:hover .nav-dropbtn {
+    color: white;
+  }
+
+  .nav-dropdown-content a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+
+  .nav-right .nav-dropdown-content {
+    margin-left: -45%;
+    right: 0;
+  }
+
+  @media screen and (max-width: 768px) {
+    .distill-site-header a, .distill-site-header .nav-dropdown  {display: none;}
+    .distill-site-header a.nav-toggle {
+      float: right;
+      display: block;
+    }
+    .distill-site-header .title {
+      margin-left: 0;
+    }
+    .distill-site-header .nav-right {
+      margin-right: 0;
+    }
+    .distill-site-header {
+      overflow: hidden;
+    }
+    .nav-right .nav-dropdown-content {
+      margin-left: 0;
+    }
+  }
+
+
+  @media screen and (max-width: 768px) {
+    .distill-site-header.responsive {position: relative; min-height: 500px; }
+    .distill-site-header.responsive a.nav-toggle {
+      position: absolute;
+      right: 0;
+      top: 0;
+    }
+    .distill-site-header.responsive a,
+    .distill-site-header.responsive .nav-dropdown {
+      display: block;
+      text-align: left;
+    }
+    .distill-site-header.responsive .nav-left,
+    .distill-site-header.responsive .nav-right {
+      width: 100%;
+    }
+    .distill-site-header.responsive .nav-dropdown {float: none;}
+    .distill-site-header.responsive .nav-dropdown-content {position: relative;}
+    .distill-site-header.responsive .nav-dropdown .nav-dropbtn {
+      display: block;
+      width: 100%;
+      text-align: left;
+    }
+  }
+
+  /* Site Footer */
+
+  .distill-site-footer {
+    width: 100%;
+    overflow: hidden;
+    box-sizing: border-box;
+    z-index: 3;
+    margin-top: 30px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    text-align: center;
+  }
+
+  /* Headroom */
+
+  d-title {
+    padding-top: 6rem;
+  }
+
+  @media print {
+    d-title {
+      padding-top: 4rem;
+    }
+  }
+
+  .headroom {
+    z-index: 1000;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+  }
+
+  .headroom--transition {
+    transition: all .4s ease-in-out;
+  }
+
+  .headroom--unpinned {
+    top: -100px;
+  }
+
+  .headroom--pinned {
+    top: 0;
+  }
+
+  /* adjust viewport for navbar height */
+  /* helps vertically center bootstrap (non-distill) content */
+  .min-vh-100 {
+    min-height: calc(100vh - 100px) !important;
+  }
+
+  </style>
+
+  <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
+  <link href="site_libs/font-awesome-6.5.2/css/all.min.css" rel="stylesheet"/>
+  <link href="site_libs/font-awesome-6.5.2/css/v4-shims.min.css" rel="stylesheet"/>
+  <script src="site_libs/headroom-0.9.4/headroom.min.js"></script>
+  <script src="site_libs/autocomplete-0.37.1/autocomplete.min.js"></script>
+  <script src="site_libs/fuse-6.4.1/fuse.min.js"></script>
+
+  <script type="application/javascript">
+
+  function getMeta(metaName) {
+    var metas = document.getElementsByTagName('meta');
+    for (let i = 0; i < metas.length; i++) {
+      if (metas[i].getAttribute('name') === metaName) {
+        return metas[i].getAttribute('content');
+      }
+    }
+    return '';
+  }
+
+  function offsetURL(url) {
+    var offset = getMeta('distill:offset');
+    return offset ? offset + '/' + url : url;
+  }
+
+  function createFuseIndex() {
+
+    // create fuse index
+    var options = {
+      keys: [
+        { name: 'title', weight: 20 },
+        { name: 'categories', weight: 15 },
+        { name: 'description', weight: 10 },
+        { name: 'contents', weight: 5 },
+      ],
+      ignoreLocation: true,
+      threshold: 0
+    };
+    var fuse = new window.Fuse([], options);
+
+    // fetch the main search.json
+    return fetch(offsetURL('search.json'))
+      .then(function(response) {
+        if (response.status == 200) {
+          return response.json().then(function(json) {
+            // index main articles
+            json.articles.forEach(function(article) {
+              fuse.add(article);
+            });
+            // download collections and index their articles
+            return Promise.all(json.collections.map(function(collection) {
+              return fetch(offsetURL(collection)).then(function(response) {
+                if (response.status === 200) {
+                  return response.json().then(function(articles) {
+                    articles.forEach(function(article) {
+                      fuse.add(article);
+                    });
+                  })
+                } else {
+                  return Promise.reject(
+                    new Error('Unexpected status from search index request: ' +
+                              response.status)
+                  );
+                }
+              });
+            })).then(function() {
+              return fuse;
+            });
+          });
+
+        } else {
+          return Promise.reject(
+            new Error('Unexpected status from search index request: ' +
+                        response.status)
+          );
+        }
+      });
+  }
+
+  window.document.addEventListener("DOMContentLoaded", function (event) {
+
+    // get search element (bail if we don't have one)
+    var searchEl = window.document.getElementById('distill-search');
+    if (!searchEl)
+      return;
+
+    createFuseIndex()
+      .then(function(fuse) {
+
+        // make search box visible
+        searchEl.classList.remove('hidden');
+
+        // initialize autocomplete
+        var options = {
+          autoselect: true,
+          hint: false,
+          minLength: 2,
+        };
+        window.autocomplete(searchEl, options, [{
+          source: function(query, callback) {
+            const searchOptions = {
+              isCaseSensitive: false,
+              shouldSort: true,
+              minMatchCharLength: 2,
+              limit: 10,
+            };
+            var results = fuse.search(query, searchOptions);
+            callback(results
+              .map(function(result) { return result.item; })
+            );
+          },
+          templates: {
+            suggestion: function(suggestion) {
+              var img = suggestion.preview && Object.keys(suggestion.preview).length > 0
+                ? `<img src="${offsetURL(suggestion.preview)}"</img>`
+                : '';
+              var html = `
+                <div class="search-item">
+                  <h3>${suggestion.title}</h3>
+                  <div class="search-item-description">
+                    ${suggestion.description || ''}
+                  </div>
+                  <div class="search-item-preview">
+                    ${img}
+                  </div>
+                </div>
+              `;
+              return html;
+            }
+          }
+        }]).on('autocomplete:selected', function(event, suggestion) {
+          window.location.href = offsetURL(suggestion.path);
+        });
+        // remove inline display style on autocompleter (we want to
+        // manage responsive display via css)
+        $('.algolia-autocomplete').css("display", "");
+      })
+      .catch(function(error) {
+        console.log(error);
+      });
+
+  });
+
+  </script>
+
+  <style type="text/css">
+
+  .nav-search {
+    font-size: x-small;
+  }
+
+  /* Algolioa Autocomplete */
+
+  .algolia-autocomplete {
+    display: inline-block;
+    margin-left: 10px;
+    vertical-align: sub;
+    background-color: white;
+    color: black;
+    padding: 6px;
+    padding-top: 8px;
+    padding-bottom: 0;
+    border-radius: 6px;
+    border: 1px #0F2E3D solid;
+    width: 180px;
+  }
+
+
+  @media screen and (max-width: 768px) {
+    .distill-site-nav .algolia-autocomplete {
+      display: none;
+      visibility: hidden;
+    }
+    .distill-site-nav.responsive .algolia-autocomplete {
+      display: inline-block;
+      visibility: visible;
+    }
+    .distill-site-nav.responsive .algolia-autocomplete .aa-dropdown-menu {
+      margin-left: 0;
+      width: 400px;
+      max-height: 400px;
+    }
+  }
+
+  .algolia-autocomplete .aa-input, .algolia-autocomplete .aa-hint {
+    width: 90%;
+    outline: none;
+    border: none;
+  }
+
+  .algolia-autocomplete .aa-hint {
+    color: #999;
+  }
+  .algolia-autocomplete .aa-dropdown-menu {
+    width: 550px;
+    max-height: 70vh;
+    overflow-x: visible;
+    overflow-y: scroll;
+    padding: 5px;
+    margin-top: 3px;
+    margin-left: -150px;
+    background-color: #fff;
+    border-radius: 5px;
+    border: 1px solid #999;
+    border-top: none;
+  }
+
+  .algolia-autocomplete .aa-dropdown-menu .aa-suggestion {
+    cursor: pointer;
+    padding: 5px 4px;
+    border-bottom: 1px solid #eee;
+  }
+
+  .algolia-autocomplete .aa-dropdown-menu .aa-suggestion:last-of-type {
+    border-bottom: none;
+    margin-bottom: 2px;
+  }
+
+  .algolia-autocomplete .aa-dropdown-menu .aa-suggestion .search-item {
+    overflow: hidden;
+    font-size: 0.8em;
+    line-height: 1.4em;
+  }
+
+  .algolia-autocomplete .aa-dropdown-menu .aa-suggestion .search-item h3 {
+    font-size: 1rem;
+    margin-block-start: 0;
+    margin-block-end: 5px;
+  }
+
+  .algolia-autocomplete .aa-dropdown-menu .aa-suggestion .search-item-description {
+    display: inline-block;
+    overflow: hidden;
+    height: 2.8em;
+    width: 80%;
+    margin-right: 4%;
+  }
+
+  .algolia-autocomplete .aa-dropdown-menu .aa-suggestion .search-item-preview {
+    display: inline-block;
+    width: 15%;
+  }
+
+  .algolia-autocomplete .aa-dropdown-menu .aa-suggestion .search-item-preview img {
+    height: 3em;
+    width: auto;
+    display: none;
+  }
+
+  .algolia-autocomplete .aa-dropdown-menu .aa-suggestion .search-item-preview img[src] {
+    display: initial;
+  }
+
+  .algolia-autocomplete .aa-dropdown-menu .aa-suggestion.aa-cursor {
+    background-color: #eee;
+  }
+  .algolia-autocomplete .aa-dropdown-menu .aa-suggestion em {
+    font-weight: bold;
+    font-style: normal;
+  }
+
+  </style>
+
+
+  <!--/radix_placeholder_navigation_in_header-->
+  <!--radix_placeholder_distill-->
+
+  <style type="text/css">
+
+  body {
+    background-color: white;
+  }
+
+  .pandoc-table {
+    width: 100%;
+  }
+
+  .pandoc-table>caption {
+    margin-bottom: 10px;
+  }
+
+  .pandoc-table th:not([align]) {
+    text-align: left;
+  }
+
+  .pagedtable-footer {
+    font-size: 15px;
+  }
+
+  d-byline .byline {
+    grid-template-columns: 2fr 2fr;
+  }
+
+  d-byline .byline h3 {
+    margin-block-start: 1.5em;
+  }
+
+  d-byline .byline .authors-affiliations h3 {
+    margin-block-start: 0.5em;
+  }
+
+  .authors-affiliations .orcid-id {
+    width: 16px;
+    height:16px;
+    margin-left: 4px;
+    margin-right: 4px;
+    vertical-align: middle;
+    padding-bottom: 2px;
+  }
+
+  d-title .dt-tags {
+    margin-top: 1em;
+    grid-column: text;
+  }
+
+  .dt-tags .dt-tag {
+    text-decoration: none;
+    display: inline-block;
+    color: rgba(0,0,0,0.6);
+    padding: 0em 0.4em;
+    margin-right: 0.5em;
+    margin-bottom: 0.4em;
+    font-size: 70%;
+    border: 1px solid rgba(0,0,0,0.2);
+    border-radius: 3px;
+    text-transform: uppercase;
+    font-weight: 500;
+  }
+
+  d-article table.gt_table td,
+  d-article table.gt_table th {
+    border-bottom: none;
+    font-size: 100%;
+  }
+
+  .html-widget {
+    margin-bottom: 2.0em;
+  }
+
+  .l-screen-inset {
+    padding-right: 16px;
+  }
+
+  .l-screen .caption {
+    margin-left: 10px;
+  }
+
+  .shaded {
+    background: rgb(247, 247, 247);
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-top: 1px solid rgba(0, 0, 0, 0.1);
+    border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+  }
+
+  .shaded .html-widget {
+    margin-bottom: 0;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+  }
+
+  .shaded .shaded-content {
+    background: white;
+  }
+
+  .text-output {
+    margin-top: 0;
+    line-height: 1.5em;
+  }
+
+  .hidden {
+    display: none !important;
+  }
+
+  hr.section-separator {
+    border: none;
+    border-top: 1px solid rgba(0, 0, 0, 0.1);
+    margin: 0px;
+  }
+
+
+  d-byline {
+    border-top: none;
+  }
+
+  d-article {
+    padding-top: 2.5rem;
+    padding-bottom: 30px;
+    border-top: none;
+  }
+
+  d-appendix {
+    padding-top: 30px;
+  }
+
+  d-article>p>img {
+    width: 100%;
+  }
+
+  d-article h2 {
+    margin: 1rem 0 1.5rem 0;
+  }
+
+  d-article h3 {
+    margin-top: 1.5rem;
+  }
+
+  d-article iframe {
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    margin-bottom: 2.0em;
+    width: 100%;
+  }
+
+  /* Tweak code blocks */
+
+  d-article div.sourceCode code,
+  d-article pre code {
+    font-family: Consolas, Monaco, 'Andale Mono', 'Ubuntu Mono', monospace;
+  }
+
+  d-article pre,
+  d-article div.sourceCode,
+  d-article div.sourceCode pre {
+    overflow: auto;
+  }
+
+  d-article div.sourceCode {
+    background-color: white;
+  }
+
+  d-article div.sourceCode pre {
+    padding-left: 10px;
+    font-size: 12px;
+    border-left: 2px solid rgba(0,0,0,0.1);
+  }
+
+  d-article pre {
+    font-size: 12px;
+    color: black;
+    background: none;
+    margin-top: 0;
+    text-align: left;
+    white-space: pre;
+    word-spacing: normal;
+    word-break: normal;
+    word-wrap: normal;
+    line-height: 1.5;
+
+    -moz-tab-size: 4;
+    -o-tab-size: 4;
+    tab-size: 4;
+
+    -webkit-hyphens: none;
+    -moz-hyphens: none;
+    -ms-hyphens: none;
+    hyphens: none;
+  }
+
+  d-article pre a {
+    border-bottom: none;
+  }
+
+  d-article pre a:hover {
+    border-bottom: none;
+    text-decoration: underline;
+  }
+
+  d-article details {
+    grid-column: text;
+    margin-bottom: 0.8em;
+  }
+
+  @media(min-width: 768px) {
+
+  d-article pre,
+  d-article div.sourceCode,
+  d-article div.sourceCode pre {
+    overflow: visible !important;
+  }
+
+  d-article div.sourceCode pre {
+    padding-left: 18px;
+    font-size: 14px;
+  }
+
+  /* tweak for Pandoc numbered line within distill */
+  d-article pre.numberSource code > span {
+      left: -2em;
+  }
+
+  d-article pre {
+    font-size: 14px;
+  }
+
+  }
+
+  figure img.external {
+    background: white;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    box-shadow: 0 1px 8px rgba(0, 0, 0, 0.1);
+    padding: 18px;
+    box-sizing: border-box;
+  }
+
+  /* CSS for d-contents */
+
+  .d-contents {
+    grid-column: text;
+    color: rgba(0,0,0,0.8);
+    font-size: 0.9em;
+    padding-bottom: 1em;
+    margin-bottom: 1em;
+    padding-bottom: 0.5em;
+    margin-bottom: 1em;
+    padding-left: 0.25em;
+    justify-self: start;
+  }
+
+  @media(min-width: 1000px) {
+    .d-contents.d-contents-float {
+      height: 0;
+      grid-column-start: 1;
+      grid-column-end: 4;
+      justify-self: center;
+      padding-right: 3em;
+      padding-left: 2em;
+    }
+  }
+
+  .d-contents nav h3 {
+    font-size: 18px;
+    margin-top: 0;
+    margin-bottom: 1em;
+  }
+
+  .d-contents li {
+    list-style-type: none
+  }
+
+  .d-contents nav > ul {
+    padding-left: 0;
+  }
+
+  .d-contents ul {
+    padding-left: 1em
+  }
+
+  .d-contents nav ul li {
+    margin-top: 0.6em;
+    margin-bottom: 0.2em;
+  }
+
+  .d-contents nav a {
+    font-size: 13px;
+    border-bottom: none;
+    text-decoration: none
+    color: rgba(0, 0, 0, 0.8);
+  }
+
+  .d-contents nav a:hover {
+    text-decoration: underline solid rgba(0, 0, 0, 0.6)
+  }
+
+  .d-contents nav > ul > li > a {
+    font-weight: 600;
+  }
+
+  .d-contents nav > ul > li > ul {
+    font-weight: inherit;
+  }
+
+  .d-contents nav > ul > li > ul > li {
+    margin-top: 0.2em;
+  }
+
+
+  .d-contents nav ul {
+    margin-top: 0;
+    margin-bottom: 0.25em;
+  }
+
+  .d-article-with-toc h2:nth-child(2) {
+    margin-top: 0;
+  }
+
+
+  /* Figure */
+
+  .figure {
+    position: relative;
+    margin-bottom: 2.5em;
+    margin-top: 1.5em;
+  }
+
+  .figure .caption {
+    color: rgba(0, 0, 0, 0.6);
+    font-size: 12px;
+    line-height: 1.5em;
+  }
+
+  .figure img.external {
+    background: white;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    box-shadow: 0 1px 8px rgba(0, 0, 0, 0.1);
+    padding: 18px;
+    box-sizing: border-box;
+  }
+
+  .figure .caption a {
+    color: rgba(0, 0, 0, 0.6);
+  }
+
+  .figure .caption b,
+  .figure .caption strong, {
+    font-weight: 600;
+    color: rgba(0, 0, 0, 1.0);
+  }
+
+  /* Citations */
+
+  d-article .citation {
+    color: inherit;
+    cursor: inherit;
+  }
+
+  div.hanging-indent{
+    margin-left: 1em; text-indent: -1em;
+  }
+
+  /* Citation hover box */
+
+  .tippy-box[data-theme~=light-border] {
+    background-color: rgba(250, 250, 250, 0.95);
+  }
+
+  .tippy-content > p {
+    margin-bottom: 0;
+    padding: 2px;
+  }
+
+
+  /* Tweak 1000px media break to show more text */
+
+  @media(min-width: 1000px) {
+    .base-grid,
+    distill-header,
+    d-title,
+    d-abstract,
+    d-article,
+    d-appendix,
+    distill-appendix,
+    d-byline,
+    d-footnote-list,
+    d-citation-list,
+    distill-footer {
+      grid-template-columns: [screen-start] 1fr [page-start kicker-start] 80px [middle-start] 50px [text-start kicker-end] 65px 65px 65px 65px 65px 65px 65px 65px [text-end gutter-start] 65px [middle-end] 65px [page-end gutter-end] 1fr [screen-end];
+      grid-column-gap: 16px;
+    }
+
+    .grid {
+      grid-column-gap: 16px;
+    }
+
+    d-article {
+      font-size: 1.06rem;
+      line-height: 1.7em;
+    }
+    figure .caption, .figure .caption, figure figcaption {
+      font-size: 13px;
+    }
+  }
+
+  @media(min-width: 1180px) {
+    .base-grid,
+    distill-header,
+    d-title,
+    d-abstract,
+    d-article,
+    d-appendix,
+    distill-appendix,
+    d-byline,
+    d-footnote-list,
+    d-citation-list,
+    distill-footer {
+      grid-template-columns: [screen-start] 1fr [page-start kicker-start] 60px [middle-start] 60px [text-start kicker-end] 60px 60px 60px 60px 60px 60px 60px 60px [text-end gutter-start] 60px [middle-end] 60px [page-end gutter-end] 1fr [screen-end];
+      grid-column-gap: 32px;
+    }
+
+    .grid {
+      grid-column-gap: 32px;
+    }
+  }
+
+
+  /* Get the citation styles for the appendix (not auto-injected on render since
+     we do our own rendering of the citation appendix) */
+
+  d-appendix .citation-appendix,
+  .d-appendix .citation-appendix {
+    font-size: 11px;
+    line-height: 15px;
+    border-left: 1px solid rgba(0, 0, 0, 0.1);
+    padding-left: 18px;
+    border: 1px solid rgba(0,0,0,0.1);
+    background: rgba(0, 0, 0, 0.02);
+    padding: 10px 18px;
+    border-radius: 3px;
+    color: rgba(150, 150, 150, 1);
+    overflow: hidden;
+    margin-top: -12px;
+    white-space: pre-wrap;
+    word-wrap: break-word;
+  }
+
+  /* Include appendix styles here so they can be overridden */
+
+  d-appendix {
+    contain: layout style;
+    font-size: 0.8em;
+    line-height: 1.7em;
+    margin-top: 60px;
+    margin-bottom: 0;
+    border-top: 1px solid rgba(0, 0, 0, 0.1);
+    color: rgba(0,0,0,0.5);
+    padding-top: 60px;
+    padding-bottom: 48px;
+  }
+
+  d-appendix h3 {
+    grid-column: page-start / text-start;
+    font-size: 15px;
+    font-weight: 500;
+    margin-top: 1em;
+    margin-bottom: 0;
+    color: rgba(0,0,0,0.65);
+  }
+
+  d-appendix h3 + * {
+    margin-top: 1em;
+  }
+
+  d-appendix ol {
+    padding: 0 0 0 15px;
+  }
+
+  @media (min-width: 768px) {
+    d-appendix ol {
+      padding: 0 0 0 30px;
+      margin-left: -30px;
+    }
+  }
+
+  d-appendix li {
+    margin-bottom: 1em;
+  }
+
+  d-appendix a {
+    color: rgba(0, 0, 0, 0.6);
+  }
+
+  d-appendix > * {
+    grid-column: text;
+  }
+
+  d-appendix > d-footnote-list,
+  d-appendix > d-citation-list,
+  d-appendix > distill-appendix {
+    grid-column: screen;
+  }
+
+  /* Include footnote styles here so they can be overridden */
+
+  d-footnote-list {
+    contain: layout style;
+  }
+
+  d-footnote-list > * {
+    grid-column: text;
+  }
+
+  d-footnote-list a.footnote-backlink {
+    color: rgba(0,0,0,0.3);
+    padding-left: 0.5em;
+  }
+
+
+
+  /* Anchor.js */
+
+  .anchorjs-link {
+    /*transition: all .25s linear; */
+    text-decoration: none;
+    border-bottom: none;
+  }
+  *:hover > .anchorjs-link {
+    margin-left: -1.125em !important;
+    text-decoration: none;
+    border-bottom: none;
+  }
+
+  /* Social footer */
+
+  .social_footer {
+    margin-top: 30px;
+    margin-bottom: 0;
+    color: rgba(0,0,0,0.67);
+  }
+
+  .disqus-comments {
+    margin-right: 30px;
+  }
+
+  .disqus-comment-count {
+    border-bottom: 1px solid rgba(0, 0, 0, 0.4);
+    cursor: pointer;
+  }
+
+  #disqus_thread {
+    margin-top: 30px;
+  }
+
+  .article-sharing a {
+    border-bottom: none;
+    margin-right: 8px;
+  }
+
+  .article-sharing a:hover {
+    border-bottom: none;
+  }
+
+  .sidebar-section.subscribe {
+    font-size: 12px;
+    line-height: 1.6em;
+  }
+
+  .subscribe p {
+    margin-bottom: 0.5em;
+  }
+
+
+  .article-footer .subscribe {
+    font-size: 15px;
+    margin-top: 45px;
+  }
+
+
+  .sidebar-section.custom {
+    font-size: 12px;
+    line-height: 1.6em;
+  }
+
+  .custom p {
+    margin-bottom: 0.5em;
+  }
+
+  /* Styles for listing layout (hide title) */
+  .layout-listing d-title, .layout-listing .d-title {
+    display: none;
+  }
+
+  /* Styles for posts lists (not auto-injected) */
+
+
+  .posts-with-sidebar {
+    padding-left: 45px;
+    padding-right: 45px;
+  }
+
+  .posts-list .description h2,
+  .posts-list .description p {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", Arial, sans-serif;
+  }
+
+  .posts-list .description h2 {
+    font-weight: 700;
+    border-bottom: none;
+    padding-bottom: 0;
+  }
+
+  .posts-list h2.post-tag {
+    border-bottom: 1px solid rgba(0, 0, 0, 0.2);
+    padding-bottom: 12px;
+  }
+  .posts-list {
+    margin-top: 60px;
+    margin-bottom: 24px;
+  }
+
+  .posts-list .post-preview {
+    text-decoration: none;
+    overflow: hidden;
+    display: block;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+    padding: 24px 0;
+  }
+
+  .post-preview-last {
+    border-bottom: none !important;
+  }
+
+  .posts-list .posts-list-caption {
+    grid-column: screen;
+    font-weight: 400;
+  }
+
+  .posts-list .post-preview h2 {
+    margin: 0 0 6px 0;
+    line-height: 1.2em;
+    font-style: normal;
+    font-size: 24px;
+  }
+
+  .posts-list .post-preview p {
+    margin: 0 0 12px 0;
+    line-height: 1.4em;
+    font-size: 16px;
+  }
+
+  .posts-list .post-preview .thumbnail {
+    box-sizing: border-box;
+    margin-bottom: 24px;
+    position: relative;
+    max-width: 500px;
+  }
+  .posts-list .post-preview img {
+    width: 100%;
+    display: block;
+  }
+
+  .posts-list .metadata {
+    font-size: 12px;
+    line-height: 1.4em;
+    margin-bottom: 18px;
+  }
+
+  .posts-list .metadata > * {
+    display: inline-block;
+  }
+
+  .posts-list .metadata .publishedDate {
+    margin-right: 2em;
+  }
+
+  .posts-list .metadata .dt-authors {
+    display: block;
+    margin-top: 0.3em;
+    margin-right: 2em;
+  }
+
+  .posts-list .dt-tags {
+    display: block;
+    line-height: 1em;
+  }
+
+  .posts-list .dt-tags .dt-tag {
+    display: inline-block;
+    color: rgba(0,0,0,0.6);
+    padding: 0.3em 0.4em;
+    margin-right: 0.2em;
+    margin-bottom: 0.4em;
+    font-size: 60%;
+    border: 1px solid rgba(0,0,0,0.2);
+    border-radius: 3px;
+    text-transform: uppercase;
+    font-weight: 500;
+  }
+
+  .posts-list img {
+    opacity: 1;
+  }
+
+  .posts-list img[data-src] {
+    opacity: 0;
+  }
+
+  .posts-more {
+    clear: both;
+  }
+
+
+  .posts-sidebar {
+    font-size: 16px;
+  }
+
+  .posts-sidebar h3 {
+    font-size: 16px;
+    margin-top: 0;
+    margin-bottom: 0.5em;
+    font-weight: 400;
+    text-transform: uppercase;
+  }
+
+  .sidebar-section {
+    margin-bottom: 30px;
+  }
+
+  .categories ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+
+  .categories li {
+    color: rgba(0, 0, 0, 0.8);
+    margin-bottom: 0;
+  }
+
+  .categories li>a {
+    border-bottom: none;
+  }
+
+  .categories li>a:hover {
+    border-bottom: 1px solid rgba(0, 0, 0, 0.4);
+  }
+
+  .categories .active {
+    font-weight: 600;
+  }
+
+  .categories .category-count {
+    color: rgba(0, 0, 0, 0.4);
+  }
+
+
+  @media(min-width: 768px) {
+    .posts-list .post-preview h2 {
+      font-size: 26px;
+    }
+    .posts-list .post-preview .thumbnail {
+      float: right;
+      width: 30%;
+      margin-bottom: 0;
+    }
+    .posts-list .post-preview .description {
+      float: left;
+      width: 45%;
+    }
+    .posts-list .post-preview .metadata {
+      float: left;
+      width: 20%;
+      margin-top: 8px;
+    }
+    .posts-list .post-preview p {
+      margin: 0 0 12px 0;
+      line-height: 1.5em;
+      font-size: 16px;
+    }
+    .posts-with-sidebar .posts-list {
+      float: left;
+      width: 75%;
+    }
+    .posts-with-sidebar .posts-sidebar {
+      float: right;
+      width: 20%;
+      margin-top: 60px;
+      padding-top: 24px;
+      padding-bottom: 24px;
+    }
+  }
+
+
+  /* Improve display for browsers without grid (IE/Edge <= 15) */
+
+  .downlevel {
+    line-height: 1.6em;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", Arial, sans-serif;
+    margin: 0;
+  }
+
+  .downlevel .d-title {
+    padding-top: 6rem;
+    padding-bottom: 1.5rem;
+  }
+
+  .downlevel .d-title h1 {
+    font-size: 50px;
+    font-weight: 700;
+    line-height: 1.1em;
+    margin: 0 0 0.5rem;
+  }
+
+  .downlevel .d-title p {
+    font-weight: 300;
+    font-size: 1.2rem;
+    line-height: 1.55em;
+    margin-top: 0;
+  }
+
+  .downlevel .d-byline {
+    padding-top: 0.8em;
+    padding-bottom: 0.8em;
+    font-size: 0.8rem;
+    line-height: 1.8em;
+  }
+
+  .downlevel .section-separator {
+    border: none;
+    border-top: 1px solid rgba(0, 0, 0, 0.1);
+  }
+
+  .downlevel .d-article {
+    font-size: 1.06rem;
+    line-height: 1.7em;
+    padding-top: 1rem;
+    padding-bottom: 2rem;
+  }
+
+
+  .downlevel .d-appendix {
+    padding-left: 0;
+    padding-right: 0;
+    max-width: none;
+    font-size: 0.8em;
+    line-height: 1.7em;
+    margin-bottom: 0;
+    color: rgba(0,0,0,0.5);
+    padding-top: 40px;
+    padding-bottom: 48px;
+  }
+
+  .downlevel .footnotes ol {
+    padding-left: 13px;
+  }
+
+  .downlevel .base-grid,
+  .downlevel .distill-header,
+  .downlevel .d-title,
+  .downlevel .d-abstract,
+  .downlevel .d-article,
+  .downlevel .d-appendix,
+  .downlevel .distill-appendix,
+  .downlevel .d-byline,
+  .downlevel .d-footnote-list,
+  .downlevel .d-citation-list,
+  .downlevel .distill-footer,
+  .downlevel .appendix-bottom,
+  .downlevel .posts-container {
+    padding-left: 40px;
+    padding-right: 40px;
+  }
+
+  @media(min-width: 768px) {
+    .downlevel .base-grid,
+    .downlevel .distill-header,
+    .downlevel .d-title,
+    .downlevel .d-abstract,
+    .downlevel .d-article,
+    .downlevel .d-appendix,
+    .downlevel .distill-appendix,
+    .downlevel .d-byline,
+    .downlevel .d-footnote-list,
+    .downlevel .d-citation-list,
+    .downlevel .distill-footer,
+    .downlevel .appendix-bottom,
+    .downlevel .posts-container {
+    padding-left: 150px;
+    padding-right: 150px;
+    max-width: 900px;
+  }
+  }
+
+  .downlevel pre code {
+    display: block;
+    border-left: 2px solid rgba(0, 0, 0, .1);
+    padding: 0 0 0 20px;
+    font-size: 14px;
+  }
+
+  .downlevel code, .downlevel pre {
+    color: black;
+    background: none;
+    font-family: Consolas, Monaco, 'Andale Mono', 'Ubuntu Mono', monospace;
+    text-align: left;
+    white-space: pre;
+    word-spacing: normal;
+    word-break: normal;
+    word-wrap: normal;
+    line-height: 1.5;
+
+    -moz-tab-size: 4;
+    -o-tab-size: 4;
+    tab-size: 4;
+
+    -webkit-hyphens: none;
+    -moz-hyphens: none;
+    -ms-hyphens: none;
+    hyphens: none;
+  }
+
+  .downlevel .posts-list .post-preview {
+    color: inherit;
+  }
+
+
+
+  </style>
+
+  <script type="application/javascript">
+
+  function is_downlevel_browser() {
+    if (bowser.isUnsupportedBrowser({ msie: "12", msedge: "16"},
+                                   window.navigator.userAgent)) {
+      return true;
+    } else {
+      return window.load_distill_framework === undefined;
+    }
+  }
+
+  // show body when load is complete
+  function on_load_complete() {
+
+    // add anchors
+    if (window.anchors) {
+      window.anchors.options.placement = 'left';
+      window.anchors.add('d-article > h2, d-article > h3, d-article > h4, d-article > h5');
+    }
+
+
+    // set body to visible
+    document.body.style.visibility = 'visible';
+
+    // force redraw for leaflet widgets
+    if (window.HTMLWidgets) {
+      var maps = window.HTMLWidgets.findAll(".leaflet");
+      $.each(maps, function(i, el) {
+        var map = this.getMap();
+        map.invalidateSize();
+        map.eachLayer(function(layer) {
+          if (layer instanceof L.TileLayer)
+            layer.redraw();
+        });
+      });
+    }
+
+    // trigger 'shown' so htmlwidgets resize
+    $('d-article').trigger('shown');
+  }
+
+  function init_distill() {
+
+    init_common();
+
+    // create front matter
+    var front_matter = $('<d-front-matter></d-front-matter>');
+    $('#distill-front-matter').wrap(front_matter);
+
+    // create d-title
+    $('.d-title').changeElementType('d-title');
+
+    // separator
+    var separator = '<hr class="section-separator" style="clear: both"/>';
+    // prepend separator above appendix
+    $('.d-byline').before(separator);
+    $('.d-article').before(separator);
+
+    // create d-byline
+    var byline = $('<d-byline></d-byline>');
+    $('.d-byline').replaceWith(byline);
+
+    // create d-article
+    var article = $('<d-article></d-article>');
+    $('.d-article').wrap(article).children().unwrap();
+
+    // move posts container into article
+    $('.posts-container').appendTo($('d-article'));
+
+    // create d-appendix
+    $('.d-appendix').changeElementType('d-appendix');
+
+    // flag indicating that we have appendix items
+    var appendix = $('.appendix-bottom').children('h3').length > 0;
+
+    // replace footnotes with <d-footnote>
+    $('.footnote-ref').each(function(i, val) {
+      appendix = true;
+      var href = $(this).attr('href');
+      var id = href.replace('#', '');
+      var fn = $('#' + id);
+      var fn_p = $('#' + id + '>p');
+      fn_p.find('.footnote-back').remove();
+      var text = fn_p.html();
+      var dtfn = $('<d-footnote></d-footnote>');
+      dtfn.html(text);
+      $(this).replaceWith(dtfn);
+    });
+    // remove footnotes
+    $('.footnotes').remove();
+
+    // move refs into #references-listing
+    $('#references-listing').replaceWith($('#refs'));
+
+    $('h1.appendix, h2.appendix').each(function(i, val) {
+      $(this).changeElementType('h3');
+    });
+    $('h3.appendix').each(function(i, val) {
+      var id = $(this).attr('id');
+      $('.d-contents a[href="#' + id + '"]').parent().remove();
+      appendix = true;
+      $(this).nextUntil($('h1, h2, h3')).addBack().appendTo($('d-appendix'));
+    });
+
+    // show d-appendix if we have appendix content
+    $("d-appendix").css('display', appendix ? 'grid' : 'none');
+
+    // localize layout chunks to just output
+    $('.layout-chunk').each(function(i, val) {
+
+      // capture layout
+      var layout = $(this).attr('data-layout');
+
+      // apply layout to markdown level block elements
+      var elements = $(this).children().not('details, div.sourceCode, pre, script');
+      elements.each(function(i, el) {
+        var layout_div = $('<div class="' + layout + '"></div>');
+        if (layout_div.hasClass('shaded')) {
+          var shaded_content = $('<div class="shaded-content"></div>');
+          $(this).wrap(shaded_content);
+          $(this).parent().wrap(layout_div);
+        } else {
+          $(this).wrap(layout_div);
+        }
+      });
+
+
+      // unwrap the layout-chunk div
+      $(this).children().unwrap();
+    });
+
+    // remove code block used to force  highlighting css
+    $('.distill-force-highlighting-css').parent().remove();
+
+    // remove empty line numbers inserted by pandoc when using a
+    // custom syntax highlighting theme, except when numbering line
+    // in code chunk
+    $('pre:not(.numberLines) code.sourceCode a:empty').remove();
+
+    // load distill framework
+    load_distill_framework();
+
+    // wait for window.distillRunlevel == 4 to do post processing
+    function distill_post_process() {
+
+      if (!window.distillRunlevel || window.distillRunlevel < 4)
+        return;
+
+      // hide author/affiliations entirely if we have no authors
+      var front_matter = JSON.parse($("#distill-front-matter").html());
+      var have_authors = front_matter.authors && front_matter.authors.length > 0;
+      if (!have_authors)
+        $('d-byline').addClass('hidden');
+
+      // article with toc class
+      $('.d-contents').parent().addClass('d-article-with-toc');
+
+      // strip links that point to #
+      $('.authors-affiliations').find('a[href="#"]').removeAttr('href');
+
+      // add orcid ids
+      $('.authors-affiliations').find('.author').each(function(i, el) {
+        var orcid_id = front_matter.authors[i].orcidID;
+        var author_name = front_matter.authors[i].author
+        if (orcid_id) {
+          var a = $('<a></a>');
+          a.attr('href', 'https://orcid.org/' + orcid_id);
+          var img = $('<img></img>');
+          img.addClass('orcid-id');
+          img.attr('alt', author_name ? 'ORCID ID for ' + author_name : 'ORCID ID');
+          img.attr('src','data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAA2ZpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMC1jMDYwIDYxLjEzNDc3NywgMjAxMC8wMi8xMi0xNzozMjowMCAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1NOk9yaWdpbmFsRG9jdW1lbnRJRD0ieG1wLmRpZDo1N0NEMjA4MDI1MjA2ODExOTk0QzkzNTEzRjZEQTg1NyIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDozM0NDOEJGNEZGNTcxMUUxODdBOEVCODg2RjdCQ0QwOSIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDozM0NDOEJGM0ZGNTcxMUUxODdBOEVCODg2RjdCQ0QwOSIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ1M1IE1hY2ludG9zaCI+IDx4bXBNTTpEZXJpdmVkRnJvbSBzdFJlZjppbnN0YW5jZUlEPSJ4bXAuaWlkOkZDN0YxMTc0MDcyMDY4MTE5NUZFRDc5MUM2MUUwNEREIiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOjU3Q0QyMDgwMjUyMDY4MTE5OTRDOTM1MTNGNkRBODU3Ii8+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+84NovQAAAR1JREFUeNpiZEADy85ZJgCpeCB2QJM6AMQLo4yOL0AWZETSqACk1gOxAQN+cAGIA4EGPQBxmJA0nwdpjjQ8xqArmczw5tMHXAaALDgP1QMxAGqzAAPxQACqh4ER6uf5MBlkm0X4EGayMfMw/Pr7Bd2gRBZogMFBrv01hisv5jLsv9nLAPIOMnjy8RDDyYctyAbFM2EJbRQw+aAWw/LzVgx7b+cwCHKqMhjJFCBLOzAR6+lXX84xnHjYyqAo5IUizkRCwIENQQckGSDGY4TVgAPEaraQr2a4/24bSuoExcJCfAEJihXkWDj3ZAKy9EJGaEo8T0QSxkjSwORsCAuDQCD+QILmD1A9kECEZgxDaEZhICIzGcIyEyOl2RkgwAAhkmC+eAm0TAAAAABJRU5ErkJggg==');
+          a.append(img);
+          $(this).append(a);
+        }
+      });
+
+      // hide elements of author/affiliations grid that have no value
+      function hide_byline_column(caption) {
+        $('d-byline').find('h3:contains("' + caption + '")').parent().css('visibility', 'hidden');
+      }
+
+      // affiliations
+      var have_affiliations = false;
+      for (var i = 0; i<front_matter.authors.length; ++i) {
+        var author = front_matter.authors[i];
+        if (author.affiliation !== "&nbsp;") {
+          have_affiliations = true;
+          break;
+        }
+      }
+      if (!have_affiliations)
+        $('d-byline').find('h3:contains("Affiliations")').css('visibility', 'hidden');
+
+      // published date
+      if (!front_matter.publishedDate)
+        hide_byline_column("Published");
+
+      // document object identifier
+      var doi = $('d-byline').find('h3:contains("DOI")');
+      var doi_p = doi.next().empty();
+      if (!front_matter.doi) {
+        // if we have a citation and valid citationText then link to that
+        if ($('#citation').length > 0 && front_matter.citationText) {
+          doi.html('Citation');
+          $('<a href="#citation"></a>')
+            .text(front_matter.citationText)
+            .appendTo(doi_p);
+        } else {
+          hide_byline_column("DOI");
+        }
+      } else {
+        $('<a></a>')
+           .attr('href', "https://doi.org/" + front_matter.doi)
+           .html(front_matter.doi)
+           .appendTo(doi_p);
+      }
+
+       // change plural form of authors/affiliations
+      if (front_matter.authors.length === 1) {
+        var grid = $('.authors-affiliations');
+        grid.children('h3:contains("Authors")').text('Author');
+        grid.children('h3:contains("Affiliations")').text('Affiliation');
+      }
+
+      // remove d-appendix and d-footnote-list local styles
+      $('d-appendix > style:first-child').remove();
+      $('d-footnote-list > style:first-child').remove();
+
+      // move appendix-bottom entries to the bottom
+      $('.appendix-bottom').appendTo('d-appendix').children().unwrap();
+      $('.appendix-bottom').remove();
+
+      // hoverable references
+      $('span.citation[data-cites]').each(function() {
+        const citeChild = $(this).children()[0]
+        // Do not process if @xyz has been used without escaping and without bibliography activated
+        // https://github.com/rstudio/distill/issues/466
+        if (citeChild === undefined) return true
+
+        if (citeChild.nodeName == "D-FOOTNOTE") {
+          var fn = citeChild
+          $(this).html(fn.shadowRoot.querySelector("sup"))
+          $(this).id = fn.id
+          fn.remove()
+        }
+        var refs = $(this).attr('data-cites').split(" ");
+        var refHtml = refs.map(function(ref) {
+          // Could use CSS.escape too here, we insure backward compatibility in navigator
+          return "<p>" + $('div[id="ref-' + ref + '"]').html() + "</p>";
+        }).join("\n");
+        window.tippy(this, {
+          allowHTML: true,
+          content: refHtml,
+          maxWidth: 500,
+          interactive: true,
+          interactiveBorder: 10,
+          theme: 'light-border',
+          placement: 'bottom-start'
+        });
+      });
+
+      // fix footnotes in tables (#411)
+      // replacing broken distill.pub feature
+      $('table d-footnote').each(function() {
+        // we replace internal showAtNode methode which is triggered when hovering a footnote
+        this.hoverBox.showAtNode = function(node) {
+          // ported from https://github.com/distillpub/template/pull/105/files
+          calcOffset = function(elem) {
+              let x = elem.offsetLeft;
+              let y = elem.offsetTop;
+              // Traverse upwards until an `absolute` element is found or `elem`
+              // becomes null.
+              while (elem = elem.offsetParent && elem.style.position != 'absolute') {
+                  x += elem.offsetLeft;
+                  y += elem.offsetTop;
+              }
+
+              return { left: x, top: y };
+          }
+          // https://developer.mozilla.org/en-US/docs/Web/API/HTMLElement/offsetTop
+          const bbox = node.getBoundingClientRect();
+          const offset = calcOffset(node);
+          this.show([offset.left + bbox.width, offset.top + bbox.height]);
+        }
+      })
+
+      // clear polling timer
+      clearInterval(tid);
+
+      // show body now that everything is ready
+      on_load_complete();
+    }
+
+    var tid = setInterval(distill_post_process, 50);
+    distill_post_process();
+
+  }
+
+  function init_downlevel() {
+
+    init_common();
+
+     // insert hr after d-title
+    $('.d-title').after($('<hr class="section-separator"/>'));
+
+    // check if we have authors
+    var front_matter = JSON.parse($("#distill-front-matter").html());
+    var have_authors = front_matter.authors && front_matter.authors.length > 0;
+
+    // manage byline/border
+    if (!have_authors)
+      $('.d-byline').remove();
+    $('.d-byline').after($('<hr class="section-separator"/>'));
+    $('.d-byline a').remove();
+
+    // remove toc
+    $('.d-contents').remove();
+
+    // move appendix elements
+    $('h1.appendix, h2.appendix').each(function(i, val) {
+      $(this).changeElementType('h3');
+    });
+    $('h3.appendix').each(function(i, val) {
+      $(this).nextUntil($('h1, h2, h3')).addBack().appendTo($('.d-appendix'));
+    });
+
+
+    // inject headers into references and footnotes
+    var refs_header = $('<h3></h3>');
+    refs_header.text('References');
+    $('#refs').prepend(refs_header);
+
+    var footnotes_header = $('<h3></h3');
+    footnotes_header.text('Footnotes');
+    $('.footnotes').children('hr').first().replaceWith(footnotes_header);
+
+    // move appendix-bottom entries to the bottom
+    $('.appendix-bottom').appendTo('.d-appendix').children().unwrap();
+    $('.appendix-bottom').remove();
+
+    // remove appendix if it's empty
+    if ($('.d-appendix').children().length === 0)
+      $('.d-appendix').remove();
+
+    // prepend separator above appendix
+    $('.d-appendix').before($('<hr class="section-separator" style="clear: both"/>'));
+
+    // trim code
+    $('pre>code').each(function(i, val) {
+      $(this).html($.trim($(this).html()));
+    });
+
+    // move posts-container right before article
+    $('.posts-container').insertBefore($('.d-article'));
+
+    $('body').addClass('downlevel');
+
+    on_load_complete();
+  }
+
+
+  function init_common() {
+
+    // jquery plugin to change element types
+    (function($) {
+      $.fn.changeElementType = function(newType) {
+        var attrs = {};
+
+        $.each(this[0].attributes, function(idx, attr) {
+          attrs[attr.nodeName] = attr.nodeValue;
+        });
+
+        this.replaceWith(function() {
+          return $("<" + newType + "/>", attrs).append($(this).contents());
+        });
+      };
+    })(jQuery);
+
+    // prevent underline for linked images
+    $('a > img').parent().css({'border-bottom' : 'none'});
+
+    // mark non-body figures created by knitr chunks as 100% width
+    $('.layout-chunk').each(function(i, val) {
+      var figures = $(this).find('img, .html-widget');
+      // ignore leaflet img layers (#106)
+      figures = figures.filter(':not(img[class*="leaflet"])')
+      if ($(this).attr('data-layout') !== "l-body") {
+        figures.css('width', '100%');
+      } else {
+        figures.css('max-width', '100%');
+        figures.filter("[width]").each(function(i, val) {
+          var fig = $(this);
+          fig.css('width', fig.attr('width') + 'px');
+        });
+
+      }
+    });
+
+    // auto-append index.html to post-preview links in file: protocol
+    // and in rstudio ide preview
+    $('.post-preview').each(function(i, val) {
+      if (window.location.protocol === "file:")
+        $(this).attr('href', $(this).attr('href') + "index.html");
+    });
+
+    // get rid of index.html references in header
+    if (window.location.protocol !== "file:") {
+      $('.distill-site-header a[href]').each(function(i,val) {
+        $(this).attr('href', $(this).attr('href').replace(/^index[.]html/, "./"));
+      });
+    }
+
+    // add class to pandoc style tables
+    $('tr.header').parent('thead').parent('table').addClass('pandoc-table');
+    $('.kable-table').children('table').addClass('pandoc-table');
+
+    // add figcaption style to table captions
+    $('caption').parent('table').addClass("figcaption");
+
+    // initialize posts list
+    if (window.init_posts_list)
+      window.init_posts_list();
+
+    // implmement disqus comment link
+    $('.disqus-comment-count').click(function() {
+      window.headroom_prevent_pin = true;
+      $('#disqus_thread').toggleClass('hidden');
+      if (!$('#disqus_thread').hasClass('hidden')) {
+        var offset = $(this).offset();
+        $(window).resize();
+        $('html, body').animate({
+          scrollTop: offset.top - 35
+        });
+      }
+    });
+  }
+
+  document.addEventListener('DOMContentLoaded', function() {
+    if (is_downlevel_browser())
+      init_downlevel();
+    else
+      window.addEventListener('WebComponentsReady', init_distill);
+  });
+
+  </script>
+
+  <!--/radix_placeholder_distill-->
+  <script src="site_libs/header-attrs-2.30/header-attrs.js"></script>
+  <script src="site_libs/popper-2.6.0/popper.min.js"></script>
+  <link href="site_libs/tippy-6.2.7/tippy.css" rel="stylesheet" />
+  <link href="site_libs/tippy-6.2.7/tippy-light-border.css" rel="stylesheet" />
+  <script src="site_libs/tippy-6.2.7/tippy.umd.min.js"></script>
+  <script src="site_libs/anchor-4.2.2/anchor.min.js"></script>
+  <script src="site_libs/bowser-1.9.3/bowser.min.js"></script>
+  <script src="site_libs/webcomponents-2.0.0/webcomponents.js"></script>
+  <script src="site_libs/distill-2.2.21/template.v2.js"></script>
+  <!--radix_placeholder_site_in_header-->
+  <!--/radix_placeholder_site_in_header-->
+
+
+</head>
+
+<body>
+
+<!--radix_placeholder_front_matter-->
+
+<script id="distill-front-matter" type="text/json">
+{"title":"Publications","authors":[]}
+</script>
+
+<!--/radix_placeholder_front_matter-->
+<!--radix_placeholder_navigation_before_body-->
+<header class="header header--fixed" role="banner">
+<nav class="distill-site-nav distill-site-header">
+<div class="nav-left">
+<a href="index.html" class="title">Mathew da Costa Marques</a>
+</div>
+<div class="nav-right">
+<a href="about.html">About</a>
+<a href="publications.html">Publications</a>
+<a href="media.html">Media</a>
+<a href="javascript:void(0);" class="nav-toggle">&#9776;</a>
+</div>
+</nav>
+</header>
+<!--/radix_placeholder_navigation_before_body-->
+<!--radix_placeholder_site_before_body-->
+<!--/radix_placeholder_site_before_body-->
+
+<div class="d-title">
+<h1>Publications</h1>
+
+<!--radix_placeholder_categories-->
+<!--/radix_placeholder_categories-->
+
+</div>
+
+
+<div class="d-article">
+<div class="d-contents d-contents-float">
+<nav class="l-text toc figcaption" id="TOC">
+<h3>Contents</h3>
+<ul>
+<li><a href="#conspiracy-theories" id="toc-conspiracy-theories">Conspiracy Theories</a></li>
+<li><a href="#science-attitudes" id="toc-science-attitudes">Science attitudes</a></li>
+<li><a href="#vaccination" id="toc-vaccination">Vaccination</a></li>
+<li><a href="#body-image" id="toc-body-image">Body image</a></li>
+<li><a href="#other-publications" id="toc-other-publications">Other publications</a></li>
+</ul>
+</nav>
+</div>
+<script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
+<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+<h2 id="conspiracy-theories">Conspiracy Theories</h2>
+<div style="display: flex">
+<p><strong>Marques, M.D.</strong> (2025). Patient autonomy in decision-making is more than individual belief: Understanding why health misinformation and conspiracy theories are so appealing. <em>Patient Education and Counseling, 139</em>, 109233. <a href="https://doi.org/10.1016/j.pec.2025.109233">https://doi.org/10.1016/j.pec.2025.109233</a>
+<a href="https://doi.org/10.31234/osf.io/mxthu_v1">[PDF]</a>
+<em>Impact Factor = 2.9</em></p>
+</div>
+<div style="display: flex; justify-content: space-between; width: 140px;">
+<div class="altmetric-embed" data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.pec.2025.109233" data-hide-no-mentions="true">
+
+</div>
+<span class="__dimensions_badge_embed__" data-doi="10.1016/j.pec.2025.109233" data-legend="hover-right" data-style="small_circle" data-hide-zero-citations="true"></span>
+<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+</div>
+<details>
+<summary>
+<font size="3">Abstract</font>
+</summary>
+<font size="3"> We live in a world filled with more information that is easier to access than ever before. Over 20 years ago, approximately 5% of all online searches related to health or medical information [1]. More recently in 2017, nearly 75% of Americans used the internet as their primary source for medical and health information [2], and approximately 50% of Australian emergency department patients went online to search for health-related information [3]. In Patient Education and Counselling, Rubinelli [4] offers a thoughtful discussion piece that considers the risk to patient autonomy in an online world filled with health (mis)information.</font>
+</details>
+<p><br></p>
+<div style="display: flex">
+<p>Toribio-Florez, D., Altenmuller, M.S., Douglas, K.M., Gollwitzer, M., Adinugroho, I., …, <strong>Marques, M.D.</strong>, …, &amp; Wojcik, D. (2025). Victims of conspiracies? A cross-national examination of the relationship between conspiracy beliefs and victim justice sensitivity. <em>European Journal of Social Psychology</em>.
+<a href="https://doi.org/10.1002/ejsp.70008">https://doi.org/10.1002/ejsp.70008</a>
+<a href="https://osf.io/bjkph_v2/">[PDF]</a><br>
+<em>Impact Factor = 2.22</em></p>
+</div>
+<div style="display: flex; justify-content: space-between; width: 140px;">
+<div class="altmetric-embed" data-badge-popover="right" data-badge-type="donut" data-doi="10.1002/ejsp.70008" data-hide-no-mentions="true">
+
+</div>
+<span class="__dimensions_badge_embed__" data-doi="10.1002/ejsp.70008" data-legend="hover-right" data-style="small_circle" data-hide-zero-citations="true"></span>
+<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+</div>
+<details>
+<summary>
+<font size="3">Abstract</font>
+</summary>
+<font size="3"> Conspiracy beliefs have been linked to perceptions of collective victimhood. We adopt an individual perspective on victimhood by investigating the relationship between conspiracy beliefs and the individual disposition to perceive and react to injustice as a victim (i.e., victim justice sensitivity; VJS). Data from two German samples (<em>Ns</em> = 370, 373) indicated a positive association between VJS and conspiracy mentality beyond conceptually related covariates (e.g., mistrust). In a multinational sample from 15 countries (<em>N</em> = 14,978), VJS was positively associated with both general and specific conspiracy beliefs (about vaccines and climate change) within countries, though these associations varied across countries. However, economic, sociopolitical, and cultural country-level factors that might explain the cross-country variability (e.g., GDP, Human Freedom Index, Individualism-Collectivism), including indices of collective exposure to direct violence, did not moderate the studied associations. Future research should investigate the association between victimhood and conspiracy beliefs considering both intraindividual and intergroup perspectives.</font>
+</details>
+<p><br></p>
+<div style="display: flex">
+<p>Williams, M.N., <strong>Marques, M.D.</strong>, Kerr, J.R., Hill, S.R., Ling, M., &amp; Clarke, E.J.R. (2025). Does developing a belief in one conspiracy theory lead a person to be more likely to believe in others? <em>European Journal of Social Psychology, 55</em>(4), 554-564.
+<a href="https://doi.org/10.1002/ejsp.3153">https://doi.org/10.1002/ejsp.3153</a>
+<a href="https://osf.io/qpgvh_v1">[PDF]</a><br>
+<em>Impact Factor = 2.22</em></p>
+</div>
+<div style="display: flex; justify-content: space-between; width: 140px;">
+<div class="altmetric-embed" data-badge-popover="right" data-badge-type="donut" data-doi="10.1002/ejsp.3153" data-hide-no-mentions="true">
+
+</div>
+<span class="__dimensions_badge_embed__" data-doi="10.1002/ejsp.3153" data-legend="hover-right" data-style="small_circle" data-hide-zero-citations="true"></span>
+<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+</div>
+<details>
+<summary>
+<font size="3">Abstract</font>
+</summary>
+<font size="3">The monological belief system model (Goertzel, 1994) suggests that—for at least a subset of people—developing a belief in one conspiracy theory will <em>cause</em> them to be more likely to believe in others. This model has been influential in the literature, but its core causal hypothesis has never been credibly tested. We therefore tested it in two longitudinal studies. Study 1 used a sample from New Zealand and Australia (<em>N</em> = 498), with 7 monthly waves. Study 2 (preregistered) used a sample from New Zealand, Australia and the United Kingdom (<em>N</em> = 978), with 13 monthly waves. We applied random intercept cross-lagged panel models, permitting a credible causal identification strategy, albeit we cannot rule out time-varying confounds. We find that increased belief in a conspiracy theory at one wave did (on average) lead to increased belief in other conspiracies at the next wave, although the estimated effects were small.</font>
+</details>
+<p><br></p>
+<div style="display: flex">
+<p><strong>Marques, M.D.</strong>, Kerr, J.R., Stukas, A.A., &amp; McLennan, J. (2024). The Effect of Scientific Conspiracy Theories on Scepticism Towards Biotechnologies. <em>Public Understanding of Science, 34</em>(5), 646-664.
+<a href="https://journals.sagepub.com/doi/10.1177/09636625241300896">https://doi.org/10.1177/09636625241300896</a>
+<a href="https://osf.io/preprints/psyarxiv/y6hj2">[PDF]</a><br>
+<em>Impact Factor = 3.5</em></p>
+</div>
+<div style="display: flex; justify-content: space-between; width: 140px;">
+<div class="altmetric-embed" data-badge-popover="right" data-badge-type="donut" data-doi="10.1177/09636625241300896" data-hide-no-mentions="true">
+
+</div>
+<span class="__dimensions_badge_embed__" data-doi="10.1177/09636625241300896" data-legend="hover-right" data-style="small_circle" data-hide-zero-citations="true"></span>
+<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+</div>
+<details>
+<summary>
+<font size="3">Abstract</font>
+</summary>
+<font size="3">Many conspiracy theories implicate scientists and science. We investigated the impact of exposure to scientific conspiracies about biotechnologies. Across three pre-registered online studies (<em>Ns</em>=1,000), participants who read information about conspiracies involving agribiotechnology companies or biobank scientists were more likely to endorse conspiracies. Other effects of exposure to conspiracy information were mixed. In Study 1, reading about an agricultural biotechnology conspiracy had a small significant effect on reducing intentions to eat Genetically Modified food. In Study 2, exposure to a conspiracy involving biobank scientists decreased support for biobanks, mediated by decreased trust in biobank scientists. In Study 3, this conspiracy had no effect on wider beliefs of the role of science in society (science populism), nor support of Genetically Modified food-promoting policies. Overall, we found that exposure to conspiracies involving scientific claims increased conspiracy belief endorsement and can further negative effects. However, the effects of conspiracies on science populism appears limited</font>
+</details>
+<p><br></p>
+<div style="display: flex">
+<p>Albath, E.A., Greifeneder, R., Douglas, K.M., Cichocka, A., <strong>Marques, M.D.</strong>, Wilson, M.S., Kerr, J.R., Sibley, C.G., &amp; Osborne, D. (2024). Does Lower Psychological Need Satisfaction Foster Conspiracy Belief? Longitudinal Effects Over Three Years in New Zealand. <em>Personality and Social Psychology Bulletin</em>.
+<a href="https://journals.sagepub.com/doi/10.1177/01461672241292841">https://doi.org/10.1177/01461672241292841</a>
+<a href="https://doi.org/10.1177/01461672241292841">[PDF]</a><br>
+<em>Impact Factor = 3.4</em></p>
+</div>
+<div style="display: flex; justify-content: space-between; width: 140px;">
+<div class="altmetric-embed" data-badge-popover="right" data-badge-type="donut" data-doi="10.1177/01461672241292841" data-hide-no-mentions="true">
+
+</div>
+<span class="__dimensions_badge_embed__" data-doi="10.1177/01461672241292841" data-legend="hover-right" data-style="small_circle" data-hide-zero-citations="true"></span>
+<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+</div>
+<details>
+<summary>
+<font size="3">Abstract</font>
+</summary>
+<font size="3">Although conspiracy belief may arise from a motivation to restore psychological needs, research has yet to investigate the relationship between psychological need satisfaction and conspiracy belief over time. Using three annual waves of panel data in New Zealand (2019-2022; <em>N</em> = 50,505), we examined the relationship between conspiracy belief and four psychological needs (namely, belonging, control, meaning in life, and self-esteem). Results from a random-intercept cross-lagged panel model revealed stable between-person effects indicating that those whose core needs are generally unmet tend to exhibit higher levels of conspiracy belief. The within-person associations further demonstrate that the frustration of control and belonging needs temporally precede increases in conspiracy belief, but these cross-lagged associations vary across waves and may depend on external factors (e.g., the start of a pandemic). These data provide novel insights into the psychological factors that foster conspiracy belief and suggest that within-person longitudinal associations may be context-dependent.</font>
+</details>
+<p><br></p>
+<div style="display: flex">
+<p>Williams, M.N. Ling, M., Kerr, J.R., Hill, S.R., <strong>Marques, M.D.</strong>, Mawson, H., &amp; Clarke, E.J.R. (2024). People do change their beliefs about conspiracy theories—but not often. <em>Scientific Reports, 14</em>, 3836.
+<a href="https://www.nature.com/articles/s41598-024-51653-z">https://doi.org/10.1038/s41598-024-51653-z</a>
+<a href="https://psyarxiv.com/5q2ky/">[PDF]</a><br>
+<em>Impact Factor = 4.6</em></p>
+</div>
+<div style="display: flex; justify-content: space-between; width: 140px;">
+<div class="altmetric-embed" data-badge-popover="right" data-badge-type="donut" data-doi="10.1038/s41598-024-51653-z" data-hide-no-mentions="true">
+
+</div>
+<span class="__dimensions_badge_embed__" data-doi="10.1038/s41598-024-51653-z" data-legend="hover-right" data-style="small_circle" data-hide-zero-citations="true"></span>
+<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+</div>
+<details>
+<summary>
+<font size="3">Abstract</font>
+</summary>
+<font size="3">Recent research has produced a significant body of knowledge about the antecedents and consequences of individual differences in belief in conspiracy theories. What is less clear, however, is the extent to which individuals’ beliefs in conspiracy theories vary over time (i.e., <em>within-person</em> variation). In this descriptive and exploratory study, we therefore aimed to describe within-person variability in belief in conspiracy theories. We collected data from 498 Australians and New Zealanders using an online longitudinal survey, with data collected at monthly intervals over 6 months (March to September 2021). Our measure of conspiracy theories included items describing ten conspiracy theories with responses on a 5-point Likert scale. While there was substantial between-person variance, there was much less within-person variance (intraclass <em>r</em> = 0.91). This suggests that beliefs in conspiracy theories were highly stable in our sample. This stability implies that longitudinal studies testing hypotheses about the causes and consequences of belief in conspiracy theories may require large samples of participants and time points to achieve adequate power. It also implies that explanations of belief in conspiracy theories need to accommodate the observation that beliefs in such theories vary much more between people than within people.</font>
+</details>
+<p><br></p>
+<div style="display: flex">
+<p>Coelho, P., Foster, K., Nedri, M., &amp; <strong>Marques, M.D.</strong> (2022). Increased belief in vaccination conspiracy theories predicts increases in vaccination hesitancy and powerlessness: Results from a longitudinal study. <em>Social Science &amp; Medicine, 315</em>, 115522.
+<a href="https://www.sciencedirect.com/science/article/pii/S0277953622008280">https://doi.org/10.1016/j.socscimed.2022.115522</a>
+<a href="https://psyarxiv.com/gx58v/">[PDF]</a><br>
+<em>Impact Factor = 5.379</em></p>
+</div>
+<div style="display: flex; justify-content: space-between; width: 140px;">
+<div class="altmetric-embed" data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.socscimed.2022.115522" data-hide-no-mentions="true">
+
+</div>
+<span class="__dimensions_badge_embed__" data-doi="10.1016/j.socscimed.2022.115522" data-legend="hover-right" data-style="small_circle" data-hide-zero-citations="true"></span>
+<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+</div>
+<details>
+<summary>
+<font size="3">Abstract</font>
+</summary>
+<font size="3"><em>Rationale</em>: Vaccinations are an important part of a public health strategy against preventable diseases, and uptake is influenced by factors including hesitancy. The belief of vaccine related misinformation including anti-vaccination conspiracy theories has been found to be associated with increased vaccine hesitancy.
+<em>Objective</em>: While research suggests that these conspiracy theory beliefs may arise to satisfy unmet needs such as restoring loss of personal control, somewhat ironically these anti-vaccination conspiracy theories may frustrate these needs. This study examined the causal relationships between vaccination hesitancy, vaccination conspiracy theories, and vaccination related powerlessness.
+<em>Methods</em>: Using a stationary random intercepts cross lagged panel model, we investigated the temporal ordering of vaccination hesitancy, powerlessness, and vaccination conspiracy theory beliefs in a sample of Australian adults (N = 500) in a longitudinal study with 5-timepoints over 4-months between June and October 2021.
+<em>Results</em>: Results from a random intercept cross-lagged model, that separates between-person stability from within-person change, suggested that increased belief in vaccination conspiracy theories was associated with future increases in vaccination hesitancy and powerlessness (but not vice versa). Findings also showed that increases in vaccination hesitancy and conspiracy theory beliefs predicted respective increases from a person’s trait-level mean at subsequent timepoints.
+<em>Conclusions</em>: Vaccination conspiracy theories appear to increase vaccination powerlessness and hesitancy, rather than satisfying an unmet need for personal control.</font>
+</details>
+<p><br></p>
+<div style="display: flex">
+<p><strong>Marques, M.D.</strong>, Hill, S.R., Clarke, E.J.R., Williams, M.N., Ling, M., Kerr, J.R., Douglas, K.M., Cichocka,
+A., &amp; Sibley, C.G. (2022). Democracy and belief in conspiracy theories in
+New Zealand. <em>Australian Journal of Political Science, 57</em>(3), 264-279. <a href="https://www.tandfonline.com/doi/full/10.1080/10361146.2022.2122773">https://doi.org/10.1080/10361146.2022.2122773</a> <a href="https://psyarxiv.com/s8qf4/">[PDF]</a><br>
+<em>Impact Factor = 1.2</em></p>
+</div>
+<div style="display: flex; justify-content: space-between; width: 140px;">
+<div class="altmetric-embed" data-badge-popover="right" data-badge-type="donut" data-doi="10.1080/10361146.2022.2122773" data-hide-no-mentions="true">
+
+</div>
+<span class="__dimensions_badge_embed__" data-doi="10.1080/10361146.2022.2122773" data-legend="hover-right" data-style="small_circle" data-hide-zero-citations="true"></span>
+<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+</div>
+<details>
+<summary>
+<font size="3">Abstract</font>
+</summary>
+<font size="3">The COVID-19 pandemic supercharged the spread of fake news, misinformation, and conspiracy theories worldwide. Using a national probability sample of adults fromthe New Zealand Attitudes and Values Study during 2020 (17–99 years old; <em>M</em> = 48.59, <em>SD</em> = 13.86; 63% women, 37% men; <em>N</em> = 41,487), we examined the associations between agreement with general conspiracy beliefs and political indicators of intention to vote and satisfaction with government, alongside political factors includingtrust in politicians, political efficacy, identity centrality, and political ideology. Left-wing political ideology, trust in politicians, and political efficacy accounted for most of the explained variance in satisfaction with the government. General conspiracy belief was also a unique contributor to lower satisfaction with the government. We also found a curvilinear relationship between political ideology with heightened belief in conspiracies at both ideological extremes and the centre. Findings are discussed in terms of the consequences of conspiracy belief on democratic engagement.</font>
+</details>
+<p><br></p>
+<div style="display: flex">
+<p>Jolley, D., <strong>Marques, M.D.</strong>, &amp; Cookson, D. (2022). Shining a spotlight on the dangerous consequences of
+conspiracy theories. Special issue in <em>Current Opinion in Psychology, 47</em>, 101363. <a href="https://www.sciencedirect.com/science/article/pii/S2352250X22000823">https://doi.org/10.1016/j.copsyc.2022.101363</a> <a href="https://www.sciencedirect.com/science/article/pii/S2352250X22000823/pdfft?md5=dfc9f1758690aabb2b0a34f5690c5723&amp;pid=1-s2.0-S2352250X22000823-main.pdf">[PDF]</a><br>
+<em>Impact Factor = 6.813</em></p>
+</div>
+<div style="display: flex; justify-content: space-between; width: 140px;">
+<div class="altmetric-embed" data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.copsyc.2022.101363" data-hide-no-mentions="true">
+
+</div>
+<span class="__dimensions_badge_embed__" data-doi="10.1016/j.copsyc.2022.101363" data-legend="hover-right" data-style="small_circle" data-hide-zero-citations="true"></span>
+<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+</div>
+<details>
+<summary>
+<font size="3">Abstract</font>
+</summary>
+<font size="3">The COVID-19 pandemic has illuminated how conspiracy beliefs–that explain important events as the secret actions of the powerful–can severely impact health choices (such as reduced infection-prevention behaviours). However, the consequences of conspiracy beliefs span far beyond the topic of COVID-19. This review shines a spotlight on how conspiracy beliefs could impact public and personal health (e.g., vaccine uptake), democratic citizenship (e.g., political engagement), intergroup relations (e.g., prejudice and discrimination), and may inspire violence and extremism. We argue that conspiracy beliefs are likely to have the power to mobilise citizens in ways detrimental to a smooth-running society. We conclude the review by offering a range of fruitful avenues for future investigation.</font>
+</details>
+<p><br></p>
+<div style="display: flex">
+<p><strong>Marques, M.D.</strong>, Douglas, K.M., &amp; Jolley, D. (2022). Practical recommendations to communicate with
+patients about health-related conspiracy theories. <em>The Medical Journal of Australia, 216</em>(8),
+381-384. <a href="https://onlinelibrary.wiley.com/doi/10.5694/mja2.51475">https://doi.org/10.5694/mja2.51475</a> <a href="https://onlinelibrary.wiley.com/doi/pdf/10.5694/mja2.51475">[PDF]</a><br>
+<em>Impact Factor = 7.738</em></p>
+</div>
+<div style="display: flex; justify-content: space-between; width: 140px;">
+<div class="altmetric-embed" data-badge-popover="right" data-badge-type="donut" data-doi="10.5694/mja2.51475" data-hide-no-mentions="true">
+
+</div>
+<span class="__dimensions_badge_embed__" data-doi="10.5694/mja2.51475" data-legend="hover-right" data-style="small_circle" data-hide-zero-citations="true"></span>
+<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+</div>
+<details>
+<summary>
+<font size="3">Abstract</font>
+</summary>
+<font size="3">Health-related conspiracy theories often advance the argument that information is being kept secret from the public by powerful individuals or groups within the government or health industry. They are widespread and are associated with important health attitudes, intentions, and behaviours. Recent research suggests that individuals are attracted to conspiracy theories to satisfy three important and fundamental psychological needs: epistemic, existential, and social needs. Understanding these underlying motivations associated with health-related conspiracy theories can help address patients’ beliefs. Debunking and inoculation are discussed as approaches that can be used to address patients’ belief in health-related conspiracy theories.</font>
+</details>
+<p><br></p>
+<div style="display: flex">
+<p><strong>Marques, M.D.</strong>, Ling, M., Williams, M.N., Kerr, J.R., &amp; McLennan, J. (2022). Australasian public
+awareness and belief in conspiracy theories: Motivational correlates. <em>Political Psychology,
+43</em>(1), 177-198. <a href="https://onlinelibrary.wiley.com/doi/10.1111/pops.12746">https://doi.org/10.1111/pops.12746</a> <a href="https://psyarxiv.com/vr896/">[PDF]</a><br>
+<em>Impact Factor = 4.333</em></p>
+</div>
+<div style="display: flex; justify-content: space-between; width: 140px;">
+<div class="altmetric-embed" data-badge-popover="right" data-badge-type="donut" data-doi="10.1111/pops.12746" data-hide-no-mentions="true">
+
+</div>
+<span class="__dimensions_badge_embed__" data-doi="10.1111/pops.12746" data-legend="hover-right" data-style="small_circle" data-hide-zero-citations="true"></span>
+<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+</div>
+<details>
+<summary>
+<font size="3">Abstract</font>
+</summary>
+<font size="3">Belief in conspiracies is not restricted to the fringe dwellers of society. International research suggests that such beliefs are quite common and that conspiracy theories may serve three basic psychological motives (i.e., epistemic, existential, and relational) for individuals. Yet, little is known about conspiracy theory awareness or belief in Australasia. We report the first large systematic investigation of system justifying motives using twonationally representative samples of Australians (<em>n</em> = 1,011) and New Zealanders (<em>n</em> = 754). Our findings show that almost all are aware of local and international conspiracies, the majority endorse one or more, and that all three psychological motives consistently relate to conspiracy belief, but not to awareness. In a series of hierarchical multiple regressions, we find that relational (i.e., increased anomie and disillusionment with the government) and existential motives (i.e., less trust in others and increased religiosity) are uniquely and relatively more important than epistemic needs (i.e., decreased analytic thinking) as predictors of increased local and international conspiracy belief. Findings are discussed in terms of the importance of understanding conspiracy theories as an ideological belief system that may function to serve underlying psychological motives.</font>
+</details>
+<p><br></p>
+<div style="display: flex">
+<p>Williams, M.N., <strong>Marques, M.D.</strong>, Hill, S.R., Kerr, J.R., &amp; Ling, M. (2022). Why are beliefs in different conspiracy theories positively correlated across individuals? Testing monological network vs. unidimensional factor model explanations. Registered report. <em>British Journal of Social Psychology, 61</em>(3), 1011-1031. <a href="https://bpspsychub.onlinelibrary.wiley.com/doi/10.1111/bjso.12518">https://doi.org/10.1111/bjso.12518</a> <a href="https://psyarxiv.com/xyf46/">[PDF]</a><br>
+<em>Impact Factor = 4.691</em></p>
+</div>
+<div style="display: flex; justify-content: space-between; width: 140px;">
+<div class="altmetric-embed" data-badge-popover="right" data-badge-type="donut" data-doi="10.1111/bjso.12518" data-hide-no-mentions="true">
+
+</div>
+<span class="__dimensions_badge_embed__" data-doi="10.1111/bjso.12518" data-legend="hover-right" data-style="small_circle" data-hide-zero-citations="true"></span>
+<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+</div>
+<details>
+<summary>
+<font size="3">Abstract</font>
+</summary>
+<font size="3">A substantial minority of the public express belief in conspiracy theories. A robust phenomenon in this area is that people who believe one conspiracy theory are more likely to believe in others. But the reason for this “positive manifold” of belief in conspiracy theories is unclear. One possibility is that a single underlying latent factor (e.g., “conspiracism”) causes variation in belief in specific conspiracy theories. Another possibility is that beliefs in various conspiracy theories support one another in a mutually reinforcing network of beliefs (the “monological belief system” theory). While the monological theory has been influential in the literature, the fact that it can be operationalised as a statistical network model has not previously been recognised . In this study, we therefore tested both the unidimensional factor model and the monological/network model. Participants were 1553 American adults recruited via Prolific. Belief in conspiracies was measured using an adapted version of the Belief in Conspiracy Theories Inventory. The fit of the two competing models was evaluated both by using van Bork et al.’s (2018, 2019) method for testing network vs. unidimensional factor models, as well as by evaluating goodness of fit to the sample covariance matrix. In both cases, evaluation of fit according to our preregistered inferential criteria favoured the network model. This finding is consistent with the monological belief system theory, and inconsistent with a unidimensional factor model explanation.</font>
+</details>
+<p><br></p>
+<div style="display: flex">
+<p><strong>Marques, M.D.</strong>, Kerr, J.R., Williams, M.N., Ling, M., &amp; McLennan, J. (2021). Associations between
+conspiracism and the rejection of scientific innovations. <em>Public Understanding of Science, 30</em>(7), 854-867. <a href="https://journals.sagepub.com/doi/10.1177/09636625211007013">https://doi.org/10.1177/09636625211007013</a> <a href="https://psyarxiv.com/y9mnb/">[PDF]</a><br>
+<em>Impact Factor = 3.702</em></p>
+</div>
+<div style="display: flex; justify-content: space-between; width: 140px;">
+<div class="altmetric-embed" data-badge-popover="right" data-badge-type="donut" data-doi="10.1177/09636625211007013" data-hide-no-mentions="true">
+
+</div>
+<span class="__dimensions_badge_embed__" data-doi="10.1177/09636625211007013" data-legend="hover-right" data-style="small_circle" data-hide-zero-citations="true"></span>
+<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+</div>
+<details>
+<summary>
+<font size="3">Abstract</font>
+</summary>
+<font size="3">Public opinion regarding scientific developments such as genetically modified (GM) food canbe mixed. We suggest such science-based technological innovations are rejected by some because they are perceived to be advanced as part of a conspiracy. In nationally representative samples (Australia <em>n</em> = 1,011; New Zealand <em>n</em> = 754) we report the associations between five conspiracism facets and anti-science attitudes. Results indicate broad public opposition to GM food and use of nuclear power, but more acceptance of renewable power, potable recycled water, 5G networks, and childhood vaccinations. There were small to moderate associations between the rejection of scientific innovations and conspiracism. Multivariate models estimating unique associations of conspiracism facets with anti-science attitudes suggested several novel and important relationships, particularly for childhood vaccination, GM food, and 5G networks. We discuss the importance of examining factors such as conspiracism in understanding what may motivate and sustain rejection of scientific evidence-based claims about socially contentious technological innovations.</font>
+</details>
+<p><br></p>
+<div style="display: flex">
+<p>Natoli, E.E., &amp; <strong>Marques, M.D.</strong> (2021). The antidepressant hoax: Conspiracy theories decrease health-seeking intentions. <em>British Journal of Social Psychology, 60</em>(3), 902-923. <a href="https://bpspsychub.onlinelibrary.wiley.com/doi/10.1111/bjso.12426">https://doi.org/10.1111/bjso.12426</a> <a href="https://psyarxiv.com/8aedm/">[PDF]</a><br>
+<em>Impact Factor = 4.691</em></p>
+</div>
+<div style="display: flex; justify-content: space-between; width: 140px;">
+<div class="altmetric-embed" data-badge-popover="right" data-badge-type="donut" data-doi="10.1111/bjso.12426" data-hide-no-mentions="true">
+
+</div>
+<span class="__dimensions_badge_embed__" data-doi="10.1111/bjso.12426" data-legend="hover-right" data-style="small_circle" data-hide-zero-citations="true"></span>
+<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+</div>
+<details>
+<summary>
+<font size="3">Abstract</font>
+</summary>
+<font size="3">Health-related conspiracy theories can undermine the trustworthiness of actors and institutions and may impact an individual’s intention to seek help. Across 3 experimental studies we investigated the consequences of exposure to an antidepressant conspiracy theory on general intentions to seek medical and psychological help. Study 1 participants (<em>N</em> = 299) were randomly allocated to read one of three articles (pro-conspiracy, anti-conspiracy, control) after which they completed measures of conspiracy endorsement, trust, powerlessness and health-seeking intentions. Results suggested that exposure to antidepressant conspiracy theories significantly reduced individual’s intention to seek help indirectly through decreased trust in health authorities, but not health-industry related powerlessness. In two additional pre-registered studies we found some support for these findings. While Study 2 (<em>N</em> = 244) found no support for a direct or indirect relationship between conspiracy exposure and health-seeking intentions, an exploratory analysis highlighted the importance of gender differences when investigating conspiracy exposure on intentions. Study 3 (<em>N</em> = 247) replicated Study 1 findings, highlighting that antidepressant conspiracy theories decrease health-seeking intentions indirectly through decreased trust and increased powerlessness. Mere exposure to antidepressant conspiracy theories had significant indirect consequences on general health-seeking intentions.</font>
+</details>
+<h2 id="science-attitudes">Science attitudes</h2>
+<div style="display: flex">
+<p>Cologna, V., Meiler, S., Kropf, C.M., Lüthi, S., Mede, N.G., Bresch, D.N., …, <strong>Marques, M.D.</strong>, … et al. (2025). Extreme weather event attribution predicts climate policy support across the world. <em>Nature Climate Change, 15</em>, 725–735. <a href="https://www.nature.com/articles/s41558-025-02372-4#Abs1">https://doi.org/10.1038/s41558-025-02372-4</a><a href="https://www.nature.com/articles/s41558-025-02372-4.pdf">[PDF]</a><br>
+<em>Impact Factor = 27.1</em></p>
+</div>
+<div style="display: flex; justify-content: space-between; width: 140px;">
+<div class="altmetric-embed" data-badge-popover="right" data-badge-type="donut" data-doi="10.1038/s41558-025-02372-4" data-hide-no-mentions="true">
+
+</div>
+<span class="__dimensions_badge_embed__" data-doi="10.1038/s41558-025-02372-4" data-legend="hover-right" data-style="small_circle" data-hide-zero-citations="true"></span>
+<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+</div>
+<details>
+<summary>
+<font size="3">Abstract</font>
+</summary>
+<font size="3">Extreme weather events are becoming more frequent and intense due to climate change. Yet, little is known about the relationship between exposure to extreme events, subjective attribution of these events to climate change, and climate policy support, especially in the Global South. Combining large-scale natural and social science data from 68 countries (<em>N</em> = 71,922), we develop a measure of exposed population to extreme weather events and investigate whether exposure to extreme weather and subjective attribution of extreme weather to climate change predict climate policy support. We find that most people support climate policies and link extreme weather events to climate change. Subjective attribution of extreme weather was positively associated with policy support for five widely discussed climate policies. However, exposure to most types of extreme weather event did not predict policy support. Overall, these results suggest that subjective attribution could facilitate climate policy support.
+</font>
+</details>
+<p><br></p>
+<div style="display: flex">
+<p>Stanley, S.K., Ghasemi, O., Kerr, J.R., Ross, R.M., <strong>Marques, M.D.</strong>, Mede, N.M., Berger, S., Alfano, M., Levy, N., Ferreiram M., &amp; Cologna, V. (2025). Community attitudes towards advancing climate justice with climate aid. <em>Journal of Environmental Psychology, 106</em>, 102679. <a href="https://www.sciencedirect.com/science/article/pii/S0272494425001628">https://doi.org/10.1016/j.jenvp.2025.102679</a><a href="https://www.sciencedirect.com/science/article/pii/S0272494425001628/pdfft?md5=2cd8812f568cc4020504ba879cfb8170&amp;pid=1-s2.0-S0272494425001628-main.pdf">[PDF]</a><br>
+<em>Impact Factor = 7.0</em></p>
+</div>
+<div style="display: flex; justify-content: space-between; width: 140px;">
+<div class="altmetric-embed" data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.jenvp.2025.102679" data-hide-no-mentions="true">
+
+</div>
+<span class="__dimensions_badge_embed__" data-doi="10.1016/j.jenvp.2025.102679" data-legend="hover-right" data-style="small_circle" data-hide-zero-citations="true"></span>
+<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+</div>
+<details>
+<summary>
+<font size="3">Abstract</font>
+</summary>
+<font size="3">Research on support for climate policies has predominantly focused on support for mitigation policies. Research remains scarce on public support for climate aid policy (i.e., adaptation policies that direct support to those most affected by climate change). The justice implications of unmitigated climate change loom large, yet it is currently unclear to what extent people view climate change as an inequality issue. To investigate this, we surveyed participants from the United Kingdom (<em>n</em> = 531), United States (<em>n</em> = 528), Australia (<em>n</em> = 1450), and New Zealand (<em>n</em> = 1022) on attitudes about climate change inequality, experiences of climate emotions, support for climate aid policy, as well as their political orientation. Those who reported greater agreement that climate change is an inequality issue also reported experiencing more intense negative emotions about climate change and greater support for climate aid policy. We propose a theoretical model whereby political conservatives are less likely to see climate change as an inequality issue, which could account for their lower support for climate aid policy and their more muted emotional response to climate change. We find preliminary support for this model using mediation analyses. Our findings suggest that in these four nations, beliefs about the inequality in who causes climate change and who suffers its worst consequences may be relevant to community support for the implementation of climate aid policy.
+</font>
+</details>
+<p><br></p>
+<div style="display: flex">
+<p>Ghasemi, O., Cologna, V., Mede, N.G., Stanley, S.K., Strahm, N., Ross, R., Alfano, M., Kerr, J.R, <strong>Marques, M.D.</strong>, Berger, S., Besley, J.C., Brick, C., Joubert, M., Maibach, E., Mihelj, S., Newell, B.R., Oreskes, N., &amp; Schäfer, M.S. (2025). Gaps in public trust between scientists and climate scientists: a 68 country study. <em>Environmental Research Letters, 20</em>(6), 061002.
+<a href="https://iopscience.iop.org/article/10.1088/1748-9326/add1f9">https://doi.org/10.1088/1748-9326/add1f9</a> <a href="https://iopscience.iop.org/article/10.1088/1748-9326/add1f9/pdf">[PDF]</a><br>
+<em>Impact Factor = 5.8</em></p>
+</div>
+<div style="display: flex; justify-content: space-between; width: 140px;">
+<div class="altmetric-embed" data-badge-popover="right" data-badge-type="donut" data-doi="10.1088/1748-9326/add1f9" data-hide-no-mentions="true">
+
+</div>
+<span class="__dimensions_badge_embed__" data-doi="10.1088/1748-9326/add1f9" data-legend="hover-right" data-style="small_circle" data-hide-zero-citations="true"></span>
+<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+</div>
+<details>
+<summary>
+<font size="3">Abstract</font>
+</summary>
+<font size="3">This study compares public trust in climate scientists and scientists in general across 68 countries (<em>N</em> = 69,534). On average, participants reported moderately high levels of trust in climate scientists, with trust levels being slightly lower than trust in scientists in general. Overall, this trust gap was larger among participants who identified as politically conservative or right-leaning, but there was considerable variation across countries
+</font>
+</details>
+<p><br></p>
+<div style="display: flex">
+<p>Stanley, S.K., Ghasemi, O., Ross, R.M., Kerr, J.K., <strong>Marques, M.D.</strong>, Alfano, M., Levy, N., Ferreira, M., Cologna, V., Mede, N.G., &amp; Berger, S. (2025). Anticipatory solastalgia in the Antipodes: Evidence of future-oriented distress about environmental change in Australia and New Zealand. <em>The Journal of Climate Change and Health, 23,</em> 100415.
+<a href="https://www.sciencedirect.com/science/article/pii/S2667278225000057/">https://doi.org/10.1016/j.joclim.2025.100415</a><br>
+<em>CiteScore = 4.8</em></p>
+</div>
+<div style="display: flex; justify-content: space-between; width: 140px;">
+<div class="altmetric-embed" data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.joclim.2025.100415" data-hide-no-mentions="true">
+
+</div>
+<span class="__dimensions_badge_embed__" data-doi="10.1016/j.joclim.2025.100415" data-legend="hover-right" data-style="small_circle" data-hide-zero-citations="true"></span>
+<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+</div>
+<details>
+<summary>
+<font size="3">Abstract</font>
+</summary>
+<font size="3"><em>Introduction</em>: Lived experience of negative environmental change can evoke distress called ‘solastalgia’. Worldwide, people are reporting emotional challenges relating to awareness of current and continued environmental decline, even without a lived direct experience of climate change. Our research examines the measurement of anticipatory solastalgia: the experience of present distress about expected environmental change.<br>
+<em>Methods</em>: Our preregistered research uses survey samples from Australia (<em>n</em> = 1450) and New Zealand (<em>n</em> = 1022) to validate a recently developed five-item Anticipatory Solastalgia Scale (the ANSOS). We also measured participants’ experiences of climate emotions, expectations of the increased severity of climate-related weather disasters, and support for climate policy.<br>
+<em>Results</em>: The ANSOS fits the data well, is invariant across these two countries, and shows good internal consistency. Supporting convergent validity, the more that participants reported experiencing anticipatory solastalgia, the more intensely they reported feeling negative emotions about climate change. ANSOS scores were higher among those who expected more severe future impacts from climate-related weather disasters, and positively related to support for policies that aim to address climate change.<br>
+<em>Conclusion</em>: The study adds further evidence for the validity of the anticipatory solastalgia scale; a measure that will facilitate understanding of people’s distress responses to the expectations of, and emotional engagement with, environmental threats as the climate changes.
+</font>
+</details>
+<p><br></p>
+<div style="display: flex">
+<p>Cologna, V., Mede, N.G., Berger, S., Besley, J., Brick, C., Joubert, M., …, <strong>Marques, M.D.</strong>, …, &amp; Zwaan, R.A. (2025). Trust in scientists and their role in society across 68 countries. <em>Nature Human Behaviour</em>.
+<a href="https://www.nature.com/articles/s41562-024-02090-5">https://doi.org/10.1038/s41562-024-02090-5</a> <a href="https://www.nature.com/articles/s41562-024-02090-5">[PDF]</a><br>
+<em>Impact Factor = 21.4</em></p>
+</div>
+<div style="display: flex; justify-content: space-between; width: 140px;">
+<div class="altmetric-embed" data-badge-popover="right" data-badge-type="donut" data-doi="10.1038/s41562-024-02090-5" data-hide-no-mentions="true">
+
+</div>
+<span class="__dimensions_badge_embed__" data-doi="10.1038/s41562-024-02090-5" data-legend="hover-right" data-style="small_circle" data-hide-zero-citations="true"></span>
+<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+</div>
+<details>
+<summary>
+<font size="3">Abstract</font>
+</summary>
+<font size="3">Science is crucial for evidence-based decision-making. Public trust in scientists can help decision-makers act based on the best available evidence, especially during crises. However, in recent years the epistemic authority of science has been challenged, causing concerns about low public trust in scientists. We interrogated these concerns with a pre-registered 68-country survey of 71,922 respondents and find that in most countries, most people trust scientists and agree that scientists should engage more in society and policymaking. We find variations between and within countries, which we explain with individual- and country-level variables, including political orientation. While there is no widespread lack of trust in scientists, we cannot discount the concern that lack of trust in scientists by even a small minority may affect considerations of scientific evidence in policymaking. These findings have implications for scientists and policymakers seeking to maintain and increase trust in scientists.
+</font>
+</details>
+<p><br></p>
+<div style="display: flex">
+<p>Mede, N.G., Cologna, V., Berger, S., Besley, J., Brick, C., Joubert, M., …, <strong>Marques, M.D.</strong>, …, &amp; Zwaan, R.A. (2025). Perceptions of science, science communication, and climate change attitudes in 68 countries – the TISP dataset. <em>Nature Scientific Data</em>.
+<a href="https://doi.org/10.1038/s41597-024-04100-7">https://doi.org/10.1038/s41597-024-04100-7</a> <a href="https://osf.io/jktsy">[PDF]</a><br>
+<em>Impact Factor = 5.8</em></p>
+</div>
+<div style="display: flex; justify-content: space-between; width: 140px;">
+<div class="altmetric-embed" data-badge-popover="right" data-badge-type="donut" data-doi="10.1038/s41597-024-04100-7" data-hide-no-mentions="true">
+
+</div>
+<span class="__dimensions_badge_embed__" data-doi="10.1038/s41597-024-04100-7" data-legend="hover-right" data-style="small_circle" data-hide-zero-citations="true"></span>
+<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+</div>
+<details>
+<summary>
+<font size="3">Abstract</font>
+</summary>
+Science is integral to society because it can inform individual, government, corporate, and civil society decision-making on issues such as climate change. Yet, public distrust and populist sentiment may challenge the relationship between science and society. To help researchers analyse the science-society nexus across different cultural contexts, we undertook a cross-sectional survey resulting in a dataset of 71,922 participants in 68 countries. The data were collected between November 2022 and August 2023 as part of the global Many Labs study “Trust in Science and Science-Related Populism” (TISP). The questionnaire contained comprehensive measures for individuals’ trust in scientists, science-related populist attitudes, perceptions of the role of science in society, science media use and communication behaviour, attitudes to climate change and support for environmental policies, personality traits, political and religious views and demographic characteristics. Here, we describe the dataset, survey materials and psychometric properties of key variables. We encourage researchers to use this unique dataset for global comparative analyses on public perceptions of science and its role in society and policy-making.
+<font size="3">
+</font>
+</details>
+<p><br></p>
+<div style="display: flex">
+<p>Hooker, C., <strong>Marques, M.</strong>, Goldwater, M., Degeling, C., &amp; Leask, J. (2024). Values in Risk Communication about Covid-19. In M. Lewis, E. Govender, &amp; K. Holland (Eds.), <em>Communicating COVID-19: Media, Trust, and Public Engagement (pp. 415–437)</em>. Springer International Publishing.
+<a href="https://link.springer.com/content/pdf/10.1007/978-3-031-41237-0_21?pdf=chapter%20toc">https://doi.org/10.1007/978-3-031-41237-0_21</a>
+<br></p>
+</div>
+<div style="display: flex; justify-content: space-between; width: 140px;">
+<div class="altmetric-embed" data-badge-popover="right" data-badge-type="donut" data-doi="10.1007/978-3-031-41237-0" data-hide-no-mentions="true">
+
+</div>
+<span class="__dimensions_badge_embed__" data-doi="10.1007/978-3-031-41237-0_21" data-legend="hover-right" data-style="small_circle" data-hide-zero-citations="true"></span>
+<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+</div>
+<details>
+<summary>
+<font size="3">Abstract</font>
+</summary>
+<font size="3">This chapter explores how and why risk communication in an outbreak or pandemic context should take account of values. The chapter first briefly discusses the fact that values have been very little explored in risk communication research, despite the close connection between risk perception factors and moral values. We then present evidence showing that values exerted a strong influence values on responses to COVID-19 and the various recommended infection prevention behaviours and public health orders put in place to manage the pandemic. We provide a synthesis of studies that investigated the role of values on COVID-19 related risk perceptions and attitudes using a ‘Moral Foundations’ framework or a ‘Cultural Cognition/ Worldview’ framework. We found that values had a strong but distal influence on public responses to COVID-19, and note the surprisingly positive impacts of reframing infection control messages in values-congruent forms. We consider the possible implications for the design and delivery of outbreak and pandemic risk communication in the future.</font>
+</details>
+<p><br></p>
+<div style="display: flex">
+<p><strong>Marques, M.D.</strong>, Critchley, C.R., &amp; Walshe, J. (2015). Attitudes to genetically modified food over time: how trust in organizations and the media cycle predict support. <em>Public Understanding of Science, 24</em>, 601-618. <a href="https://journals.sagepub.com/doi/10.1177/0963662514542372">https://doi.org/10.1177/0963662514542372</a> <a href="https://opal.latrobe.edu.au/ndownloader/files/27388706">[PDF]</a><br>
+<em>Impact Factor = 3.702</em></p>
+</div>
+<div style="display: flex; justify-content: space-between; width: 140px;">
+<div class="altmetric-embed" data-badge-popover="right" data-badge-type="donut" data-doi="10.1177/0963662514542372" data-hide-no-mentions="true">
+
+</div>
+<span class="__dimensions_badge_embed__" data-doi="10.1177/0963662514542372" data-legend="hover-right" data-style="small_circle" data-hide-zero-citations="true"></span>
+<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+</div>
+<details>
+<summary>
+<font size="3">Abstract</font>
+</summary>
+<font size="3">This research examined public opinion toward genetically modified plants and animals for food, and how trust in organizations and media coverage explained attitudes toward these organisms. Nationally representative samples (*N8 = 8821) over 10 years showed Australians were less positive toward genetically modified animals compared to genetically modified plants for food, especially in years where media coverage was high. Structural equation modeling found that positive attitudes toward different genetically modified organisms for food were significantly associated with higher trust in scientists and regulators (e.g. governments), and with lower trust in watchdogs (e.g. environmental movement). Public trust in scientists and watchdogs was a stronger predictor of attitudes toward the use of genetically modified plants for food than animals, but only when media coverage was low. Results are discussed regarding the moral acceptability of genetically modified organisms for food, the media’s role in shaping public opinion, and the role public trust in organizations has on attitudes toward genetically modified organisms.</font>
+</details>
+<p><br></p>
+<h2 id="vaccination">Vaccination</h2>
+<div style="display: flex">
+<p>Steffens, M.S., Bullivant, B., Kaufman, J., King, C., Danchin, M., Hoq, M., &amp; <strong>Marques, M.D.</strong> (2023). Testing persuasive messages about booster doses of COVID-19 vaccines: A randomised controlled trial. <em>PLoS ONE, 18</em>(6): e0286799. <a href="https://doi.org/10.1371/journal.pone.0286799">https://doi.org/10.1371/journal.pone.0286799</a> <a href="https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0286799&amp;type=printable">[PDF]</a><br>
+<em>Impact Factor = 3.752</em></p>
+</div>
+<div style="display: flex; justify-content: space-between; width: 140px;">
+<div class="altmetric-embed" data-badge-popover="right" data-badge-type="donut" data-doi="10.1371/journal.pone.0286799" data-hide-no-mentions="true">
+
+</div>
+<span class="__dimensions_badge_embed__" data-doi="10.1371/journal.pone.0286799" data-legend="hover-right" data-style="small_circle" data-hide-zero-citations="true"></span>
+<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+</div>
+<details>
+<summary>
+<font size="3">Abstract</font>
+</summary>
+<p><font size="3">Introduction: Achieving high COVID-19 vaccine booster coverage is an ongoing global challenge. Health authorities need evidence about effective communication interventions to improve acceptance and uptake. This study aimed to test effects of persuasive messages about COVID-
+19 vaccine booster doses on intention to vaccinate amongst eligible adults in Australia. Methods: In this online randomised controlled trial, adult participants received one of four intervention messages or a control message. The control message provided information about booster dose eligibility. Intervention messages added to the control message, each using a different persuasive strategy, including: emphasising personal health benefits of booster doses, community health benefits, non-health benefits, and personal agency in choosing vaccination. After the intervention, participants answered items about COVID-19 booster vaccine intention and beliefs. Intervention groups were compared to the control using tests of two proportions; differences of ≥5 percentage points were deemed clinically significant. A sub-group analysis was conducted among hesitant participants. Results: Of the 487 consenting and randomised participants, 442 (90.8%) completed the experiment and were included in the analysis. Participants viewing messages emphasising non-health benefits had the highest intention compared to those who viewed the control message (percentage point diff: 9.0, 95% CI -0.8, 18.8, <em>p</em> = 0.071). Intention was even higher among hesitant individuals in this intervention group compared to the control group (percentage point diff: 15.6, 95% CI -6.0, 37.3, <em>p</em> = 0.150). Conversely, intention was lower among hesitant individuals who viewed messages emphasising personal agency compared to the control group (percentage point diff: -10.8, 95% CI -33.0, 11.4, p = 0.330), although evidence in support of these findings is weak. Conclusion: Health authorities should highlight non-health benefits to encourage COVID-19 vaccine booster uptake but use messages emphasising personal agency with caution. These findings can inform communication message development and strategies to improve COVID-19 vaccine booster uptake.</p>
+</font>
+</details>
+<p><br></p>
+<div style="display: flex">
+<p>Abdi, I., Bolsewicz, K., Bullivant, B., <strong>Marques, M.D.</strong>, &amp; Steffens, M.S. (2023). Understanding the Factors that Influence Communication about COVID-19 Vaccines with Patients: perspectives of Australian Immunisation Providers. <em>Vaccine: X</em>. <a href="https://www.sciencedirect.com/science/article/pii/S2590136223000451?via%3Dihub">https://doi.org/10.1016/j.jvacx.2023.100304</a> <a href="https://www.sciencedirect.com/science/article/pii/S2590136223000451/pdfft?md5=6e201a1b0b3c0d0d43ad83f04019465f&amp;pid=1-s2.0-S2590136223000451-main.pdf">[PDF]</a><br>
+<em>Impact Factor = 3.534</em></p>
+</div>
+<div style="display: flex; justify-content: space-between; width: 140px;">
+<div class="altmetric-embed" data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.jvacx.2023.100304" data-hide-no-mentions="true">
+
+</div>
+<span class="__dimensions_badge_embed__" data-doi="10.1016/j.jvacx.2023.100304" data-legend="hover-right" data-style="small_circle" data-hide-zero-citations="true"></span>
+<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+</div>
+<details>
+<summary>
+<font size="3">Abstract</font>
+</summary>
+<font size="3">Background
+COVID-19 immunisation providers have been at the forefront of the pandemic, and their ability to communicate effectively with patients is key to encouraging COVID-19 vaccine acceptance and uptake. This study explored providers’ perspectives on the factors influencing communication with patients about COVID-19 vaccines. Methods: We used an explanatory-sequential mixed-methods approach to conduct the study between December 2021 and March 2022. Phase I involved a cross-sectional survey with immunisation providers in New South Wales (n = 341; 189 general practitioners, 118 nurses and 34 pharmacists), followed by Phase II: semi-structured, in-depth qualitative interviews (n = 19; 10 nurses, 9 pharmacists). We generated descriptive results for the survey. We analysed the qualitative data thematically using an inductive approach.Results: Almost half of survey participants reported communicating often with people who were hesitant about COVID-19 vaccines (49%; 166/341), however, 21% (71/341) reported inadequate time to address concerns during consultations. Interview participants reported communication challenges, including time constraints, difficulties addressing and eliciting patient concerns, and keeping up to date with changing information. Conversely, interview participants reported that easy access to government information resources, time to learn about COVID-19 vaccines proactively, knowing about and being able to use tailored strategies to support Aboriginal and Torres Strait Islander and CALD patients were helpful when communicating with patients. Conclusions: Immunisation providers play an important role in patient vaccine acceptance and uptake. Our findings indicate that whilst providers were largely confident in their interactions with patients, further communication support would strengthen providers’ skills in communicating with patients who have questions and concerns about COVID-19 vaccines.
+</font>
+</details>
+<p><br></p>
+<div style="display: flex">
+<p>Kaufman, J., Steffens, M.S., Hoq, M., King, C., <strong>Marques, M.D.</strong>, Mao, K., Bullivant, B., &amp; Danchin, M. (2023). Effect of persuasive messaging about COVID-19 vaccines for 5- to 11-year-old children on parent intention to vaccinate. <em>Journal of Paediatrics and Child Health, 59</em>(4), 686-693. <a href="https://onlinelibrary.wiley.com/doi/10.1111/jpc.16374">https://doi.org/10.1111/jpc.16374</a> <a href="https://onlinelibrary.wiley.com/doi/10.1111/jpc.16374">[PDF]</a><br>
+<em>Impact Factor = 1.954</em></p>
+</div>
+<div style="display: flex; justify-content: space-between; width: 140px;">
+<div class="altmetric-embed" data-badge-popover="right" data-badge-type="donut" data-doi="10.1111/jpc.16374" data-hide-no-mentions="true">
+
+</div>
+<span class="__dimensions_badge_embed__" data-doi="10.1111/jpc.16374" data-legend="hover-right" data-style="small_circle" data-hide-zero-citations="true"></span>
+<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+</div>
+<details>
+<summary>
+<font size="3">Abstract</font>
+</summary>
+<font size="3">Aim: Uptake of COVID-19 vaccines for children aged 5–11 years old in Australia has plateaued. Persuasive messaging is an efficient and adaptable potential intervention to promote vaccine uptake, but evidence for its effectiveness is varied and dependent on context and cultural values. This study aimed to test persuasive messages to promote COVID-19 vaccines for children in Australia.
+Methods: A parallel, online, randomised control experiment was conducted between 14 and 21 January 2022. Participants were Australian parents of a child aged 5–11 years who had not vaccinated their child with a COVID-19 vaccine. After providing demographic details and level of vaccine hesitancy, parents viewed either the control message or one of four intervention texts emphasising (i) personal health benefits; (ii) community health benefits; (iii) non-health benefits; or (iv) personal agency. The primary outcome was parents’ intention to vaccinate their child.
+Results: The analysis included 463 participants, of whom 58.7% (272/463) were hesitant about COVID-19 vaccines for children. Intention to vaccinate was higher in the community health (7.8%, 95% confidence interval (CI) −5.3% to 21.0%) and non-health (6.9%, 95% CI −6.4% to 20.3%) groups, and lower in the personal agency group (−3.9, 95% CI −17.7 to 9.9) compared to control, but these differences did not reach statistical significance. The effects of the messages among hesitant parents were similar to the overall study population.
+Conclusion: Short, text-based messages alone are unlikely to influence parental intention to vaccinate their child with the COVID-19 vaccine. Multiple strategies tailored for the target audience should also be utilised.
+</font>
+</details>
+<p><br></p>
+<div style="display: flex">
+<p><strong>Marques, M.D.</strong> &amp; Sheel, M. (2023). Addressing the social inequities of vaccination: an imperative to close the gap. <em>The Lancet Global Health, 11</em>(2), e173-e174. <a href="https://linkinghub.elsevier.com/retrieve/pii/S2214109X23000025">https://doi.org/10.1016/S2214-109X(23)00002-5</a> <a href="https://linkinghub.elsevier.com/retrieve/pii/S2214109X23000025">[PDF]</a><br>
+<em>Impact Factor = 38.927</em></p>
+</div>
+<div style="display: flex; justify-content: space-between; width: 140px;">
+<div class="altmetric-embed" data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/S2214-109X(23)00002-5" data-hide-no-mentions="true">
+
+</div>
+<span class="__dimensions_badge_embed__" data-doi="10.1016/S2214-109X(23)00002-5" data-legend="hover-right" data-style="small_circle" data-hide-zero-citations="true"></span>
+<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+</div>
+<details>
+<summary>
+<font size="3">Abstract</font>
+</summary>
+<p><font size="3">The COVID-19 pandemic has opened fissures along social, political, economic, and health domains. In doing so, the pandemic uncovered the inequities relating to access and acceptance of vaccines within and across countries. In <em>The Lancet Global Health</em>, Nicole Bergen and colleagues use a series of large-scale online cross-sectional global surveys to describe how country-level and individual-level indicators of inequality were associated with both vaccine hesitancy and vaccine refusal among unvaccinated people. Leveraging the largest global health survey to date over approximately 2 years (April 23, 2020, to June 25, 2022) across 90 countries, at first glimpse the paper provides a time-sensitive approach to monitoring vaccine demand and uptake consistent with WHO priorities.</p>
+</font>
+</details>
+<p><br></p>
+<div style="display: flex">
+<p><strong>Marques, M.D.</strong>, Sibley, C.G., Wilson, M.S., Bulbulia, J., Osborne, D., Yogeeswaran, K., Lee, C.H.J., Duck, I.M., Douglas, K.M., &amp; Cichocka, A. (2022). Psychological predictors of COVID-19 vaccination in New Zealand. <em>New Zealand Journal of Psychology, 51</em>(1), 10-27. <a href="https://psyarxiv.com/zkj7u/">[PDF]</a><br>
+<em>Impact Factor = 0.581</em></p>
+</div>
+<div style="display: flex; justify-content: space-between; width: 140px;">
+<div class="altmetric-embed" data-badge-popover="right" data-badge-type="donut" data-doi="10.31234/osf.io/zkj7u" data-hide-no-mentions="true">
+
+</div>
+<span class="__dimensions_badge_embed__" data-doi="10.31234/osf.io/zkj7u" data-legend="hover-right" data-style="small_circle" data-hide-zero-citations="true"></span>
+<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+</div>
+<details>
+<summary>
+<font size="3">Abstract</font>
+</summary>
+<font size="3">Is it possible to predict COVID-19 vaccination status prior to the existence and availability ofCOVID-19 vaccines? Here, we present a logistic model by regressing decisions to vaccinate in late 2021 on lagged sociodemographic, health, social, and political indicators from 2019 ina sample of New Zealand adults aged between 18 and 94 (<em>Mage</em> = 52.92, <em>SD</em> = 14.10; 62.21% women; <em>N</em> = 5324). We explain 31% of the variance in decision making across New Zealand. Significant predictors of being unvaccinated were being younger, more deprived, reporting less satisfaction with general practitioners, lower levels of neuroticism, greater levels of subjective health and meaning in life, higher distrust in science and in the police, lower satisfaction in the government, as well as political conservatism. Additional cross-sectional models specified using the same, and additional COVID-19-specific factors are also presented. These findings reveal that vaccination decisions are neither artefacts of context norchance, but rather can be predicted in advance of the availability of vaccines.</font>
+</details>
+<p><br></p>
+<div style="display: flex">
+<p>Steffens, M.S., Dunn, A.G., <strong>Marques, M.D.</strong>, Danchin, M., Witteman, H.O., &amp; Leask, J. (2021). Addressing Myths and Vaccine Hesitancy: A Randomized Trial. <em>Pediatrics, 148</em>(5), e2020049304. <a href="https://publications.aap.org/pediatrics/article/148/5/e2020049304/181668/Addressing-Myths-and-Vaccine-Hesitancy-A">https://doi.org/10.1542/peds.2020-049304</a> <a href="https://publications.aap.org/pediatrics/article-pdf/148/5/e2020049304/1228271/peds_2020049304.pdf">[PDF]</a><br>
+<em>Impact Factor = 5.417</em></p>
+</div>
+<div style="display: flex; justify-content: space-between; width: 140px;">
+<div class="altmetric-embed" data-badge-popover="right" data-badge-type="donut" data-doi="10.1542/peds.2020-049304" data-hide-no-mentions="true">
+
+</div>
+<span class="__dimensions_badge_embed__" data-doi="10.1542/peds.2020-049304" data-legend="hover-right" data-style="small_circle" data-hide-zero-citations="true"></span>
+<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+</div>
+<details>
+<summary>
+<font size="3">Abstract</font>
+</summary>
+<font size="3"><em>OBJECTIVES</em>: Evidence on repeating vaccination misinformation or “myths” in debunking text is inconclusive; repeating myths may unintentionally increase agreement with myths or help discredit myths. In this study we aimed to compare the effect of repeating vaccination myths and other text-based debunking strategies on parents’ agreement with myths and their intention to vaccinate their children.
+<em>METHODS</em>: For this online experiment we recruited 788 parents of children aged 0 to 5 years; 454 (58%) completed the study. We compared 3 text-based debunking strategies (repeating myths, posing questions, or making factual statements) and a control. We measured changes in agreement with myths and intention to vaccinate immediately after the intervention and at least 1 week later. The primary analysis compared the change in agreement with vaccination myths from baseline, between groups, at each time point after the intervention.
+<em>RESULTS</em>: There was no evidence that repeating myths increased agreement with myths compared with the other debunking strategies or the control. Posing questions significantly decreased agreement with myths immediately after the intervention compared with the control (difference: −0.30 points, 99.17% confidence interval: −0.58 to −0.02, P = .004, d = 0.39). There was no evidence of a difference between other debunking strategies or the control at either time point, or on intention to vaccinate.
+<em>CONCLUSIONS</em>: Debunking strategies that repeat vaccination myths do not appear to be inferior to strategies that do not repeat myths.</font>
+</details>
+<p><br></p>
+<h2 id="body-image">Body image</h2>
+<div style="display: flex">
+<p>Jarman, H.K., McLean, S.A., <strong>Marques, M.D.</strong>, Slater, A., Paxton, S.J., &amp; Fuller-Tyszkiewicz, M. (2024). Understanding what drives adolescent social media behaviours: Informing approaches for interventions. <em>Body Image, 51</em>, 101793. <a href="https://www.sciencedirect.com/science/article/pii/S1740144524001153">https://doi.org/10.1016/j.bodyim.2024.101793</a><br>
+<em>Impact Factor = 6.406</em></p>
+</div>
+<div style="display: flex; justify-content: space-between; width: 140px;">
+<div class="altmetric-embed" data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.bodyim.2024.101793" data-hide-no-mentions="true">
+
+</div>
+<span class="__dimensions_badge_embed__" data-doi="10.1016/j.bodyim.2024.101793" data-legend="hover-right" data-style="small_circle" data-hide-zero-citations="true"></span>
+<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+</div>
+<details>
+<summary>
+<font size="3">Abstract</font>
+</summary>
+<font size="3">While much research has explored the impacts of social media use, less is known about what factors drive use. The present study aimed to examine the relationship between potential drivers of social media use; namely social media literacy, motivations, and internalisation of appearance ideals, and determine whether they work in combination or individually to predict a range of social media use variables over time. Australian adolescent girls (<em>n</em> = 704) and boys (<em>n</em> = 938) aged 11-16 years completed online surveys at baseline and 6-month follow-up. Bivariate correlations and a series of multiple regressions were performed separately by gender. Results revealed weak associations between drivers and found they uniquely contributed to social media use, though this was dependent on use outcome. Thin- and muscular-internalisation were especially related to appearance-focused use (e.g., social media comparisons) among girls and boys, respectively, and results were largely consistent across gender. These findings have important implications for interventions, whereby multicomponent holistic interventions which focus on social media literacy, internalisation, and motivations may be most appropriate and necessary to modify a range of social media use behaviours among adolescents.<br />
+</font>
+</details>
+<p><br></p>
+<div style="display: flex">
+<p><strong>Marques, M.D.</strong>, Paxton, S.J., McLean, S.A., Jarman, H.K., &amp; Sibley, C.G. (2022). A prospective examination of relationships between social media use and body dissatisfaction in a representative sample of adults. <em>Body Image, 40</em>, 1-11. <a href="https://www.sciencedirect.com/science/article/pii/S1740144521001327">https://doi.org/10.1016/j.bodyim.2021.10.008</a> <a href="https://psyarxiv.com/d9r3m/download/?format=pdf">[PDF]</a><br>
+<em>Impact Factor = 6.406</em></p>
+</div>
+<div style="display: flex; justify-content: space-between; width: 140px;">
+<div class="altmetric-embed" data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.bodyim.2021.10.008" data-hide-no-mentions="true">
+
+</div>
+<span class="__dimensions_badge_embed__" data-doi="10.1016/j.bodyim.2021.10.008" data-legend="hover-right" data-style="small_circle" data-hide-zero-citations="true"></span>
+<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+</div>
+<details>
+<summary>
+<font size="3">Abstract</font>
+</summary>
+<p><font size="3">This study examined the temporal sequence of the relationship between social media use and body dissatisfaction in adults. A representative sample of adults (19–92 years old; <em>M</em> = 52.83, <em>SD</em> = 13.43; 62.02% women, 37.98% men) completed measures of social media use, body dissatisfaction, age, gender, BMI, and demographic variables in 2015, 2016, 2017, 2018 and 2019 (<em>N</em> = 6258) in the New Zealand Attitudes and Values Study. In the full sample, higher social media use was significantly associated with higher body dissatisfaction one year later, as was higher body dissatisfaction with higher social media use one year later after controlling for body dissatisfaction/social media use (T-1), gender, age, BMI, ethnicity, relationships status, and SES. Effects were small. The prospective pathway from social media use to body dissatisfaction was significant in all age groups but the reverse relationship was only significant in the middle aged and older groups. Both pathway directions were significant in women but only the pathway from body dissatisfaction to social media use was significant in men. The research has limitations and replication is required. However, findings suggest raising awareness about how to use social media positively across the broad community, not merely in adolescents, may be worthwhile.</p>
+</font>
+</details>
+<p><br></p>
+<div style="display: flex">
+<p>Jarman, H., McLean, S.A., Paxton, S.J., Sibley, C.G., &amp; <strong>Marques, M.D.</strong> (2023). Examination of the temporal sequence between social media use and well-being in a representative sample of adults. <em>Social Psychiatry and Psychiatric Epidemiology, 58</em>, 1247-1258. <a href="https://link.springer.com/article/10.1007/s00127-022-02363-2">https://doi.org/10.1007/s00127-022-02363-2</a> <a href="https://psyarxiv.com/z2yn4/">[PDF]</a><br>
+<em>Impact Factor = 4.328</em></p>
+</div>
+<div style="display: flex; justify-content: space-between; width: 140px;">
+<div class="altmetric-embed" data-badge-popover="right" data-badge-type="donut" data-doi="10.1007/s00127-022-02363-2" data-hide-no-mentions="true">
+
+</div>
+<span class="__dimensions_badge_embed__" data-doi="10.1007/s00127-022-02363-2" data-legend="hover-right" data-style="small_circle" data-hide-zero-citations="true"></span>
+<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+</div>
+<details>
+<summary>
+<font size="3">Abstract</font>
+</summary>
+<p><font size="3">Given insufficient prospective evidence for relationships between social media use and well-being among adults, the present study examined the temporal sequence between social media use and psychological distress and life satisfaction, and explored age and gender differences. A representative sample of adults (<em>N</em> = 7331; 62.4% women; <em>Mage</em> = 51.94; <em>SD</em> = 13.48; 15–94 years) were surveyed annually across four waves. Cross-lagged panel models demonstrated bidirectional relationships between social media use and well-being. Higher psychological distress and lower life satisfaction predicted higher social media use more strongly than the reverse direction, with effects particularly pronounced for the impact of psychological distress. Although the patterns of findings were relatively consistent across age and gender, results suggested that women and middle- and older-aged adults experience detrimental effects of social media use on well-being, which may drive subsequent increased use of social media. The bidirectional relationships suggest that adults who experience psychological distress or lower life satisfaction may seek to use social media as a way to alleviate poor well-being. However, paradoxically, this maladaptive coping mechanism appears to drive increased social media use which in turn can exacerbate poor well-being. Clinicians should be aware of these bidirectional relationships and work with clients towards replacing ineffective strategies with more helpful coping approaches. As this study used a simplistic measure of social media use, future research should address this limitation and explore nuanced relationships afforded by assessing specific social media activities or exposure to certain types of content.</p>
+</font>
+</details>
+<p><br></p>
+<div style="display: flex">
+<p>Jarman, H.K., Slater, A., McLean, S.A., <strong>Marques, M.D.</strong>, &amp; Paxton, S.J. (2021). The impact of completing body image assessments on adolescents’ body image and engagement in body change strategies: Harmful or harmless? <em>Body Image, 39</em>, 131-138. <a href="https://www.sciencedirect.com/science/article/pii/S1740144521000991?via%3Dihub">https://doi.org/10.1016/j.bodyim.2021.07.003</a><br>
+<em>Impact Factor = 6.406</em></p>
+</div>
+<div style="display: flex; justify-content: space-between; width: 140px;">
+<div class="altmetric-embed" data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.bodyim.2021.07.003" data-hide-no-mentions="true">
+
+</div>
+<span class="__dimensions_badge_embed__" data-doi="10.1016/j.bodyim.2021.07.003" data-legend="hover-right" data-style="small_circle" data-hide-zero-citations="true"></span>
+<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+</div>
+<details>
+<summary>
+<font size="3">Abstract</font>
+</summary>
+<font size="3">Parents and educators have raised concerns that participating in body image research may cause or increase poor body image and engagement in body change strategies. This quasi-experimental study compared body image and body change strategy outcomes among adolescents who had, and had not, previously been exposed to the same assessment questions 6-months prior (twice- vs once-completers). Comparison was also made between groups who completed an assessment containing only positively worded items or both positive and negative items (positive vs mixed valence). Boys and girls (<em>N</em> = 1,532, <em>Mage</em> = 13.83, <em>SD</em> = 1.18) completed online measures of body dissatisfaction, body appreciation, overvaluation of weight and shape, appearance esteem, and body change strategies. In regression analyses, neither body image nor body change strategies were predicted by group (completion or valence groups), except lower body dissatisfaction and higher body appreciation among twice-completers. Most participants did not experience individual-level change in body image or body change strategies over 6-months. Findings suggest that body image assessments may not put adolescents at risk of poor body image or engagement with body change strategies, however; experimental research is needed. Some improvement in body image may have implications for prospective and prevention research.</font>
+</details>
+<p><br></p>
+<div style="display: flex">
+<p>Jarman, H. K., <strong>Marques, M.D.</strong>, McLean, S.A., Slater, A., &amp; Paxton, S.J. (2021). Social media, body satisfaction and well-being among adolescents: A mediation model of appearance-ideal internalization and comparison. <em>Body Image, 36</em>, 139-148. <a href="https://www.sciencedirect.com/science/article/pii/S1740144520304265?via%3Dihub">https://doi.org/10.1016/j.bodyim.2020.11.005</a><br>
+<em>Impact Factor = 6.406</em></p>
+</div>
+<div style="display: flex; justify-content: space-between; width: 140px;">
+<div class="altmetric-embed" data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.bodyim.2020.11.005" data-hide-no-mentions="true">
+
+</div>
+<span class="__dimensions_badge_embed__" data-doi="10.1016/j.bodyim.2020.11.005" data-legend="hover-right" data-style="small_circle" data-hide-zero-citations="true"></span>
+<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+</div>
+<details>
+<summary>
+<font size="3">Abstract</font>
+</summary>
+<font size="3">Despite adolescents’ prolific use of social media, relationships between social media and body satisfaction and well-being are not yet well understood, especially among boys. This study tested a sociocultural model of body image within the context of social media among adolescent boys and girls. Specifically, this study examined whether appearance-ideal internalization and social appearance comparisons mediated relationships between social media engagement (intensity and appearance-focused use) and body satisfaction and subjective well-being. Australian adolescents between 11 and 17 years (<em>N</em> = 1,579, <em>Mage</em> = 13.45 years, <em>SD</em> = 1.15; 55.4 % boys) completed an online survey. Structural equational modelling indicated that only higher appearance-focused social media use was directly associated with lower body satisfaction and well-being. Generally, higher appearance-ideal internalization and comparisons mediated the relationships between higher social media engagement and lower body satisfaction and well-being. Multi-group analyses indicated these relationships were equivalent across gender. Findings supported the proposed model among boys and girls and extend existing theoretical knowledge to encompass male body image and well-being. Interventions which target internalization and comparisons in the context of social media are likely to be valuable in improving body satisfaction and subjective well-being in co-educational settings.</font>
+</details>
+<p><br></p>
+<div style="display: flex">
+<p>Jarman, H. K., <strong>Marques, M.D.</strong>, McLean, S.A., Slater, A., &amp; Paxton, S.J. (2021). Motivations for Social Media Use: Associations with Social Media Engagement and Body Satisfaction and Well-Being among Adolescents. <em>Journal of Youth and Adolescence, 50</em>, 2279-2293. <a href="https://link.springer.com/article/10.1007/s10964-020-01390-z">https://doi.org/10.1007/s10964-020-01390-z</a><br>
+<em>Impact Factor = 4.381</em></p>
+</div>
+<div style="display: flex; justify-content: space-between; width: 140px;">
+<div class="altmetric-embed" data-badge-popover="right" data-badge-type="donut" data-doi="10.1007/s10964-020-01390-z" data-hide-no-mentions="true">
+
+</div>
+<span class="__dimensions_badge_embed__" data-doi="10.1007/s10964-020-01390-z" data-legend="hover-right" data-style="small_circle" data-hide-zero-citations="true"></span>
+<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+</div>
+<details>
+<summary>
+<font size="3">Abstract</font>
+</summary>
+<font size="3">Adolescents are spending considerable time on social media, yet it is unclear whether motivations for social media use drive different forms of social media engagement, and their relationships with body satisfaction and well-being. This study tested a proposed model of the relationships between motivations for social media use, types of social media engagement and body satisfaction and well-being. Responses to an online survey from 1432 Australian adolescents (<em>Mage</em> = 13.45 years, <em>SD</em> = 1.14, range 11–17; 55.4% boys) were collected. Structural equational modelling indicates excellent model fit. Specifically, motivations for social media use (information sharing, passing time, escapism, social interaction, social capital and appearance feedback) were associated with engagement (intensity, photo-based use, active use, passive use and liking use) and revealed mixed associations with body satisfaction and well-being. The findings support the importance of considering motivations for social media use in future research.</font>
+</details>
+<p><br></p>
+<div style="display: flex">
+<p>Jarman, H. K., McLean, S.A., Slater, A., <strong>Marques, M.D.</strong>, &amp; Paxton, S.J. (2024). Direct and indirect relationships between social media use and body satisfaction: A prospective study among adolescent boys and girls. <em>New Media and Society. 26</em>(1), 292-312. <a href="https://journals.sagepub.com/doi/10.1177/14614448211058468">https://doi.org/10.1177/14614448211058468</a><br>
+<em>Impact Factor = 8.061</em></p>
+</div>
+<div style="display: flex; justify-content: space-between; width: 140px;">
+<div class="altmetric-embed" data-badge-popover="right" data-badge-type="donut" data-doi="10.1177/14614448211058468" data-hide-no-mentions="true">
+
+</div>
+<span class="__dimensions_badge_embed__" data-doi="10.1177/14614448211058468" data-legend="hover-right" data-style="small_circle" data-hide-zero-citations="true"></span>
+<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+</div>
+<details>
+<summary>
+<font size="3">Abstract</font>
+</summary>
+<font size="3">Cross-sectional research suggests a small, inverse association between social media use and body satisfaction. However, less is known regarding prospective, bidirectional, or mediating effects. In line with sociocultural theory, this study used a three-wave design to examine direct and indirect effects between social media use and body satisfaction, via thin-ideal and muscular-ideal internalisation and social comparisons. Adolescents (<em>n</em> = 1911; <em>Mage</em> = 14.27, <em>SD</em> = 1.08) were invited to complete three surveys over 1 year. Cross-lagged panel models indicated acceptable fit for two social media use operationalisations, with better fit statistics for the appearance-focused use rather than photo-based activities model. Despite largely no direct effects, indirect effects were found. Social comparisons mediated the relationships over time, whereby higher social media use predicted higher comparisons, which predicted lower body satisfaction. The reverse direction was also found. Gender invariance indicates that prevention aimed at reducing comparisons may be suitable for boys and girls.
+</font>
+</details>
+<p><br></p>
+<div style="display: flex">
+<p>Rodgers, R.F., Mclean, S.A., Gordon, C.S., Slater, A., <strong>Marques, M.D.</strong>, Jarman, H.K., &amp; Paxton, S.J. (online 9 September 2020). Development and Validation of the Motivations for Social Media Use Scale (MSMU) Among Adolescents. <em>Adolescent Research Review, 6</em>, 425-435.
+<a href="https://link.springer.com/article/10.1007/s40894-020-00139-w">https://doi.org/10.1007/s40894-020-00139-w</a><br>
+<em>Impact Factor = 5.052</em></p>
+</div>
+<div style="display: flex; justify-content: space-between; width: 140px;">
+<div class="altmetric-embed" data-badge-popover="right" data-badge-type="donut" data-doi="10.1007/s40894-020-00139-w" data-hide-no-mentions="true">
+
+</div>
+<span class="__dimensions_badge_embed__" data-doi="10.1007/s40894-020-00139-w" data-legend="hover-right" data-style="small_circle" data-hide-zero-citations="true"></span>
+<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+</div>
+<details>
+<summary>
+<font size="3">Abstract</font>
+</summary>
+<font size="3">Theoretical accounts of the relationship between social media use and body image among adolescents have highlighted motivations as an important factor. However, motivations for social media use has received little attention in extant research in the area of body image. The aim of this study was therefore to develop a measure of motivations for social media use among adolescents, with a focus on appearance motivations. Data from 770 adolescents (49% female), mean (SD) age = 12.76 (0.74) were used to examine the psychometric properties of the new Motivations for Social Media Use scale (MSMU). Exploratory and confirmatory factor analyses revealed a four-factor structure including Connection, Popularity, Appearance, and Values and Interests subscales. All subscales revealed acceptable internal reliability, and convergent validity with internalization of appearance ideals, self-esteem, and social media use. The MSMU is a useful tool for assessing appearance motivations for social media use among adolescent girls and boys.</font>
+</details>
+<p><br></p>
+<div style="display: flex">
+<p>Rodgers, R.F., McLean, S.A., <strong>Marques, M.</strong>, Dunstan, C., &amp; Paxton, S.J. (2016). Trajectories of body dissatisfaction and dietary restriction in early adolescent girls: a Latent Class Growth Analysis. <em>Journal of Youth and Adolescence, 45</em>, 1664-1677. <a href="https://link.springer.com/article/10.1007/s10964-015-0356-3">https://doi.org/10.1007/s10964-015-0356-3</a><br>
+<em>Impact Factor = 3.247</em></p>
+</div>
+<div style="display: flex; justify-content: space-between; width: 140px;">
+<div class="altmetric-embed" data-badge-popover="right" data-badge-type="donut" data-doi="10.1007/s10964-015-0356-3" data-hide-no-mentions="true">
+
+</div>
+<span class="__dimensions_badge_embed__" data-doi="10.1007/s10964-015-0356-3" data-legend="hover-right" data-style="small_circle" data-hide-zero-citations="true"></span>
+<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+</div>
+<details>
+<summary>
+<font size="3">Abstract</font>
+</summary>
+<font size="3">Clarifying the trajectories of body image and eating concerns in adolescents is critical. We examined longitudinal patterns of development of body dissatisfaction and dietary restriction among early adolescent girls within a sociocultural framework. A sample of 259 school girls (<em>Mage</em> = 12.76 years, <em>SD</em> = 0.44) reported on sociocultural influences, body dissatisfaction and dietary restriction at baseline, 8, and 14 months. A subsample provided height and weight. Analyses identified four trajectories of body dissatisfaction: low, moderate-increasing, moderate-decreasing, and high. Three trajectories of dietary restriction emerged: low, moderate, and high. Baseline and 8-month sociocultural variables and BMI differed between the trajectories. A subgroup of girls displays high levels of body image and eating concerns by early adolescence. Sociocultural variables influence these trajectories.</font>
+</details>
+<p><br></p>
+<div style="display: flex">
+<p>McLean S.A., Wertheim E.H., <strong>Marques, M.D.</strong>, &amp; Paxton S.J. (2019). Dismantling prevention: Comparison of outcomes following media literacy and appearance comparison modules in a randomised controlled trial. <em>Journal of Health Psychology, 24</em>, 761-776.
+<a href="https://journals.sagepub.com/doi/10.1177/1359105316678668">https://doi.org/10.1177/1359105316678668</a> <a href="https://opal.latrobe.edu.au/articles/journal_contribution/Dismantling_prevention_Comparison_of_outcomes_following_media_literacy_and_appearance_comparison_modules_in_a_randomised_controlled_trial/13653317">[PDF]</a> <br>
+<em>Impact Factor = 3.789</em></p>
+</div>
+<div style="display: flex; justify-content: space-between; width: 140px;">
+<div class="altmetric-embed" data-badge-popover="right" data-badge-type="donut" data-doi="10.1177/1359105316678668" data-hide-no-mentions="true">
+
+</div>
+<span class="__dimensions_badge_embed__" data-doi="10.1177/1359105316678668" data-legend="hover-right" data-style="small_circle" data-hide-zero-citations="true"></span>
+<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+</div>
+<details>
+<summary>
+<font size="3">Abstract</font>
+</summary>
+<font size="3">A dismantling study of body dissatisfaction prevention was conducted. Adolescent girls (<em>N</em> = 260) were randomly allocated to a media literacy (Happy Being Me – Media Literacy) or appearance comparison (Happy Being Me – Appearance Comparison) intervention or healthy eating behaviour control (Happy Being Me – Healthy Eating Behaviour) condition. In the Happy Being Me – Appearance Comparison condition, improvements from baseline to post-programme and follow-up for upward appearance comparison and fear of negative appearance evaluation were observed. In the Happy Being Me – Media Literacy condition, improvements were observed from baseline to post-programme for upward appearance comparison and realism scepticism. Findings were similar in a high-risk subsample and overall are moderately supportive of appearance comparison-based interventions, but less supportive of a stand-alone media literacy intervention.</font>
+</details>
+<p><br></p>
+<h2 id="other-publications">Other publications</h2>
+<div style="display: flex">
+<p>Clarke, E.J.R., Eckerle, F., Kerr, J.R., Hill , S., Ling, M., <strong>Marques, M.D.</strong>, Williams, M.N. (accepted 8/10/25). Extremism at the centre: Uncovering political diversity amongst midpoint responders on the left-right self-placement item. <em>Political Psychology</em>.
+<a href="https://osf.io/q72e4_v2">https://osf.io/q72e4_v2</a><br>
+<em>Impact Factor = 3.5</em></p>
+</div>
+<div style="display: flex; justify-content: space-between; width: 140px;">
+<div class="altmetric-embed" data-badge-popover="right" data-badge-type="donut" data-doi="" data-hide-no-mentions="true">
+
+</div>
+<span class="__dimensions_badge_embed__" data-doi="" data-legend="hover-right" data-style="small_circle" data-hide-zero-citations="true"></span>
+<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+</div>
+<details>
+<summary>
+<font size="3">Abstract</font>
+</summary>
+<font size="3">The midpoint of the left-right self-placement item is the most populated of all response options. While genuinely-centrist responders opt to self-place there, it is also a convenient response option for those that cannot easily fit their politics to the left-right spectrum. Those with populist attitudes may also see the midpoint as an appropriate self-placement option, due to the thin-centred nature of populist ideology. In support of this, midpoint responders score similarly to the extreme ends of the spectrum on variables related to political system attitudes, including conspiracy beliefs and institutional trust, resulting in W-shaped relationships. Our research investigated the extent to which midpoint bumps exist across common political issues and political system attitudes, and whether subgroups of populist midpoint responders explain them. Using data from the Australian Election Study (<em>N</em> = 2179) and the American National Election Study (<em>N</em> = 8280), we found W- and M-shaped polynomial relationships primarily on attitudes towards the political system and toward immigrants. We then conducted Latent Profile Analyses on midpoint responders, using these items, finding at least one profile in each sample that represented a response pattern indicative of populist belief strands.
+</font>
+</details>
+<p><br></p>
+<div style="display: flex">
+<p>Austin, D.E.J., <strong>Marques, M.D.</strong>, &amp; Stukas, A.A. (2024). Anti-Egalitarianism Motivates Denial of Male Privilege. <em>Analyses of Social Issues and Public Policy, 24</em>(3), 1017-1031.
+<a href="https://spssi.onlinelibrary.wiley.com/doi/10.1111/asap.12424">https://doi.org/10.1111/asap.12424</a><br>
+<em>Impact Factor = 1.8</em></p>
+</div>
+<div style="display: flex; justify-content: space-between; width: 140px;">
+<div class="altmetric-embed" data-badge-popover="right" data-badge-type="donut" data-doi="10.1111/asap.12424" data-hide-no-mentions="true">
+
+</div>
+<span class="__dimensions_badge_embed__" data-doi="10.1111/asap.12424" data-legend="hover-right" data-style="small_circle" data-hide-zero-citations="true"></span>
+<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+</div>
+<details>
+<summary>
+<font size="3">Abstract</font>
+</summary>
+<font size="3">Men are privileged economically, politically, and socially, yet some deny this. Previous research suggests that denial of privilege can help to manage the discomfort associated with a privileged identity, but we propose that it serves primarily to preserve privilege. In two preregistered studies (<em>N</em>total = 911 Australian participants) we show that denial of male privilege is not unique to men, and that it is strongly predicted by anti-egalitarianism, even when controlling for gender and other variables known to predict attitudes towards inequality (facets of right-wing authoritarianism and social dominance orientation). In Study 1, a multiple regression model accounted for 59% of the variability in reported male privilege awareness, with anti-egalitarianism contributing 47% of the explanatory power. In Study 2, the explanatory power of anti-egalitarianism was more modest (26%), and similar to that of gender (27%), and both also positively predicted claims of female privilege. This suggests that rather than simply reflecting unawareness of male privilege or being a way to manage a privileged identity, denying the existence of male privilege and claiming that women are privileged helps to preserve gender inequality by presenting it as a just result of meritocracy.
+</font>
+</details>
+<p><br></p>
+<div style="display: flex">
+<p>Kaltenegger, H.C., <strong>Marques, M.D.</strong>, Becker, L., Rohleder, N., Nowak, D., Wright, B.J., Weigl, M. (2024). Prospective associations of technostress at work, burnout symptoms, hair cortisol, and chronic low-grade inflammation. <em>Brain, Behavior, and Immunity, 117</em>, 320-329.
+<a href="https://doi.org/10.1016/j.bbi.2024.01.222">https://doi.org/10.1016/j.bbi.2024.01.222</a><br>
+<em>Impact Factor = 19.227</em></p>
+</div>
+<div style="display: flex; justify-content: space-between; width: 140px;">
+<div class="altmetric-embed" data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.bbi.2024.01.222" data-hide-no-mentions="true">
+
+</div>
+<span class="__dimensions_badge_embed__" data-doi="10.1016/j.bbi.2024.01.222" data-legend="hover-right" data-style="small_circle" data-hide-zero-citations="true"></span>
+<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+</div>
+<details>
+<summary>
+<font size="3">Abstract</font>
+</summary>
+<font size="3"><em>Background</em>. Working conditions in the age of digitalization harbor risks for chronic stress and burnout. However, real-world investigations into biological effects of technostress, that is stress in the context of digital technology use, are sparse. This study prospectively assessed associations between technostress, general work stress, burnout symptoms, hair cortisol, and chronic low-grade inflammation. <em>Methods</em>. Hospital employees (<em>N</em>=238, 182 females, <em>Mage</em>=28.5 years) participated in a prospective cohort study with two follow-ups six months apart (T2, T3). Participants answered standardized questionnaires on general job strain (job demand-control ratio), technostressors (work interruptions, multitasking, information overload), burnout symptoms (exhaustion, mental distance), and relevant confounders. Moreover, they provided capillary blood samples for C-reactive protein (CRP) and hair strands for hair cortisol concentration (HCC) analysis. Structural equation modelling was performed. <em>Results</em>. The factorial structure of survey measures was confirmed. Burnout symptoms (MT2=2.17, MT3=2.33) and HCC (<em>MT2</em>=4.79, <em>MT3</em>=9.56; pg/mg) increased over time, CRP did not (<em>MT2</em>=1.15, <em>MT3</em>=1.21; mg/L). Adjusted path models showed that technostress was negatively associated with HCC (<em>β</em>=-0.16, <em>p</em>=.003), but not with burnout and CRP. General work stress in contrast, was not significantly associated with burnout, HCC or CRP. Furthermore, there were reciprocal effects of CRP on HCC (<em>β</em>=0.28, <em>p</em>=.001) and of HCC on CRP (<em>β</em>=-0.10, <em>p</em>≤.001). Associations were robust in additional analyses including further confounders. <em>Conclusion</em>. This is the first study on prospective effects of technostress on employees’ endocrine and inflammatory systems. Results suggest differential effects of technostress on the hypothalamic-pituitary-adrenocortical axis activity. Given its key role for long-term health, the findings have important implications for occupational health and safety in digitalized work environments.
+</font>
+</details>
+<p><br></p>
+<div style="display: flex">
+<p><strong>Marques, M.D.</strong> (2023). The Tall Poppy Syndrome, Heroism, and Villainy. <em>Encyclopedia of Heroism Studies</em>.
+<a href="https://link.springer.com/referenceworkentry/10.1007/978-3-031-17125-3_441-1">https://doi.org/10.1007/978-3-031-17125-3_441-1</a> <br><a href="mailto:m.marques@latrobe.edu.au?subject=The%20Tall%20Poppy%20Syndrome,%20Heroism,%20and%20Villainy%20chapter%20in%20Encyclopedia%20of%20Heroism%20Studies">or email me for a copy</a>
+<br></p>
+</div>
+<div style="display: flex; justify-content: space-between; width: 140px;">
+<div class="altmetric-embed" data-badge-popover="right" data-badge-type="donut" data-doi="10.1007/978-3-031-17125-3" data-hide-no-mentions="true">
+
+</div>
+<span class="__dimensions_badge_embed__" data-doi="10.1007/978-3-031-17125-3_441-1" data-legend="hover-right" data-style="small_circle" data-hide-zero-citations="true"></span>
+<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+</div>
+<details>
+<summary>
+<font size="3">Definition</font>
+</summary>
+<font size="3">The tall poppy is an individual who holds high status or rank either due to their achievements or by virtue of legal or quasi legal prescriptions. The tall poppy syndrome is a cultural phenomenon where people want to see or act to denigrate a high status individual.
+</font>
+</details>
+<p><br></p>
+<div style="display: flex">
+<p><strong>Marques, M.D.</strong>, Feather, N.T., Austin, D.E.J., &amp; Sibley, C.G. (2022). Attitudes towards favouring the fall of Tall Poppies: The role of social dominance orientation, authoritarianism, political ideologies, and self-esteem. <em>The Journal of Social Psychology, 162</em>(5), 640-653. <a href="https://www.tandfonline.com/doi/full/10.1080/00224545.2021.1944034">https://doi.org/10.1080/00224545.2021.1944034</a> <a href="https://psyarxiv.com/bzexa/">[PDF]</a><br>
+<em>Impact Factor = 2.712</em></p>
+</div>
+<div style="display: flex; justify-content: space-between; width: 140px;">
+<div class="altmetric-embed" data-badge-popover="right" data-badge-type="donut" data-doi="10.1080/00224545.2021.1944034" data-hide-no-mentions="true">
+
+</div>
+<span class="__dimensions_badge_embed__" data-doi="10.1080/00224545.2021.1944034" data-legend="hover-right" data-style="small_circle" data-hide-zero-citations="true"></span>
+<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+</div>
+<details>
+<summary>
+<font size="3">Abstract</font>
+</summary>
+<font size="3">Individuals occupying high-status positions are sometimes victims of the tall poppy syndrome where people want to see them cut down to size. These attitudes reflect a tension between achievement, authority, and equality. In a pre-registered study (Study 1: <em>N</em> = 47,951), and a replication (Study 2: <em>N</em> = 5,569), of two representative New Zealand samples we investigated how social dominance orientation, right-wing authoritarianism, political ideologies and self-esteem predicted favoring the fall of the tall poppy. Novel findings showed individuals high in social dominance orientation favored the fall of the tall poppy. In both studies, high authoritarian aggression and submission, and low conventionalism (in Study 1 only) were also associated with negative tall poppy attitudes. So too were individuals with lower self-esteem and who were less conservative in their political ideology. These findings advance our understanding of how group-based hierarchy and inequality relate to attitudes toward individuals in high-status positions.</font>
+</details>
+<p><br></p>
+<div style="display: flex">
+<p>Hall, A., McLennan, J., <strong>Marques, M.D.</strong>, &amp; Bearman, C. (2022). Conceptualising and measuring householder bushfire (wildfire) risk perception: the Householder Bushfire Risk Perception Scale (HBRPS-4). <em>International Journal of Disaster Risk Reduction, 67</em>, 102667. <a href="https://www.sciencedirect.com/science/article/pii/S2212420921006282?via%3Dihub">https://doi.org/10.1016/j.ijdrr.2021.102667</a><br>
+<em>Impact Factor = 2.896</em></p>
+</div>
+<div style="display: flex; justify-content: space-between; width: 140px;">
+<div class="altmetric-embed" data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.ijdrr.2021.102667" data-hide-no-mentions="true">
+
+</div>
+<span class="__dimensions_badge_embed__" data-doi="10.1016/j.ijdrr.2021.102667" data-legend="hover-right" data-style="small_circle" data-hide-zero-citations="true"></span>
+<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+</div>
+<details>
+<summary>
+<font size="3">Abstract</font>
+</summary>
+<font size="3">With increasing numbers of householders living in high bushfire (wildfire) risk areas, there is a need to better understand householders’ bushfire risk perceptions. In the community bushfire safety research literature, there appears to be no consensus on how best to conceptualise and measure householders’ bushfire risk perceptions. The aim of this research was to investigate the concept of bushfire risk perception and its measurement, and to develop a brief, reliable and valid measure of householders’ bushfire risk perceptions. Following a review of 26 studies, a four-item householder bushfire risk perception scale (HBRPS-4) was developed. Analysis of responses to an online survey of 375 householders indicated that the measure had high internal consistency (α = 0.93). There was evidence of: construct validity, concurrent convergent criterion validity (|<em>r</em>| range 0.21–0.58), and concurrent discriminant criterion validity (<em>r</em> ≤ 0.15). A supplementary study with 27 participants found a high level of test-retest reliability over a six-week period (<em>r</em> = 0.95). It is suggested that householder bushfire risk perception can be construed as a fuzzy concept, incorporating three risk perception elements (probability, consequences, concern) whose meaning boundaries are not well-differentiated. The HBRPS-4 appears to hold promise of being a useful measure for community bushfire safety research.</font>
+</details>
+<p><br></p>
+<div style="display: flex">
+<p><strong>Marques, M.D.</strong>, Wright, B.J., Lee, C.H.J., &amp; Sibley, C.G. (2021). Increased sleep predicts annual decreases in psychological distress: Results from a six-year longitudinal panel sample. <em>Sleep Health, 78</em>(3), 368-374. <a href="https://www.sciencedirect.com/science/article/abs/pii/S2352721820303259?via%3Dihub">https://doi.org/10.1016/j.sleh.2020.12.005</a> <a href="https://psyarxiv.com/brmyp/">[PDF]</a><br>
+<em>Impact Factor = 4.450</em></p>
+</div>
+<div style="display: flex; justify-content: space-between; width: 140px;">
+<div class="altmetric-embed" data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.sleh.2020.12.005" data-hide-no-mentions="true">
+
+</div>
+<span class="__dimensions_badge_embed__" data-doi="10.1016/j.sleh.2020.12.005" data-legend="hover-right" data-style="small_circle" data-hide-zero-citations="true"></span>
+<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+</div>
+<details>
+<summary>
+<font size="3">Abstract</font>
+</summary>
+<font size="3"><em>Objective</em>: To investigate the annual temporal ordering of sleep quantity and psychological distress, separating between-person stability from within-person change.
+<em>Design</em>: Random-intercepts cross-lagged panel model using six annual waves of longitudinal data from the New Zealand Attitudes Values Study postal questionnaire.Participants: New Zealand Attitudes Values Study respondents in 2013, 2014, 2015, 2016, 2017, and 2018 (Ns = 17,890; 15,757; 13,904; 21,849; 17,031; and 47,462).
+<em>Measurements</em>: Participants were asked, “During the past month, on average, how many hours of actual sleep did you get per night?” and responded to the K6 psychological distress scale each year. They also reported their demographic characteristics.
+<em>Results</em>: Identified longitudinal associations between sleep duration and psychological distress in a traditional cross-lagged panel model were mostly attributable to the stability of the between-person differences in sleep duration and psychological distress. We provide evidence to suggest that increased sleep duration as indicated over a short period of time (i.e.,one month) predicted lower within-person levels of psychological distress the following year.Psychological distress did not predict sleep duration, in contrast.
+<em>Conclusions</em>: Our analyses suggest that sleep duration in this sample of New Zealanders precedes psychological distress. This is significant given the propensity for short sleep in this sample and issues of poor mental health and short sleep among low SES indigenous membersof this community. The promotion of adequate sleep duration may yield positive gains in psychological well-being</font>
+</details>
+<p><br></p>
+<div style="display: flex">
+<p>Piantella, S., Dragano, N., <strong>Marques, M.D.</strong>, McDonald, S.J., &amp; Wright, B.J. (December 2021). Prospective increases in depression symptoms and markers of inflammation increase coronary heart disease risk- The Whitehall II cohort study. <em>Journal of Psychosomatic Research, 151</em>, 110657. doi:
+<a href="https://www.sciencedirect.com/science/article/pii/S0022399921003020?via%3Dihub">https://doi.org/10.1016/j.jpsychores.2021.110657</a><br>
+<em>Impact Factor = 3.006</em></p>
+</div>
+<div style="display: flex; justify-content: space-between; width: 140px;">
+<div class="altmetric-embed" data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.jpsychores.2021.110657" data-hide-no-mentions="true">
+
+</div>
+<span class="__dimensions_badge_embed__" data-doi="10.1016/j.jpsychores.2021.110657" data-legend="hover-right" data-style="small_circle" data-hide-zero-citations="true"></span>
+<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+</div>
+<details>
+<summary>
+<font size="3">Abstract</font>
+</summary>
+<font size="3"><em>OBJECTIVES</em>: Stress, inflammation, and depression are associated to coronary heart disease (CHD). However, how these constructs collectively contribute to CHD incidence is not well understood. For the first time, this study explored the concurrent relationship between workplace stress, depression symptomology and levels of low-grade inflammation with future CHD incidence.
+<em>METHODS</em>: Data from the 5-year intervals at phase 5, 7, and 9 of the Whitehall II study (<em>N</em> = 8348, <em>Mage</em> = 56) provided measures of workplace stress, depression symptomology, inflammation (interleukin-6, C-reactive protein, fibrinogen), and CHD incidence. The proposed stress-inflammation-depression-CHD pathway was assessed with a longitudinal design incorporating a structural equation model (SEM) that measured if changes in stress, depression, and inflammation between phase 5 to phase 7 predicted first-time CHD events between phases 7 and 9.
+<em>RESULTS</em>: The SEM empirically supported this proposed pathway and demonstrated excellent model fit, <em>χ</em> (72) = 3582.959, <em>p</em> &lt; .001, <em>CFI</em> = 0.896, <em>RMSEA</em> = 0.076 (CI90 = 0.074, 0.079), while depression symptoms mediated the association between workplace stress and CHD incidence, <em>B</em> = 0.003 (CI90 = 0.001, 0.004). Further, survival analysis indicated that individuals with higher mean scores (across phases) of depression symptoms or fibrinogen levels were more likely to experience a first time CHD event.
+<em>CONCLUSIONS</em>: Increases in depression symptoms and fibrinogen levels may be good indicators of future CHD morbidity among older employees. Future research is encouraged to monitor negative affective states and the potential use of biobehavioural options to reduce depression and inflammation that may mitigate CHD risk.</font>
+</details>
+<p><br></p>
+<div style="display: flex">
+<p>McLennan, J., <strong>Marques, M.D.</strong>, &amp; Every, D. (2020). Conceptualising and measuring psychological preparedness for disaster: The Psychological Preparedness for Disaster Threat Scale. <em>Natural Hazards, 101</em>, 297–307. <a href="https://link.springer.com/article/10.1007/s11069-020-03866-4">https://doi.org/10.1007/s11069-020-03866-4</a><br>
+<em>Impact Factor = 3.656</em></p>
+</div>
+<div style="display: flex; justify-content: space-between; width: 140px;">
+<div class="altmetric-embed" data-badge-popover="right" data-badge-type="donut" data-doi="10.1007/s11069-020-03866-4" data-hide-no-mentions="true">
+
+</div>
+<span class="__dimensions_badge_embed__" data-doi="10.1007/s11069-020-03866-4" data-legend="hover-right" data-style="small_circle" data-hide-zero-citations="true"></span>
+<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+</div>
+<details>
+<summary>
+<font size="3">Abstract</font>
+</summary>
+<p><font size="3">Most research on household disaster preparedness has focussed on physical, or material, preparation. Recently, researchers have turned attention to investigating psychological, or mental, preparedness for disasters. Reviews suggest that psychological preparedness comprises two broad mental dimensions or domains: a mostly cognitive aspect directed at the threat, involving knowledge of the threat environment and adaptive responses; and a mostly affective aspect involving self-awareness and emotional self-control. We located eight self-report measures of psychological preparedness, of which only three evidenced good psychometric properties. Of these, only the Psychological Preparedness for Disaster Threat Scale (PPDTS) developed by Zulch et al. (Psychological preparedness for natural disasters, 2012) seemed suitable for investigating psychological preparedness for disaster events in general in English-speaking contexts. A confirmatory factor analysis of data from a survey of 1253 Australian residents replicated the findings reported by Zulch et al. that the measure comprised two sub-scales: a 10-item Knowledge and Management sub-scale, and an 8-item Anticipation, Awareness and Management sub-scale. Evidence of both concurrent convergent and discriminant validity of the measure was found. The PPDTS appears to be a psychometrically sound self-report measure of householder psychological preparedness for a disaster event.</p>
+</font>
+</details>
+<p><br></p>
+<div style="display: flex">
+<p>Petrovic, K.P., Stukas, A.A., &amp; <strong>Marques, M.D.</strong> (2020). Religiosity, motivations and volunteering: A test of two theories of religious prosociality. <em>Journal of Theoretical Social Psychology, 4</em>, 157-168. <a href="https://onlinelibrary.wiley.com/doi/10.1002/jts5.68">https://doi.org/10.1002/jts5.68</a> <a href="https://opal.latrobe.edu.au/ndownloader/files/27374003">[PDF]</a><br>
+<em>Impact Factor = 1.341</em></p>
+</div>
+<div style="display: flex; justify-content: space-between; width: 140px;">
+<div class="altmetric-embed" data-badge-popover="right" data-badge-type="donut" data-doi="10.1002/jts5.68" data-hide-no-mentions="true">
+
+</div>
+<span class="__dimensions_badge_embed__" data-doi="10.1002/jts5.68" data-legend="hover-right" data-style="small_circle" data-hide-zero-citations="true"></span>
+<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+</div>
+<details>
+<summary>
+<font size="3">Abstract</font>
+</summary>
+<font size="3">Although it is well-established that religious individuals tend to volunteer more than the non-religious, few studies have examined motivations to volunteer as a potential explanation for this relationship. The present research takes a functional approach to examine whether religiosity drives volunteerism by promoting certain motivations for volunteering. Two common theories of religious prosociality are considered: (1) religious belief increases volunteering through internalized prosocial values, and (2) religious service attendance increases volunteering by fostering social relationships, hence increasing social reasons for volunteering. In two studies, Values-based and Social-based motivations to volunteer are tested as mediators in the relationship between religiosity (both belief and service attendance) and volunteering. Study 1 used a predominantly university student sample (<em>N</em> = 130) to predict volunteering intentions, whereas Study 2 employed an Australian community sample (<em>N</em> = 772) to predict self-reported volunteer hours. Both studies show consistent findings that the Values motive mediated the relationship between religious belief and volunteering, whereas the Social motive did not mediate the relationship between religious service attendance and volunteering. We find support for the theory that religious beliefs boost volunteerism by promoting humanistic reasons for volunteering.</font>
+</details>
+<p><br></p>
+<div style="display: flex">
+<p><strong>Marques, M.D.</strong>, Elphinstone B., Critchley C.R., &amp; Eigenberger, M.E. (2017). A brief scale for measuring Anti-Intellectualism. <em>Personality and Individual Differences, 114</em>, 167-174. <a href="https://www.sciencedirect.com/science/article/abs/pii/S0191886917302507?via%3Dihub">https://doi.org/10.1016/j.paid.2017.04.001</a> <a href="https://opal.latrobe.edu.au/ndownloader/files/27374003">[PDF]</a><br>
+<em>Impact Factor = 3.004</em></p>
+</div>
+<div style="display: flex; justify-content: space-between; width: 140px;">
+<div class="altmetric-embed" data-badge-popover="right" data-badge-type="donut" data-doi="10.1016/j.paid.2017.04.001" data-hide-no-mentions="true">
+
+</div>
+<span class="__dimensions_badge_embed__" data-doi="10.1016/j.paid.2017.04.001" data-legend="hover-right" data-style="small_circle" data-hide-zero-citations="true"></span>
+<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+</div>
+<details>
+<summary>
+<font size="3">Abstract</font>
+</summary>
+<font size="3">This paper describes the development of a brief scale to measure anti-intellectualism, the degree to which one experiences either positive or negative affect while engaged in epistemic activities such as conceptual integration. Using seven samples, the study examined several psychometric components of the measure, including equivalency across community and student/convenience populations, temporal stability, and indications of different forms of validity. The scale was designed to be a brief, reliable and valid measure of individual differences in the degree to which individuals value affect-reinforced need for intellectual engagement. These results suggest that the Anti-Intellectualism Scale may provide a useful tool for the examination of differences in the desire to engage in intellectually challenging activities, and subsequent outcomes such as vocational interest, academic achievement, and democratic citizenship.</font>
+</details>
+<p><br></p>
+<div style="display: flex">
+<p>Honeyman K.L., Stukas A.A., &amp; <strong>Marques M.D.</strong> (2016). Human trafficking: factors that influence willingness to combat the issue. <em>Journal of Applied Social Psychology, 46</em>, 529-543. <a href="https://onlinelibrary.wiley.com/doi/10.1111/jasp.12381">https://doi.org/10.1111/jasp.12381</a> <a href="https://opal.latrobe.edu.au/ndownloader/files/27389102">[PDF]</a><br>
+<em>Impact Factor = 2.122</em></p>
+</div>
+<div style="display: flex; justify-content: space-between; width: 140px;">
+<div class="altmetric-embed" data-badge-popover="right" data-badge-type="donut" data-doi="10.1111/jasp.12381" data-hide-no-mentions="true">
+
+</div>
+<span class="__dimensions_badge_embed__" data-doi="10.1111/jasp.12381" data-legend="hover-right" data-style="small_circle" data-hide-zero-citations="true"></span>
+<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+</div>
+<details>
+<summary>
+<font size="3">Abstract</font>
+</summary>
+<font size="3">Human trafficking involves severe violations of human rights and social action is required to combat it. Past research has identified emotional reactions to victims of trafficking, as well as the perceived cost and efficacy of actions, as significant predictors of willingness to get involved. We surveyed 216 Australians (70% female) to assess their perceptions of sex and labor trafficking and actions to reduce them. Results demonstrated that women reported greater personal distress (but not empathy) for victims than men, which was associated with greater willingness to take action. Women also perceived available actions to be more efficacious than men, which predicted willingness, while perceived cost of actions did not. Implications for promoting social action to reduce human trafficking are discussed.</font>
+</details>
+<p><br></p>
+<div style="display: flex">
+<p>Kashima, E.S., Beatson, R., Branchflower, S., Kaufmann, L., &amp; <strong>Marques, M.D.</strong> (2014). Mortality salience and cultural cringe: The Australian way of responding to thoughts of death. <em>Journal of Cross-Cultural Psychology, 45</em>, 1534-1548. <a href="https://journals.sagepub.com/doi/10.1177/0963662514542372">https://doi.org/10.1177/0022022114543521</a><br>
+<em>Impact Factor = 2.577</em></p>
+</div>
+<div style="display: flex; justify-content: space-between; width: 140px;">
+<div class="altmetric-embed" data-badge-popover="right" data-badge-type="donut" data-doi="10.1177/0022022114543521" data-hide-no-mentions="true">
+
+</div>
+<span class="__dimensions_badge_embed__" data-doi="10.1177/0022022114543521" data-legend="hover-right" data-style="small_circle" data-hide-zero-citations="true"></span>
+<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+</div>
+<details>
+<summary>
+<font size="3">Abstract</font>
+</summary>
+<font size="3">Terror Management Theory predicts that mortality salience (MS) instigates cultural worldview defenses, especially among individuals with lower self-esteem. That MS intensifies positive evaluations of pro-U.S. essay authors, and negative evaluations of anti-U.S. essay authors have been documented as supportive evidence. However, the evidence to date may have been limited to where praising for the former and rejection of the latter authors is consistent with a shared cultural script and thus normative. In the case of Australian people, the cultural script of cringe prescribes them to evaluate their country modestly and to reject high praise of their country. We therefore predicted that MS (vs. control) should lead Australians, with low self-esteem in particular, to evaluate pro-Australia essay authors less positively while not affecting their evaluations of anti-Australia essay authors. Results from two studies were consistent with this prediction. It is important to distinguish MS effects on adherence to cultural norms from those on reaffirming collective self-esteem, and to consider relevant cultural scripts when interpreting evidence for worldview defenses.</font>
+</details>
+<div class="sourceCode" id="cb1"><pre class="sourceCode r distill-force-highlighting-css"><code class="sourceCode r"></code></pre></div>
+<!--radix_placeholder_article_footer-->
+<!--/radix_placeholder_article_footer-->
+</div>
+
+<div class="d-appendix">
+</div>
+
+
+<!--radix_placeholder_site_after_body-->
+<!--/radix_placeholder_site_after_body-->
+<!--radix_placeholder_appendices-->
+<div class="appendix-bottom"></div>
+<!--/radix_placeholder_appendices-->
+<!--radix_placeholder_navigation_after_body-->
+<div class="distill-site-nav distill-site-footer">
+<p>Mathew da Costa Marques - copyright © <script>document.write(new
+Date().getFullYear())</script></p>
+</div>
+<!--/radix_placeholder_navigation_after_body-->
+
+
+</body>
+
+</html>
