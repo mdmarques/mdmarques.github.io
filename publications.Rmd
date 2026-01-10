@@ -372,6 +372,27 @@ Natoli, E.E., & **Marques, M.D.** (2021). The antidepressant hoax: Conspiracy th
 ## Science attitudes
 
 <div style="display: flex">
+Golley, S., Walshe, J., & Kerr, J.R., & **Marques, M.D.** (accepted 9/01/2026). Who is positive about precision health technologies? Demographic and psychological factors associated with science opposition. *Psychology & Health*. (Impact Factor = 1.9). [https://doi.org/](https://)[[PDF]](https://)<br> 
+*Impact Factor = 1.9*
+</div>
+<div style="display: flex; justify-content: space-between; width: 140px;">
+
+<div data-badge-popover="right" data-badge-type="donut" data-doi="" data-hide-no-mentions="true" class="altmetric-embed"></div>
+<span class="__dimensions_badge_embed__" data-doi="" data-legend="hover-right" data-style="small_circle" data-hide-zero-citations="true"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+</div>
+
+<details>
+  <summary>
+  <font size="3">Abstract</font>
+  </summary>
+  
+  <font size="3">*Objective:* Anti-science sentiment has the potential to become a major societal problem, and research has started considering the psychological and ideological antecedents of science rejection of novel science and technologies. Precision Health (e.g., human genetic mapping, health data digitalisation and access, wearable devices and digital apps) aims to pre-empt disease onset through the development of proactive, personalised solutions to health problems. *Methods and Measures:* In a preregistered study using a national sample of adult Australians (*N* = 997) we predicted attitudes to 10 Precision Health science areas from socio-demographic and psychological variables. *Results:* On average Australians were positive towards precision health technologies (*Ms* = 5.03-5.66, 7-point scale). Increased institutional trust in health, science, and medicine (*B* = 0.49, *SE* = 0.04) and being older (*B* = 0.004, *SE* = 0.002) significantly predicted positive attitudes. Institutional trust in governments, conspiracy belief, social dominance orientation, right-wing authoritarianism, tertiary-education level, importance of religion/spirituality and political ideology did not. *Conclusion:* The majority of Australians were favourable towards Precision Health, with institutional trust playing a key role in positive attitudes. We note the importance of understanding the role of social and ideological antecedents of science opposition now, and going forward with the development of technologies.
+</font>
+</details>
+
+<br>
+
+<div style="display: flex">
 Mede, N.G., Cologna, V., Berger, S., Besley, J., Brick, C., Joubert, M., …, **Marques, M.D.**, …, & Zwaan, R.A. (2025). Public communication about science in 68 countries: Global evidence on how people encounter information about science and engage with it. *Science Communication*, 1-46. [https://doi.org/10.1177/10755470251376615](https://journals.sagepub.com/doi/10.1177/10755470251376615)[[PDF]](https://journals.sagepub.com/doi/pdf/10.1177/10755470251376615?download=true)<br> 
 *Impact Factor = 4.1*
 </div>
