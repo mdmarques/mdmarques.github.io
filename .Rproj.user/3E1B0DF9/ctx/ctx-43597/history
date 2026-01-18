@@ -1,0 +1,512 @@
+output$plot <- renderPlot({
+# Select data based on chosen variables
+selected_data <- data[, c(input$x_axis, input$y_axis)]
+# Create plot based on user-selected type
+if (input$plot_type == "Scatter Plot") {
+ggplot(selected_data, aes(x = !!input$x_axis, y = !!input$y_axis)) +
+geom_point()
+} else if (input$plot_type == "Line Plot") {
+ggplot(selected_data, aes(x = !!input$x_axis, y = !!input$y_axis)) +
+geom_line()
+} else if (input$plot_type == "Bar Plot") {
+ggplot(selected_data, aes(x = !!input$x_axis, y = !!input$y_axis)) +
+geom_bar(stat = "identity")
+}
+})
+}
+# Run the app
+shinyApp(ui = ui, server = server)
+View(data)
+# Install required packages if not already installed
+if (!requireNamespace("shiny", quietly = TRUE)) install.packages("shiny")
+library(shiny)
+library(ggplot2)
+# Define UI
+ui <- fluidPage(
+titlePanel("Two Variable Visualizer"),
+sidebarLayout(
+sidebarPanel(
+selectInput("x", "X Axis Variable:", choices = NULL),
+selectInput("y", "Y Axis Variable:", choices = NULL),
+radioButtons("plot_type", "Plot Type:", choices = c("Scatter Plot", "Line Plot", "Bar Plot"))
+),
+mainPanel(
+plotOutput("plot")
+)
+)
+)
+# Define server logic
+server <- function(input, output) {
+# Load data as a dataframe
+data <- data
+# Update choices for variable selection
+reactive({
+choices <- names(data)
+# Remove any non-numeric variables
+choices <- choices[sapply(data, is.numeric)]
+# Add an empty option to handle missing selections
+choices <- c("", choices)
+choices
+})
+# Plot data based on user selections
+output$plot <- renderPlot({
+# Select data based on chosen variables
+selected_data <- data[, c(input$x, input$y)]
+# Create plot based on user-selected type
+if (input$plot_type == "Scatter Plot") {
+ggplot(selected_data, aes(x = !!input$x, y = !!input$y)) +
+geom_point()
+} else if (input$plot_type == "Line Plot") {
+ggplot(selected_data, aes(x = !!input$x, y = !!input$y)) +
+geom_line()
+} else if (input$plot_type == "Bar Plot") {
+ggplot(selected_data, aes(x = !!input$x, y = !!input$y)) +
+geom_bar(stat = "identity")
+}
+})
+}
+# Run the app
+shinyApp(ui = ui, server = server)
+View(data)
+# Define UI
+ui <- fluidPage(
+titlePanel("Two Variable Visualizer"),
+sidebarLayout(
+sidebarPanel(
+selectInput("x", "X Axis Variable:", choices = NULL),
+selectInput("y", "Y Axis Variable:", choices = NULL),
+radioButtons("plot_type", "Plot Type:", choices = c("Scatter Plot", "Line Plot", "Bar Plot"))
+),
+mainPanel(
+plotOutput("plot")
+)
+)
+)
+# Define server logic
+server <- function(input, output) {
+# Load data as a dataframe
+data <- data
+# Update choices for variable selection
+reactive({
+choices <- names(data)
+# Remove any non-numeric variables
+choices <- choices[sapply(data, is.numeric)]
+# Add an empty option to handle missing selections
+choices <- c("", choices)
+choices
+})
+# Plot data based on user selections
+output$plot <- renderPlot({
+# Select data based on chosen variables
+selected_data <- data[, c(input$x_axis, input$y_axis)]
+# Create plot based on user-selected type
+if (input$plot_type == "Scatter Plot") {
+ggplot(selected_data, aes(x = !!input$x_axis, y = !!input$y_axis)) +
+geom_point()
+} else if (input$plot_type == "Line Plot") {
+ggplot(selected_data, aes(x = !!input$x_axis, y = !!input$y_axis)) +
+geom_line()
+} else if (input$plot_type == "Bar Plot") {
+ggplot(selected_data, aes(x = !!input$x_axis, y = !!input$y_axis)) +
+geom_bar(stat = "identity")
+}
+})
+}
+# Run the app
+shinyApp(ui = ui, server = server)
+Set correlation coefficient
+# Set correlation coefficient
+correlation <- 0.5
+# Generate random values for variable X
+x <- rnorm(1000, mean = 50, sd = 10)
+# Generate variable Y with correlation to X
+y <- rnorm(1000, mean = 50 + 0.5 * (x - mean(x)), sd = 10)
+# Create a data frame
+data <- data.frame(x = x, y = y)
+# Check correlation
+cor(data$x, data$y)
+# Install required packages if not already installed
+if (!requireNamespace("shiny", quietly = TRUE)) install.packages("shiny")
+library(shiny)
+library(ggplot2)
+# Define UI
+ui <- fluidPage(
+titlePanel("Two Variable Visualizer"),
+sidebarLayout(
+sidebarPanel(
+selectInput("x", "X Axis Variable:", choices = NULL),
+selectInput("y", "Y Axis Variable:", choices = NULL),
+radioButtons("plot_type", "Plot Type:", choices = c("Scatter Plot", "Line Plot", "Bar Plot"))
+),
+mainPanel(
+plotOutput("plot")
+)
+)
+)
+# Define server logic
+server <- function(input, output) {
+# Load data as a dataframe
+data <- data
+# Update choices for variable selection
+reactive({
+choices <- names(data)
+# Remove any non-numeric variables
+choices <- choices[sapply(data, is.numeric)]
+# Add an empty option to handle missing selections
+choices <- c("", choices)
+choices
+})
+# Plot data based on user selections
+output$plot <- renderPlot({
+# Select data based on chosen variables
+selected_data <- data[, c(input$x_axis, input$y_axis)]
+# Create plot based on user-selected type
+if (input$plot_type == "Scatter Plot") {
+ggplot(selected_data, aes(x = !!input$x_axis, y = !!input$y_axis)) +
+geom_point()
+} else if (input$plot_type == "Line Plot") {
+ggplot(selected_data, aes(x = !!input$x_axis, y = !!input$y_axis)) +
+geom_line()
+} else if (input$plot_type == "Bar Plot") {
+ggplot(selected_data, aes(x = !!input$x_axis, y = !!input$y_axis)) +
+geom_bar(stat = "identity")
+}
+})
+}
+# Run the app
+shinyApp(ui = ui, server = server)
+# Set correlation coefficient
+correlation <- 0.5
+# Generate random values for variable X
+x_axis <- rnorm(1000, mean = 50, sd = 10)
+# Generate variable Y with correlation to X
+y_axis <- rnorm(1000, mean = 50 + 0.5 * (x - mean(x)), sd = 10)
+# Create a data frame
+data <- data.frame(x = x, y = y)
+# Create a data frame
+data <- data.frame(x_axis = x, y_axis = y)
+# Create a data frame
+data <- data.frame(x = x_axis, y = y_axis)
+# Generate variable Y with correlation to X
+y_axis <- rnorm(1000, mean = 50 + 0.5 * (x - mean(x)), sd = 10)
+# Generate variable Y with correlation to X
+y_axis <- rnorm(1000, mean = 50 + 0.5 * (x_axis - mean(x)), sd = 10)
+# Generate variable Y with correlation to X
+y_axis <- rnorm(1000, mean = 50 + 0.5 * (x_axis - mean(x_axis)), sd = 10)
+# Create a data frame
+data <- data.frame(x = x_axis, y = y_axis)
+# Check correlation
+cor(data$x, data$y)
+View(data)
+# Generate random values for variable X
+x_axis <- rnorm(1000, mean = 50, sd = 10)
+# Generate variable Y with correlation to X
+y_axis <- rnorm(1000, mean = 50 + 0.5 * (x_axis - mean(x_axis)), sd = 10)
+# Create a data frame
+data <- data.frame(x = x_axis, y = y_axis)
+# Check correlation
+cor(data$x, data$y)
+# Define sample size
+sample_size <- 1000
+# Generate normally distributed data for x and y with correlation of 0.5
+set.seed(123)
+x <- rnorm(sample_size, mean = 50, sd = 10)
+y <- rnorm(sample_size, mean = 50 + 0.5 * (x - mean(x)), sd = 10)
+# Create data frame
+data <- data.frame(x = x, y = y)
+# Calculate correlation
+cor(data$x, data$y)
+# Install required packages if not already installed
+if (!requireNamespace("shiny", quietly = TRUE)) install.packages("shiny")
+library(shiny)
+library(ggplot2)
+# Define UI
+ui <- fluidPage(
+titlePanel("Scatter Plot with Correlation"),
+sidebarLayout(
+sidebarPanel(),
+mainPanel(
+plotOutput("plot")
+)
+)
+)
+# Define server logic
+server <- function(input, output) {
+# Define data
+data <- reactive({
+# Load data from data frame
+data
+})
+# Plot data
+output$plot <- renderPlot({
+ggplot(data(), aes(x, y)) +
+geom_point() +
+labs(title = "Scatter Plot", x = "X Variable", y = "Y Variable")
+})
+}
+# Run the app
+shinyApp(ui = ui, server = server)
+# Define UI
+ui <- fluidPage(
+titlePanel("Scatter Plot with Correlation"),
+sidebarLayout(
+sidebarPanel(),
+mainPanel(
+plotOutput("plot")
+)
+)
+)
+# Define server logic
+server <- function(input, output) {
+# Define data
+data <- reactive({
+# Load data from data frame
+data
+})
+# Plot data
+output$plot <- renderPlot({
+ggplot(data = data, aes(x, y)) +
+geom_point() +
+labs(title = "Scatter Plot", x = "X Variable", y = "Y Variable")
+})
+}
+# Run the app
+shinyApp(ui = ui, server = server)
+# Define server logic
+server <- function(input, output) {
+# Define data
+data <- reactive({
+# Load data from data frame
+data
+})
+# Plot data
+output$plot <- renderPlot({
+ggplot(data = data, aes(x, y)) +
+geom_point()
+labs(title = "Scatter Plot", x = "X Variable", y = "Y Variable")
+})
+}
+# Run the app
+shinyApp(ui = ui, server = server)
+# Define UI
+ui <- fluidPage(
+titlePanel("Scatter Plot with Correlation"),
+sidebarLayout(
+sidebarPanel(),
+mainPanel(
+plotOutput("plot")
+)
+)
+)
+# Define UI
+ui <- fluidPage(
+titlePanel("Scatter Plot with Correlation"),
+sidebarLayout(
+sidebarPanel(),
+mainPanel(
+plotOutput("plot")
+)
+)
+)
+# Define server logic
+server <- function(input, output) {
+# Load or create data frame
+data <- data.frame(x = ..., y = ...)
+# Assign data to the reactive object
+data <- reactive({ data })
+# Plot data
+output$plot <- renderPlot({
+ggplot(data = data(), aes(x, y)) +
+geom_point() +
+labs(title = "Scatter Plot", x = "X Variable", y = "Y Variable")
+})
+}
+# Run the app
+shinyApp(ui = ui, server = server)
+# Define UI
+ui <- fluidPage(
+titlePanel("Scatter Plot with Correlation"),
+sidebarLayout(
+sidebarPanel(),
+mainPanel(
+plotOutput("plot")
+)
+)
+)
+# Define server logic
+# Load or create data frame
+data <- data.frame(x = ..., y = ...)
+# Define UI
+ui <- fluidPage(
+titlePanel("Scatter Plot with Correlation"),
+sidebarLayout(
+sidebarPanel(),
+mainPanel(
+plotOutput("plot")
+)
+)
+)
+# Define server logic
+server <- function(input, output) {
+# Load or create data frame
+data <- data.frame(x = ..., y = ...)
+# Assign data to the reactive object
+data <- reactive({ data })
+# Plot data
+output$plot <- renderPlot({
+ggplot(data = data(), aes(x, y)) +
+geom_point() +
+labs(title = "Scatter Plot", x = "X Variable", y = "Y Variable")
+})
+}
+# Run the app
+shinyApp(ui = ui, server = server)
+# Define sample size
+sample_size <- 1000
+# Generate normally distributed data for x and y with correlation of 0.5
+set.seed(123)
+x <- rnorm(sample_size, mean = 50, sd = 10)
+y <- rnorm(sample_size, mean = 50 + 0.5 * (x - mean(x)), sd = 10)
+# Create data frame
+data <- data.frame(x = x, y = y)
+# Calculate correlation
+cor(data$x, data$y)
+# Install required packages if not installed
+if (!requireNamespace("shiny", quietly = TRUE)) install.packages("shiny")
+library(shiny)
+library(ggplot2)
+# Define UI
+ui <- fluidPage(
+titlePanel("Data Visualization"),
+sidebarLayout(
+sidebarPanel(
+# Add input controls if needed, such as:
+# selectInput("variable_x", "Select X Variable:", choices = names(data))
+# selectInput("variable_y", "Select Y Variable:", choices = names(data))
+),
+mainPanel(
+plotOutput("plot")
+)
+)
+)
+# Define server logic
+server <- function(input, output) {
+# Load or create data frame
+data <- data.frame(x = rnorm(100), y = rnorm(100))
+# Reactive variables for user-selected variables (if applicable)
+# reactive_x <- reactive({ data[[input$variable_x]] })
+# reactive_y <- reactive({ data[[input$variable_y]] })
+# Plot data
+output$plot <- renderPlot({
+# Use reactive variables if implemented
+# ggplot(data, aes(x = reactive_x(), y = reactive_y())) +
+ggplot(data, aes(x, y)) +
+geom_point() +
+labs(title = "Scatter Plot", x = "X Variable", y = "Y Variable")
+})
+}
+# Run the app
+shinyApp(ui = ui, server = server)
+z <- rnorm(sample_size, mean = 60, sd = 04)
+# Create data frame
+data <- data.frame(x = x, y = y, z = z)
+# Define sample size
+sample_size <- 1000
+# Generate normally distributed data for x and y with correlation of 0.5
+set.seed(123)
+x <- rnorm(sample_size, mean = 50, sd = 10)
+y <- rnorm(sample_size, mean = 50 + 0.5 * (x - mean(x)), sd = 10)
+z <- rnorm(sample_size, mean = 60, sd = 04)
+# Create data frame
+data <- data.frame(x = x, y = y, z = z)
+View(data)
+# Define UI
+ui <- fluidPage(
+titlePanel("Data Visualization"),
+sidebarLayout(
+sidebarPanel(
+# Choose two variables for visualization
+selectInput("variable_x", "Select X Variable:", choices = c("x", "y", "z")),
+selectInput("variable_y", "Select Y Variable:", choices = c("x", "y", "z"))
+),
+mainPanel(
+plotOutput("plot")
+)
+)
+)
+# Define server logic
+server <- function(input, output) {
+# Load or create data frame
+data <- data.frame(x = rnorm(100), y = rnorm(100), z = rnorm(100))
+# Define reactive variable for selected variables
+selected_variables <- reactive({
+c(input$variable_x, input$variable_y)
+})
+# Plot data based on selected variables
+output$plot <- renderPlot({
+# Filter data to include selected variables only
+filtered_data <- data[, selected_variables()]
+# Create plot using ggplot2
+ggplot(filtered_data, aes(x = filtered_data[[1]], y = filtered_data[[2]])) +
+geom_point() +
+labs(
+title = "Scatter Plot",
+x = paste0("X Variable (", input$variable_x, ")"),
+y = paste0("Y Variable (", input$variable_y, ")")
+)
+})
+}
+# Run the app
+shinyApp(ui = ui, server = server)
+setwd("~/Downloads")
+dat <- read.csv(big five personality test data-final.csv)
+dat <- read.csv("big five personality test data-final.csv")
+library(shiny); runApp('C:/Users/mmarques/Dropbox/1 RESEARCH/01 Science related conspiracy theories BJSP/pre reg/S2/pwrSEM.R')
+setwd("/Users/antimatter/Desktop/NZAVS")
+library(MplusAutomation)
+#conspiracy
+conspOut <- readModels("nzavs-longitudinal-syntax-marques-lgm-conspiracy.out", recursive=TRUE)
+#conspiracy
+conspOut <- readModels("NZAVS-Longitudinal-Syntax-Marques-LGM-Conspiracy.out", recursive=TRUE)
+install.packages("BiocManager")
+BiocManager::install("rhdf5")
+install.packages(c("brio", "cli", "curl", "data.table", "desc", "DiceDesign", "emmeans", "fansi", "gdtools", "ggeffects", "pkgbuild", "processx", "ragg", "recipes", "stringi", "timeDate", "timeSeries", "ucminf", "yaml"))
+library(MplusAutomation)
+#conspiracy
+conspOut <- readModels("NZAVS-Longitudinal-Syntax-Marques-LGM-Conspiracy.out", recursive=TRUE)
+conspOut$sampstat
+write.table(conspOut$sampstat$univariate.sample.statistics, "consp_sampstats.csv", sep = ",", col.names = TRUE, row.names = TRUE, na = "-999")
+write.table(conspOut$sampstat$correlations, "consp_correlations.csv", sep = ",", col.names = TRUE, row.names = TRUE, na = "-999")
+conspOut$parameters
+write.table(conspOut$parameters, "consp_parameters.csv", sep = ",", col.names = TRUE, row.names = TRUE, na = "-999")
+install.packages(c("datawizard", "DBI", "future", "future.apply", "lavaan", "mgcv", "psych"))
+install.packages(c("admisc", "arrow", "bookdown", "brio", "bslib", "checkmate", "cli", "cluster", "clustMixType", "cowplot", "cpp11", "crosstalk", "curl", "data.table", "datawizard", "DBI", "desc", "DiceDesign", "dplyr", "DT", "e1071", "emmeans", "fansi", "foreign", "future", "future.apply", "gdtools", "ggdist", "ggeffects", "ggridges", "ggthemes", "GPArotation", "gtools", "haven", "htmlwidgets", "httpuv", "igraph", "insight", "jsonlite", "later", "lavaan", "markdown", "Matrix", "mgcv", "mvtnorm", "nlme", "OpenMx", "ordinal", "patchwork", "pkgbuild", "pls", "processx", "progress", "psych", "radiant", "radiant.data", "ragg", "RcppArmadillo", "recipes", "rpart", "s2", "sandwich", "sass", "scales", "sf", "shiny", "sp", "stringi", "stringr", "testthat", "timeDate", "timeSeries", "tinytex", "tseries", "TTR", "ucminf", "units", "vctrs", "vroom", "wk", "xgboost", "XML", "xml2", "yaml"))
+install.packages(c("cli", "yaml"))
+install.packages(c("cli", "yaml"))
+install.packages(c("cli", "yaml"))
+# Load packages -----------------------------------------------------------
+library(haven)
+library(tidyverse)
+library(psych)
+library(rstatix)
+library(sjPlot)
+library(sjlabelled)
+library(Hmisc)
+au <- read_sav("au_final_Team1245.sav") %>%
+mutate(country = "Australia") %>%
+filter(Random_Team_ID < 4) #teams 1,2,& 3
+install.packages(c("glue", "patchwork", "Rcpp"))
+install.packages(c("BH", "coda", "commonmark", "data.table", "DBI", "digest", "emmeans", "fracdiff", "glue", "hardhat", "httpuv", "infer", "insight", "listenv", "MASS", "Matrix", "modeldata", "MplusAutomation", "parameters", "patchwork", "pkgload", "plotly", "ps", "psych", "Rcpp", "readr", "reprex", "rlang", "StanHeaders", "tidyr", "timechange", "timeSeries", "uuid", "viridis", "withr", "xts", "yardstick"))
+install.packages(c("BH", "coda", "commonmark", "data.table", "DBI", "digest", "emmeans", "fracdiff", "glue", "hardhat", "httpuv", "infer", "insight", "listenv", "MASS", "Matrix", "modeldata", "MplusAutomation", "parameters", "patchwork", "pkgload", "plotly", "ps", "psych", "Rcpp", "readr", "reprex", "rlang", "StanHeaders", "tidyr", "timechange", "timeSeries", "uuid", "viridis", "withr", "xts", "yardstick"))
+install.packages(c("BH", "coda", "commonmark", "data.table", "DBI", "digest", "emmeans", "fracdiff", "glue", "hardhat", "httpuv", "infer", "insight", "listenv", "MASS", "Matrix", "modeldata", "MplusAutomation", "parameters", "patchwork", "pkgload", "plotly", "ps", "psych", "Rcpp", "readr", "reprex", "rlang", "StanHeaders", "tidyr", "timechange", "timeSeries", "uuid", "viridis", "withr", "xts", "yardstick"))
+install.packages(c("arrow", "bayestestR", "bookdown", "boot", "callr", "curl", "data.table", "DBI", "dials", "distributional", "DT", "estimability", "FactoMineR", "forecast", "gdtools", "ggeffects", "ggplot2", "ggthemes", "GPArotation", "hrbrthemes", "igraph", "lisrelToR", "modelbased", "parallelly", "parameters", "parsnip", "performance", "quantmod", "RcppArmadillo", "RcppEigen", "recipes", "RUnit", "rvest", "see", "shape", "StanHeaders", "survival", "workflows", "writexl", "xfun"))
+install.packages(c("arrow", "bayestestR", "bookdown", "boot", "callr", "curl", "data.table", "DBI", "dials", "distributional", "DT", "estimability", "FactoMineR", "forecast", "gdtools", "ggeffects", "ggplot2", "ggthemes", "GPArotation", "hrbrthemes", "igraph", "lisrelToR", "modelbased", "parallelly", "parameters", "parsnip", "performance", "quantmod", "RcppArmadillo", "RcppEigen", "recipes", "RUnit", "rvest", "see", "shape", "StanHeaders", "survival", "workflows", "writexl", "xfun"))
+install.packages("xfun")
+install.packages("xfun")
+install.packages("MplusAutomation")
+library(MplusAutomation)
+library(here)
+runModels(
+"C:/Users/mmarques/Dropbox/1 RESEARCH/01 Recreancy and risk society",
+recursive=TRUE,
+logFile="C:/Users/mmarques/Dropbox/1 RESEARCH/01 Recreancy and risk society/log.txt")
