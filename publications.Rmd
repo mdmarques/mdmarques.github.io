@@ -35,9 +35,9 @@ output:
 <br>
 
 <div style="display: flex">
-Phillips, J.B., Carson, A., Gravelle, T.B., & **Marques, M.D.** (accepted 18/01/2026). Conspiracy or public service? Does Facebook’s third-party fact-checking increase conspiracy beliefs among Americans? *Social Science Computer Review*.
+Phillips, J.B., Carson, A., Gravelle, T.B., & **Marques, M.D.** (2026). Conspiracy or public service? Does Facebook’s third-party fact-checking increase conspiracy beliefs among Americans? *Social Science Computer Review*.
 [https://doi.org/10.1177/08944393261421119](https://doi.org/10.1177/08944393261421119)
-[[PDF]](https://doi.org/10.1177/08944393261421119)
+[[PDF]](https://journals.sagepub.com/doi/epub/10.1177/08944393261421119)
 *Impact Factor = 2.7*
 </div>
 <div style="display: flex; justify-content: space-between; width: 140px;">
