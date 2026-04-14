@@ -164,3 +164,5 @@ I feel it is important as an academic to translate research and engage with the 
 [*La Trobe University*: COVID-19 and the Pandemic of Denial](https://www.abc.net.au/radionational/programs/bigideas/covid-19-and-the-pandemic-of-denial/12935664) | 01/12/2020
 
 [*Brimbank Writers & Readers Festival*: Truth, Lies and the Algorithm ](https://brimbanklibraries.vic.gov.au/whats-on/featured/writersfestival/) | 15/03/2026
+
+[*Probus*: The Misinformation Age: Can you Believe It? (slides)](talks/mmarques_probus_talk_2026.pdf) | 14/04/2026
