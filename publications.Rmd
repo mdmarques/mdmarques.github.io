@@ -12,7 +12,7 @@ output:
 
 <div style="display: flex">
 Williams, M.N., **Marques, M.D.**, Ling, M., Hill, S.R., Kerr, J.R., Clarke, E.J.R., Martin, A., & Ross, R.M. (accepted 24 March 2026). Do you really believe that? Examining the prevalence and correlates of belief in conspiracy theories when accounting for insincerity. Registered report. *Royal Society Open Science*.
-[https://doi.org/10.1098/rsos.260163/](https://doi.org/10.1098/rsos.260163)
+[https://doi.org/10.1098/rsos.260163](https://doi.org/10.1098/rsos.260163)
 [[PDF]](https://doi.org/10.1098/rsos.260163)
 *Impact Factor = 3*
 </div>
