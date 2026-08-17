@@ -20,7 +20,7 @@ output:
 
 Dr Mathew Marques is a Senior Lecturer in Social Psychology at [La Trobe University, Melbourne](https://scholars.latrobe.edu.au/mmarques/).
 
-He uses Social Psychology to understand the role of psychological mechanisms (e.g., trust, conspiracy theories, ideologies) in the formation of attitudes towards socially contentious scientific research (e.g., genetically modified foods, vaccinations), and more broadly in science communication.
+He uses Social Psychology to understand the role of psychological mechanisms (e.g., trust, conspiracy theories, ideologies) in the formation of attitudes towards socially contentious scientific research (e.g., genetically modified foods, vaccinations), misinformation belief, and more broadly in science communication.
 
 Mathew is also interested in the role epistemological processes such as anti-intellectualism play in  evaluating emerging technologies, and how these and other values shape judgments of scientific actors.
 
