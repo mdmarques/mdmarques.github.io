@@ -14,7 +14,7 @@ output:
 Williams, M.N., Kerr, J.R., **Marques, M.D.**, Abu-Obeid, H., & Hill, S.R. (2026). How Does Belief in Conspiracy Theories Affect Loneliness and Connectedness? A Longitudinal Investigation. *Frontiers in Social Psychology*
 [https://doi.org/10.3389/frsps.2026.1892137](https://www.frontiersin.org/journals/social-psychology/articles/10.3389/frsps.2026.1892137/abstract)
 [[PDF]](https://doi.org/10.3389/frsps.2026.1892137)
-*Impact Factor = 1.6*
+*Impact Factor = 3.8*
 </div>
 <div style="display: flex; justify-content: space-between; width: 140px;">
 
