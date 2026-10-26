@@ -7,13 +7,13 @@ output:
 
 ## ULB SEM Workshop | 30 October 2026
 
-The slides from the workshop are available [here](/ULB_workshops/ULB_SEM_261030.pdf) as a pdf
+The slides from the workshop are available [here](ULB_workshops/ULB_SEM_261030.pdf) as a pdf
 
-The datasets for the workshopped examples are available here ([personality](/ULB_workshops/data/bfi_big5.omv) and [tall poppies](/ULB_workshops/data/NFI_TPS.omv)).
+The datasets for the workshopped examples are available here ([personality](ULB_workshops/data/bfi_big5.omv) and [tall poppies](ULB_workshops/data/NFI_TPS.omv)).
 
-The *solutions* for the workshopped examples are available here ([personality](/ULB_workshops/data/bfi_big5_solution.omv) and [tall poppies](/ULB_workshops/data/NFI_TPS_solution.omv)).
+The *solutions* for the workshopped examples are available here ([personality](ULB_workshops/data/bfi_big5_solution.omv) and [tall poppies](ULB_workshops/data/NFI_TPS_solution.omv)).
 
-The articles/papers mentioned in the second workshopped examples are available [here: tall poppies](/ULB_workshops/articles/Feather_1989_Attitudes_towards_the_high_achiever_The_fall_of_the_tall_poppy.pdf) and [here: need for intellection](/ULB_workshops/articles/Marques_et_al_2017_A_brief_scale_for_measuring_Anti-Intellectualism.pdf).
+The articles/papers mentioned in the second workshopped examples are available [here: tall poppies](ULB_workshops/articles/Feather_1989_Attitudes_towards_the_high_achiever_The_fall_of_the_tall_poppy.pdf) and [here: need for intellection](ULB_workshops/articles/Marques_et_al_2017_A_brief_scale_for_measuring_Anti-Intellectualism.pdf).
 
 ## ULB RI-CLPM Workshop | 6 November 2026
 
