@@ -7,7 +7,7 @@ output:
 
 ## ULB SEM Workshop | 30 October 2026
 
-The slides from the workshop are available [here](ULB_workshops/ULB_SEM_261030.pdf) as a pdf
+The slides from the workshop are available [here](ULB_workshops/ULB_SEM_261030.pdf) as a pdf.
 
 The datasets for the workshopped examples are available here ([personality](ULB_workshops/data/bfi_big5.omv) and [tall poppies](ULB_workshops/data/NFI_TPS.omv)).
 
