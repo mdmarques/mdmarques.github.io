@@ -26,6 +26,6 @@ The article for the workshopped example is available [here](ULB_workshops/articl
 
 The R script for the workshopped example is available [here](ULB_workshops/data/RICLPM_sleep_distress.R).
 
-Here are some links if you need to download [R](https://cran.r-project.org/) and [R Studio](https://posit.co/download/rstudio-desktop/). The only package we will need is [lavaan](https://lavaan.ugent.be/), which you can install in RStudio using the command *install.packages("lavaan")*.
+Here are some links if you need to download [R](https://cran.r-project.org/) and [R Studio](https://posit.co/download/rstudio-desktop/). The only package we will need is [lavaan](https://lavaan.ugent.be/), which you can install in RStudio using the command *install.packages("lavaan")*
 
-There are some excellent resources [here](https://osf.io/be7yt/wiki/Learning%20R/) and I recommend *Mathew Ling's Crash course in R for Psychs* in 3 hours if you want to get started with the basics.
+If you are not familiar with using R and R Studio there are some excellent resources [here](https://osf.io/be7yt/wiki/Learning%20R/) and I recommend *Mathew Ling's Crash course in R for Psychs* in 3 hours if you want to get started with the basics.
