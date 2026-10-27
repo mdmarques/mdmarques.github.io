@@ -21,7 +21,7 @@ The slides from the workshop are available [here](ULB_workshops/ULB_RICLPM_26110
 
 The R script for the workshopped example is available [here](ULB_workshops/data/RICLPM_sleep_distress.R).
 
-The article for the workshopped example is available [here: sleep and distress](ULB_workshops/articles/Marques_et_al_2021_Increased_sleep_predicts_annual_decreases_in_psychological_distress.pdf).
+The article for the workshopped example is available [here](ULB_workshops/articles/Marques_et_al_2021_Increased_sleep_predicts_annual_decreases_in_psychological_distress.pdf).
 
 Here are some links if you need to download [R](https://cran.r-project.org/) and [R Studio](https://posit.co/download/rstudio-desktop/). The only package we will need is [lavaan](https://lavaan.ugent.be/), which you can install in RStudio using the command *install.packages("lavaan")*.
 
