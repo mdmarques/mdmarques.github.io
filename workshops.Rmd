@@ -13,8 +13,16 @@ The datasets are available here ([personality](ULB_workshops/data/bfi_big5.omv) 
 
 The *dataset solutions* are available here ([personality](ULB_workshops/data/bfi_big5_solution.omv) and [tall poppies](ULB_workshops/data/NFI_TPS_solution.omv)).
 
-The articles/papers mentioned in the second workshopped examples are available [here: tall poppies](ULB_workshops/articles/Feather_1989_Attitudes_towards_the_high_achiever_The_fall_of_the_tall_poppy.pdf) and [here: need for intellection](ULB_workshops/articles/Marques_et_al_2017_A_brief_scale_for_measuring_Anti-Intellectualism.pdf).
+The articles mentioned in the second workshopped examples are available [here: tall poppies](ULB_workshops/articles/Feather_1989_Attitudes_towards_the_high_achiever_The_fall_of_the_tall_poppy.pdf) and [here: need for intellection](ULB_workshops/articles/Marques_et_al_2017_A_brief_scale_for_measuring_Anti-Intellectualism.pdf).
 
 ## ULB RI-CLPM Workshop | 6 November 2026
 
-More information provided soon…
+The slides from the workshop are available [here](ULB_workshops/ULB_RICLPM_261106.pdf) as a pdf.
+
+The R script for the workshopped example is available [here](ULB_workshops/data/RICLPM_sleep_distress.R).
+
+The article for the workshopped example is available [here: sleep and distress](ULB_workshops/articles/Marques_et_al_2021_Increased_sleep_predicts_annual_decreases_in_psychological_distress.pdf).
+
+Here are some links if you need to download [R](https://cran.r-project.org/) and [R Studio](https://posit.co/download/rstudio-desktop/). The only package we will need is [lavaan](https://lavaan.ugent.be/), which you can install in RStudio using the command *install.packages("lavaan")*.
+
+There are some excellent resources [here](https://osf.io/be7yt/wiki/Learning%20R/) and I recommend *Mathew Ling's Crash course in R for Psychs* in 3 hours if you want to get started with the basics.
