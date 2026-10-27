@@ -15,6 +15,9 @@ The *dataset solutions* are available here ([personality](ULB_workshops/data/bfi
 
 The articles mentioned in the second workshopped examples are available [here: tall poppies](ULB_workshops/articles/Feather_1989_Attitudes_towards_the_high_achiever_The_fall_of_the_tall_poppy.pdf) and [here: need for intellection](ULB_workshops/articles/Marques_et_al_2017_A_brief_scale_for_measuring_Anti-Intellectualism.pdf).
 
+Here is a link if you need to download [jamovi desktop](https://www.jamovi.org/download.html). We will be using the module [semlj - SEM](https://semlj.github.io/) which you can install from within jamovi.
+
+
 ## ULB RI-CLPM Workshop | 6 November 2026
 
 The slides from the workshop are available [here](ULB_workshops/ULB_RICLPM_261106.pdf) as a pdf.
